@@ -4,7 +4,7 @@ Chart casting, hexagram generation, and strength calculation all run locally and
 
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-standard-1f6feb)](https://agentskills.org) [![Node](https://img.shields.io/badge/Node-18%2B-339933)](https://nodejs.org) [![零依赖](https://img.shields.io/badge/zero--dep-pure%20Node-3fb950)](https://nodejs.org) [![License](https://img.shields.io/badge/License-NonCommercial(original)-red)](LICENSE) [![Engine](https://img.shields.io/badge/Chart%20Engine-MIT-9747ff)](https://github.com/Renhuai123/ziwei-doushu)
 
-[Intro](#intro) · [Features](#features) · [Quick Start](#quick-start) · [Docs](#docs) · [Install](INSTALL.md) · [Usage](#usage) · [Knowledge Base](#knowledge-base) · [FAQ](#faq) · [Contributing](#contributing) · [License](#license) · [中文](README.md)
+[Intro](#intro) · [Docs](#docs) · [Features](#features) · [Quick Start](#quick-start) · [Install](INSTALL.md) · [Usage](#usage) · [Knowledge Base](#knowledge-base) · [FAQ](#faq) · [Contributing](#contributing) · [License](#license) · [中文](README.md)
 
 ## Intro
 
@@ -15,15 +15,27 @@ Two self-contained agent skills following the Agent Skills open standard, usable
 
 The core idea in one sentence: casting, hexagram generation, and strength calculations are computed locally and deterministically — no AI guessing; the AI only reads and interprets the computed facts. Each skill has three parts — a `SKILL.md` entry index (auto-discovered and read by the agent), load-on-demand methodology documents (`references/`), and a single-file zero-dependency calculation script (runs directly on Node 18+, nothing to install).
 
+The author has practiced metaphysics for eight years with intensive hands-on experience. Liu Yao is at about 70-80% of the author's own level; Zi Wei has been repeatedly tested and shows a reasonable accuracy rate.
+
+## Docs
+
+| Doc | What's inside |
+|---|---|
+| [Zi Wei Dou Shu Skill Intro](docs/ziwei-intro.md) | What it does, strengths, limitations, and roadmap |
+| [Liu Yao Skill Intro](docs/liuyao-intro.md) | What it does, strengths, limitations, and roadmap |
+| [Personal Insights](docs/insights.md) | The author's personal notes on studying and practicing the arts |
+
 ## Features
 
-- **Computation separated from interpretation**: all chart/hexagram facts come from script output; the model never calculates on its own
-- **15-candidate hour inference**: when the birth hour is unknown, verify life events across multiple rounds to eliminate or lock candidates
-- **Three casting methods**: random algorithm (three-coin method, true 1:3:3:1 randomness, reproducible via `--seed`) / manual casting (`--lines`, line by line) / user-specified hexagram (name the hexagram + casting time)
-- **Single-file zero-dependency scripts**: no install, no config, no external services — copy and run
-- **Progressive knowledge loading**: read the SKILL.md index first, open references on demand — no context wasted
-- **Complete/basic dual-mode knowledge base**: Ziwei ships with full retrieval rules; the Liuyao retrieval knowledge base is not open-sourced — its base rules are provided via the injection guide
-- **Traceable state**: sessions, archives, and visualizations persist under `.stars-state/` automatically — no manual state management across turns
+**Others' AI "calculates" fortunes; here the chart is computed.** Chart casting, the four transformations, strength, and timing — 100% deterministic local computation. The same birth data always yields the same chart, with built-in tools to fetch precise charts for any time — free from hallucination errors, the model focuses purely on inference. This dramatically raises the reasoning ceiling.
+
+**Can't recall the birth hour? The 15-candidate inference is unique.** Elders usually only remember "it was getting dark" or "around when the roosters crowed." Fifteen candidate hours are generated and checked against life events you do remember: vague memories are confirmed before exclusion, strong contradictions are excluded outright, exclusion is final, and locking requires the subject's own confirmation. Other charting software just makes you guess.
+
+**True-solar-time calibration — most charting apps skip this.** Metaphysics speaks of the local time of the birthplace; clocks run on standard time. Correcting by birthplace longitude plus the equation of time — a few degrees of longitude can shift an entire hour. Skip this step, and everything after is wasted.
+
+**Clear school lineage.** Liu Yao casting follows 《增删卜易》 and 《卜筮正宗》 as its core, with partial compatibility with 《易隐》; where schools conflict, the author's years of hands-on practice decide.
+
+**AI dares to fabricate; this project does not.** Interpretation lookups always go through knowledge-base retrieval; what is not found is stated plainly. Evidence is layered, unretrieved time layers get no conclusions, tool failures are not extrapolated — the discipline is written into the protocol, not left to model goodwill.
 
 ## Quick Start
 
@@ -37,14 +49,6 @@ node skills/ziwei-agent/scripts/ziwei-calc.mjs retrieve --query "命宫紫微贪
 ```
 
 `retrieve` reports its mode: `mode: "complete"` means the full knowledge base is available; `mode: "basic"` falls back to the simple knowledge in `references/`. Note: the Liuyao retrieval knowledge base is not distributed with this package, so Liuyao `retrieve` always reports `basic` (expected — see Knowledge Base); Ziwei reports `complete`. See [INSTALL.md](INSTALL.md) for per-agent install, upgrade, and uninstall instructions.
-
-## Docs
-
-| Doc | What's inside |
-|---|---|
-| [Zi Wei Dou Shu Skill Intro](docs/ziwei-intro.md) | What it does, strengths, limitations, and roadmap |
-| [Liu Yao Skill Intro](docs/liuyao-intro.md) | What it does, strengths, limitations, and roadmap |
-| [Personal Insights](docs/insights.md) | The author's personal notes on studying and practicing the arts |
 
 ## Usage
 

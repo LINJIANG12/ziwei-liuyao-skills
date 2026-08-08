@@ -4,7 +4,7 @@
 
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-标准-1f6feb)](https://agentskills.org) [![Node](https://img.shields.io/badge/Node-18%2B-339933)](https://nodejs.org) [![零依赖](https://img.shields.io/badge/zero--dep-纯%20Node-3fb950)](https://nodejs.org) [![License](https://img.shields.io/badge/License-NonCommercial(原创)-red)](LICENSE) [![Engine](https://img.shields.io/badge/排盘引擎-MIT-9747ff)](https://github.com/Renhuai123/ziwei-doushu)
 
-[简介](#简介) · [为什么是它](#为什么是它) · [快速开始](#快速开始) · [文档](#文档) · [安装](INSTALL.md) · [使用](#使用) · [知识库](#知识库) · [常见问题](#常见问题) · [贡献](#贡献) · [许可](#许可) · [English](README_EN.md)
+[简介](#简介) · [文档](#文档) · [优点](#优点) · [快速开始](#快速开始) · [安装](INSTALL.md) · [使用](#使用) · [知识库](#知识库) · [常见问题](#常见问题) · [贡献](#贡献) · [许可](#许可) · [English](README_EN.md)
 
 ## 简介
 
@@ -15,7 +15,15 @@
 
 作者学易八年，高强度实战。六爻有本人七八成的水平，紫薇则是经过反复测试具备一定准确率。
 
-## 为什么是它
+## 文档
+
+| 文档 | 内容 |
+|---|---|
+| [紫微斗数技能介绍](docs/ziwei-intro.md) | 我做了什么、优点、限制与未来改进计划 |
+| [六爻技能介绍](docs/liuyao-intro.md) | 我做了什么、优点、限制与未来改进计划 |
+| [命理心得](docs/insights.md) | 作者个人的命理学习与实践心得 |
+
+## 优点
 
 **别人的 AI 在"算"命，这里盘是算出来的。** 排盘、四化、旺衰、应期，100% 本地确定性计算，同一份出生资料永远得到同一张盘，并且内置工具可调取任意时间的精确排盘，不会因幻觉出现错误，将模式专注放在推断本身上。大幅度提高推理上限。
 **时辰记不准？15 候选反推是独一份。** 老人报生辰只说得出"天刚黑""鸡叫的时候"。这里生成 15 个候选时辰，拿你记得住的人生经历逐条核对：模糊记忆先确认再排除，强烈矛盾直接排除，排除即出局，锁定必须命主点头。别家的排盘软件，只会让你猜。
@@ -38,14 +46,6 @@ node skills/ziwei-agent/scripts/ziwei-calc.mjs retrieve --query "命宫紫微贪
 ```
 
 `retrieve` 输出自带模式声明：`mode: "complete"` 表示完整知识库可用；`mode: "basic"` 表示简易模式。注：本包六爻检索知识库不开源，六爻 `retrieve` 恒为 `basic`（预期行为，见「知识库」）；紫微为 `complete`。各 agent 的详细安装、升级与卸载见 [INSTALL.md](INSTALL.md)。
-
-## 文档
-
-| 文档 | 内容 |
-|---|---|
-| [紫微斗数技能介绍](docs/ziwei-intro.md) | 我做了什么、优点、限制与未来改进计划 |
-| [六爻技能介绍](docs/liuyao-intro.md) | 我做了什么、优点、限制与未来改进计划 |
-| [命理心得](docs/insights.md) | 作者个人的命理学习与实践心得 |
 
 ## 使用
 
