@@ -1,0 +1,2517 @@
+{
+  "module": "ziwei",
+  "layer": "retrieval",
+  "category": "love",
+  "count": 46,
+  "items": [
+    {
+      "ruleId": "md-c040606a042d120a2f7b",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1581,
+      "lineEnd": 1585,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "领域总纲",
+      "applicableConditions": "无附加条件",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "- 夫妻宫定配偶、婚姻形态与关系直接状态；命宫定命主的需求、边界和相处姿态；福德宫定内在欲求、亲密感与关系满足。\n- 官禄宫定关系中的权责、工作压力与社会角色；迁移宫定外缘、异地与外部诱因；子女宫定关系结果、子女与创造物。\n- 感情四化：禄主缘分、资源与照顾；权主主导、决策与控制；科主体面、沟通与名声；忌主误解、执着、争执与关系课题。",
+      "specificity": 0,
+      "ruleKind": "foundation_theory",
+      "claimStyle": "theory_or_boundary",
+      "categories": [
+        "love",
+        "palace_structure",
+        "relationship",
+        "sihua",
+        "theory"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 100,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1601,
+      "lineEnd": 1605,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：夫妻宫；必见星曜：紫微；空间：同宫",
+      "conditions": {
+        "palace": [
+          "夫妻宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【紫微在夫妻宫】（帝座、领导星；配偶贵气、婚姻抬地位）\n- 庙旺：配偶的贵气和能量都在顶峰，对方在社会上很有地位，婚姻能给你带来大量贵人资源，是旁人羡慕的婚配（好）\n- 落陷：配偶的贵气打折扣，地位可能不如预期，或两人气场不太匹配，感情里的能量对比容易失衡（中/坏）\n- 化禄（三方有禄也算）：感情路很顺，配偶气质出众，还能给你带来实打实的财禄资源，婚姻能帮你抬高社会地位，另一半是真正的贵人伴侣（好）\n- 化权（三方有权也算）：配偶主导欲很强、是家里说了算的类型，关系里权力博弈明显；要是你也强势，两人容易争执不断（中/风险）\n- 化忌（三方有忌也算）：感情里的重要风险——配偶自尊心极强，容易因为自我、固执弄出婚姻裂痕；或你们自尊相撞、感情反复受挫；化忌主是非，夫妻宫化忌的是非就是婚姻里的摩擦和争执；叠忌分级：1般/2升级/3打击；忌冲对宫（官禄宫）为事件落点，同类宫相冲（流/限夫妻宫飞忌入本命夫妻宫）凶上加凶；建议取晚婚（坏/风险）\n- 逢擎羊同宫（流年/大限引动）：配偶脾气暴躁、强势压人（风险）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-68ceab53047fcfa6aada",
+        "md-09586f9729bd827d4b09",
+        "md-6863ec58f8587598a2c8",
+        "md-bb8adde243a5ddbd9d92",
+        "md-41283180d266bb54e766"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1626,
+      "lineEnd": 1630,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：夫妻宫；必见星曜：天机；空间：同宫",
+      "conditions": {
+        "palace": [
+          "夫妻宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天机"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天机在夫妻宫】（智慧星、善变；配偶聪慧、感情多变）\n- 本性（同宫/会照同义）：配偶聪明机灵（会照读作聪明灵动）、多才多艺、会变通，但感情容易多变，分分合合的可能性不小（中）\n- 落陷（夫妻宫或三方）：另一半的聪明灵活打折，可能变得犹豫不决、没主见，或者感情多变、让人捉摸不透（坏）\n- 化禄：感情靠智慧和沟通走得顺，另一半聪慧能干，你们有共同话题、有智识上的互相吸引，脑力相通，感情路自然顺畅（好）\n- 化忌（同宫/会照同义）：感情的是非多半来自多变和不稳定，感情波折明显；你或另一半可能反复无常，感情分分合合，想得太多反而没法安心投入（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-4496b935d236482aa075",
+        "md-b5651abbf239100c4c6b",
+        "md-cca814615c47e7ef3e9d",
+        "md-d4d15d285d1c1230ece0",
+        "md-057deef9e8a89101af89"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1631,
+      "lineEnd": 1635,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：命宫；必见星曜：天机；空间：同宫",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天机"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天机坐命】（智慧、分析型、善变；感情姿态）\n- 本性：你在感情里很会察觉对方情绪、体贴入微；但分析型思维容易让你想太多、担心太多，反而挡住自然的情感流动；你对感情忠诚，只是好奇心强，容易对多种可能性感兴趣（中）\n- 性格侧面：聪明但容易想太多、有时钻牛角尖，好奇心强但持久性不足；擅长分析和策划却不善于执行到底；感情上多变，分分合合比较常见，理性时很清醒，感性时又容易冲动（中/风险）\n- 另一半特质：聪明灵活、善于变通，多半做顾问、策划、教育、信息技术这类动脑的工作，和你总有聊不完的话题；事业上对方是你的智囊，关键决策帮你出主意，或用自己的人脉给你带机会，是背后实打实支持你的人（好）\n- 相处课题：两人都爱思考，容易陷入\"一起分析、没人执行\"的局面，要有人负责落地（中/风险）\n- 亲密关系：天机主智慧不主激情，你们更重精神契合，身体亲密水到渠成，情感细腻、体验丰富（中/好）\n- 时间层：有宗教缘，或对命理、哲学感兴趣，中年后灵性意识会增强（中）\n- 适用条件：宫位：命宫（本条目含此条件的读法）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-ccf94f313fe8332ae922",
+        "md-8c3b539799b595571cd5"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1651,
+      "lineEnd": 1655,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：夫妻宫；必见星曜：太阳；空间：同宫",
+      "conditions": {
+        "palace": [
+          "夫妻宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阳"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【太阳在感情线】（阳星、名望、事业心；夫星/伴侣取义，男女有别）\n- 本性（夫妻宫同宫/会照同义）：配偶外向积极、有公众魅力、事业心强（好/中）；太阳入庙，配偶阳光开朗、感情顺遂（好）；落陷的话，配偶脾气急躁，或感情被名誉问题牵连（坏）\n- 女命夫星取义：丈夫气度不凡、社会地位高，但忙事业、陪伴时间少；太阳落陷夫星减弱，丈夫的社会地位和形象可能不如预期，或另一半脾气急躁、聚少离多（中/风险）\n- 男命坐命（太阳入命）：感情上热情大方，愿意给伴侣最好的物质条件和社交资源；但\"事业第一\"的惯性让你常常忽略对方的情感需求，感情问题多半出在陪伴不足；你对感情忠诚、不易变心，可外部事务一忙，伴侣容易觉得被冷落（中/风险）\n- 化禄（男命）：感情运顺遂，另一半阳光有魅力，婚姻给命主带来实质帮助，另一半是真正的贵人伴侣（好）；化禄（女命）：命主的丈夫象极佳，丈夫名利双收、形象出众，婚姻给命主的社会地位带来正面提升，是非常理想的夫星配置（好）\n- 化忌（男命）：感情中容易因名誉问题或过于忙碌而影响关系，伴侣可能感到被忽视，风险：感情因外部压力产生裂痕（坏/风险）；化忌（女命）：夫妻宫太阳化忌意味着丈夫名誉可能受影响、或聚少离多、或婚姻因名誉纠纷出现危机；田宅宫太阳化忌主父亲与家庭关系课题；取晚婚（坏/风险）\n- 亲密关系：太阳主火，热情直接，肢体语言丰富，是激情型的关系；要是缺乏深度陪伴，稳定性会下降（中）\n- 名誉课题：你们都重名誉、重形象、在外高调，所以亲密关系里格外需要真实和放松（中）\n- 适用条件：宫位：命宫、夫妻宫（本条目含此条件的读法）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-820ffb8c82c33b9505d4",
+        "md-fead135fbce4dc67fd41",
+        "md-1b0e58a188a9f9830d4a",
+        "md-cdc2a5bb7c7a818292d9",
+        "md-2a59fac87936cebede89",
+        "md-9deb5dd4395c8cf25dce"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1683,
+      "lineEnd": 1687,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：夫妻宫；必见星曜：武曲；空间：同宫",
+      "conditions": {
+        "palace": [
+          "夫妻宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【武曲在夫妻宫】（刚星、财务、行动派；配偶强势务实、磨合期长）\n- 本性（同宫/会照同义）：配偶强势果断、务实重行动，不说甜言蜜语，用行动表达爱；武曲带孤克之气，婚姻磨合期会比较长（中）\n- 配偶能力：好在配偶在财务或事业上往往相当能干，是有实力的伴侣（好）\n- 化禄：感情路走得顺——用行动和财富换感情稳定，另一半欣赏你的实力，婚姻靠共同奋斗稳固下来，财富基础是这段感情最大的支撑（好）\n- 化忌（同宫/三方会照）：\"刑囚之象\"伤夫妻关系，有刑克、婚姻坎坷的风险；武曲化忌亦主紧张烦恼压力、财务课题压感情，婚姻风险高（坏/风险）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-870707d516e82bfe5e46",
+        "md-2da0897891bca11953d1",
+        "md-53baba665f425bfb2a2c"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1688,
+      "lineEnd": 1692,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：命宫；必见星曜：武曲；空间：同宫",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【武曲坐命】（刚星、实干、财务；感情姿态，男女有别）\n- 本性（同宫/会照同义）：典型实干家——目标明确、执行力超强，不爱空谈、只看结果；对自己和他人要求都高，有时显得严苛；感情上不善言辞、用行动表达爱意，但伴侣可能因为缺言语表达而感到被忽视（中）\n- 男命：直接务实，不擅长说浪漫话，但行动力强，用行动证明爱——帮对方解决问题、提供稳定的物质基础，就是你的爱的语言；对感情认真，一旦确定就不轻易放弃，只是有时太理性，让伴侣感受不到温度（中/好）\n- 女命：气质偏刚、性格果决、不够柔婉，婚姻阻力比较大；不装柔弱、不依赖人，但强势独立的气质往往让男性望而却步、难长期相处；对伴侣要求极高、不愿将就、宁缺毋滥；建议取晚婚（二十八岁后）（中/坏）\n- 化忌（在命宫或夫妻宫）：婚姻风险更高，要多磨合、慎重（坏/风险）\n- 伴侣匹配：另一半多半有实力、让你信服；伴侣要是务实稳重、财务能力强、能一起奋斗，关系匹配度就高；对方个性刚毅、有主见、行动力强，多半做金融、工业、军警、外科或管理类工作，雷厉风行、有担当（好）\n- 相处课题：你们都刚强、缺柔软，沟通容易\"硬碰硬\"，温柔表达不足（中/风险）\n- 亲密关系：武曲有股刚直之气，直接有力、不拖泥带水，身体语言坦率，不爱绕弯子（中）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-73f0af1a4b1c7010d8fc",
+        "md-6595764687467cda1fbf",
+        "md-fd62ea62211325bf85f8"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1708,
+      "lineEnd": 1712,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：夫妻宫；必见星曜：天同；空间：同宫",
+      "conditions": {
+        "palace": [
+          "夫妻宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天同"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天同在夫妻宫】（福星、安逸；配偶温柔体贴、婚姻幸福）\n- 本性（同宫/会照同义）：感情顺遂，配偶温柔体贴，婚姻生活幸福美满，是夫妻宫里比较吉利的配置；两人生活和谐、享受共同时光（好）\n- 风险：要小心过得太安逸就懒得经营感情，长期平淡会让感情慢慢冷却（风险）\n- 化禄：幸福感加倍，婚姻顺遂，另一半温柔体贴、生活和谐，是夫妻宫里最幸福的格局之一（好）\n- 化忌：婚姻福分受损，感情波折多，生活里容易出现不和谐，两人幸福感下降；要是共同体验不够，感情活力会更低；天同化忌亦主福德受损、生活波折（坏）\n- 禄忌交战（同宫禄忌并存）：福中带波折，级别加重，需主动经营维持热度（风险）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-598b535c9851b3840af1",
+        "md-fec754b2d442f93cbefc",
+        "md-7b4bce3f951b2b39e943",
+        "md-019aa6c20d4cd811a662"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1733,
+      "lineEnd": 1737,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：命宫；必见星曜：廉贞；空间：同宫",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "廉贞"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【廉贞入命】（桃花星、次桃花；感情魅力强、纠纷风险）\n- 本性（男命）：在感情上有强烈的个人魅力，天生吸引人，感情世界丰富；但正因如此容易招桃花纠纷，感情路波折多；投入时热烈，退出也果断，不会在无望的感情里耗太久，可冲动决定有时会后悔（中/风险）\n- 另一半特质：有个人特色、才艺出众、外表有吸引力，多半做艺术、媒体、法律、军警或与美相关的工作，在人群里很有存在感；但对方的感情经历可能不简单，也可能是桃花旺的人（中）\n- 事业交互：对方能间接帮你，尤其在人际关系和形象打造上，但也可能因感情纠纷消耗你的精力和资源（中）\n- 相处：两人都有较强的个人意志，都不轻易低头，激情火花强，争执起来也激烈（中/风险）\n- 亲密关系：廉贞是桃花星，亲密关系里有天然的磁性吸引力，化学反应强、情欲能量旺；关系稳不稳，取决于激情和长期根基哪个占上风（中）\n- 化禄：桃花旺盛，异性缘极好，感情运顺遂，容易遇到多个追求者，婚姻机会增加；但要小心桃花泛滥，选择一多反而难以辨别真正合适的人，容易失焦（好/风险）\n- 化忌（三方/流年引动）：官非、债务、投诉、审查等是非牵连感情；坐流夫忌冲流官+天刑=婚姻牵连官非（坏/风险）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "pattern",
+        "relationship",
+        "sensitive_decision",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-fa6956cb2e749f4e6650",
+        "md-c8688753c3b12b57ac53"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1753,
+      "lineEnd": 1757,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：夫妻宫；必见星曜：天府；空间：同宫",
+      "conditions": {
+        "palace": [
+          "夫妻宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天府"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天府在夫妻宫】（南斗令星、财库；配偶稳重、婚姻稳定）\n- 本性（同宫/会照同义）：配偶稳重可靠、重视家庭责任，婚姻比较稳定，是长期陪伴型伴侣（好）\n- 庙旺（夫妻宫或三方）：配偶稳重可靠、财务能力强，婚姻基础扎实，是让人安心的伴侣（好）\n- 落陷（夫妻宫或三方）：另一半的稳重特质打折，可能显得过于保守、缺乏进取心（中/坏）\n- 缺点：偏保守，缺浪漫和惊喜，要小心婚姻趋于平淡；配偶管钱往往很有一套，是家里的稳定支柱，只是情感表达比较内敛（好/风险）\n- 化权化禄引动（流/限引动）：配偶当家做主、经营理财能力显，婚姻资源升级（好）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-124456f2c7778802bf97",
+        "md-bf864751ba1952421e3e",
+        "md-4a02c2c001cf5b68ad7c",
+        "md-aab8c37a58190ac45063"
+      ]
+    },
+    {
+      "ruleId": "md-b24c5ae9911d7b611cd4",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1758,
+      "lineEnd": 1762,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "必见星曜：天府；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天府"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【命带天府】（南斗令星、财库；感情姿态）\n- 本性：你在感情上稳重踏实，把感情看得很严肃，不轻易开始一段关系，但一旦承诺就会全力守护，是能给足安全感的伴侣——物质有保障、情感靠得住（好）\n- 另一半特质：稳重端庄、有积蓄有规划、不浮夸不张扬，多半在政府机关、银行、会计或大型机构工作，性格内敛但心里有主见，越相处越觉得踏实（好）\n- 事业支撑：对方是你坚实的后盾，用稳健的资源人脉给你打底，不是冲在前面的人，而是帮你守大本营的人（好）\n- 相处课题：你们都内敛保守，相处平和稳定、少有剧烈冲突，但生活一成不变时感情活力会下降，要小心感情变得过于一成不变（风险）\n- 亲密关系：以安全感和信任为基础，不急不躁，越久越有质量；风险是过于平淡（中）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1773,
+      "lineEnd": 1777,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：夫妻宫；必见星曜：太阴；空间：同宫",
+      "conditions": {
+        "palace": [
+          "夫妻宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【太阴在感情线】（阴星、温柔、财星；婚姻质量，男女有别）\n- 本性（同宫/会照同义）：配偶温柔细腻、重情调、体贴，婚姻质量比较高（好）\n- 亮度：太阴入庙，感情甜蜜顺遂（好）；落陷的话，伴侣情绪波动大，或感情被情绪问题拖累（坏）\n- 落陷分述：女命自身气质与感性减弱、感情路稍有波折（中）；男命妻星减弱，妻子的贤良富贵特质打折，或妻子体质偏弱、情绪起伏大（中/坏）\n- 化禄（男命）：妻财最旺，妻子贤良富贵，婚姻是命主最大的财运来源，妻子越好命主越旺，是绝佳的婚姻格局（好）；化禄（女命）：感情路顺遂，自身气质最佳，另一半被命主的温柔富贵所吸引，婚姻幸福安稳（好）\n- 化忌（男命）：婆媳问题是婚姻最大隐患，妻子与母亲的关系易生冲突，婚姻调和成本高，另外风险：妻子健康问题或感情上的忧郁情绪影响婚姻（坏/风险）；化忌（女命）：感情忧愁，容易在感情中过度敏感、多愁善感，担心失去而陷入情绪漩涡，需建立内在安全感（坏）\n- 异地/迁移引动（太阴坐迁移/流限引动）：夫妻在外住、聚少离多；太阴+空劫+左右=搬来搬去；太阴化科=短期出差（中）\n- 适用条件：宫位：夫妻宫；宫位：命宫、夫妻宫（本条目含此条件的读法）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-22b0bfcb50188ba851b3",
+        "md-df082aa54003101e8221",
+        "md-dfdf5930d2ee86d8a155",
+        "md-70249607f3f590de5730",
+        "md-5693cf24e0f628b9d0a8"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1783,
+      "lineEnd": 1787,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：命宫；必见星曜：太阴；空间：同宫",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【太阴坐命】（阴星、温柔、审美；感情姿态，男女有别）\n- 本性：内心细腻敏感、富有同情心、审美力超群，喜欢幽静、不善争竞（中/好）\n- 女命：多美貌，气质温婉优雅、有艺术天赋；在感情上细腻敏感，对情感有很高的审美要求，重视氛围、情调和细节，把感情当艺术经营；你最怕被忽视或粗糙对待，情感上的伤往往比身体上的伤更难愈合（中）\n- 男命：多情，容易受感情困扰，内心世界丰富但不善外露（中/风险）\n- 情绪课题：太阴守命最怕情绪受影响——月亮阴晴圆缺，你的情绪也随之波动；情绪化时两人容易互相影响，要小心情绪叠加放大负面感受（风险）\n- 另一半特质：温柔体贴、重情调、懂浪漫，多半做设计、艺术、房产或金融理财这类与美相关的行业，感情成熟细腻，能给足你被珍视的感觉（好）\n- 家庭经营：对方也用心经营家庭氛围，你们的家会是充满美感和温度的地方；事业上对方是滋养型的支持——用稳定的家庭环境让你全心投入工作，还可能在房产、理财上给你实质帮助（好）\n- 亲密关系：讲究情调与氛围，需要情绪和环境配合，讲究过程和感受，氛围对了能量极强，化学反应细腻绵长（中/好）\n- 适用条件：宫位：命宫（本条目含此条件的读法）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-42de52156d3866837bda",
+        "md-db8dfc65746bf6112d8b"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1806,
+      "lineEnd": 1810,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：夫妻宫；必见星曜：贪狼；空间：同宫",
+      "conditions": {
+        "palace": [
+          "夫妻宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【贪狼在夫妻宫/感情线】（桃花星、欲望、才艺；感情热烈、第三者风险）\n- 本性（同宫/会照同义）：感情热烈，配偶多才多艺、有魅力，但桃花旺，要小心第三者（中/风险）\n- 庙旺（无四化引动）：欲望强烈、多才多艺、口才绝佳、爱享受，社交能力极强，桃花很重；早年容易分散精力，耽于享乐和感情；中年后逐渐专注，才华开始转化为实质成就；好奇心旺盛，对新事物永远充满热情，是天生的艺人、社交达人或创业者（中）\n- 竞争格（贪狼=追求目标标准的狼性）：感情中追求标准高、竞争性强，易与竞争者拉锯（中/风险）\n- 化禄：桃花大旺，感情机会多、异性缘极佳，容易同时遇到好几个意向对象；才艺还能增加彼此吸引力；课题是在众多选择里辨别真正合适的人，要小心桃花过盛反而失焦（好/风险）\n- 化忌：桃花变成是非——容易遇到不靠谱的对象，或因为感情关系惹上各种麻烦纠纷，烂桃花多、阻碍明显、纠纷误解增加，要小心感情误入歧途（坏）\n- 逢火铃同宫：感情可能因突发事件一下子爆发或破裂（风险）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation",
+        "support_stars"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-b13002999852aed9ced9",
+        "md-65f80ac5e7ad781b4aa5",
+        "md-b0252abdf056e7396836",
+        "md-662d53f3c5764e28108a",
+        "md-80b330b7d8607378fbbc"
+      ]
+    },
+    {
+      "ruleId": "md-4c1ea78f04734d502707",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1816,
+      "lineEnd": 1820,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "性别：女命；必见星曜：贪狼；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【贪狼坐命（女命）】（桃花星、欲望；魅力强、稳定性弱）\n- 本性：天生魅力强、桃花旺、外表有吸引力，容易成为人群焦点；和男命贪狼不同，女命贪狼身边追求者虽多，真正值得托付的却没几个（中/风险）\n- 感情模式：你在感情里热情主动，享受激情和新鲜感，但稳定性偏弱，感情一定下来反而容易失去热情（中/风险）\n- 另一半：才艺出众、社交能力强、自己也有魅力，你们在社交场合是引人注目的一对（中）\n- 化忌：烂桃花风险明显，容易陷入纠纷、消耗自己（坏）\n- 适用条件：- 规则：  命宫贪狼，天生有强烈（本条目含此条件的读法）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1831,
+      "lineEnd": 1835,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：夫妻宫；必见星曜：巨门；空间：同宫",
+      "conditions": {
+        "palace": [
+          "夫妻宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "巨门"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【巨门在夫妻宫】（口舌、是非、暗星；口角多、沟通是课题）\n- 本性（同宫/会照同义）：感情里口舌之争较多，配偶口才好，但也正因为能说，容易吵起来（中）\n- 化禄：口才变成甜言蜜语，感情改善；沟通能力强是最大优势，另一半欣赏你的表达，感情里话语的温度决定关系的质量（好）\n- 化忌：是非口角是感情里最大的隐患——容易因为说错话、误解或口舌争执伤感情，言语矛盾加剧、口舌之争容易积累成伤害；要是倾听不够，口舌带来的伤害会越积越深（坏）\n- 禄忌交战（同宫禄忌并存）：言语课题级别加重，甜言与口角并存，需控言慎行（风险）\n- 暗财联动（巨门主暗财、转介绍费）：巨门化禄坐福德=外水意外之财，感情线与暗财机缘联动（中/好）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-4c41ba71df33aef925e4",
+        "md-e2d3dcdb89b116e91341",
+        "md-7b4fb97a17bfe2b970f6",
+        "md-5958f3ae0aef977c4b6a"
+      ]
+    },
+    {
+      "ruleId": "md-f4cb2bb8c94675148598",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1836,
+      "lineEnd": 1840,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "必见星曜：巨门；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "巨门"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【命带巨门】（口舌、是非、暗星；感情姿态）\n- 本性：你在感情里善于表达，能用言语说清自己的感受和需求，这是优势；但太直接或话太多时容易变成争执，是非口舌是你感情里的一大挑战（中）\n- 相处模式：你心里其实很认真，只是有时嘴比心快，说出伤人的话，事后又后悔；另一半口才好、有主见、有立场，不会因为你说话直接就退让，多半做律师、教育、媒体或销售类工作，有话直说、逻辑清晰、不藏心事（中）\n- 相处课题：言语交锋是日常，既是乐趣也是战场；你们都有主见、都不轻易服软，争执聚焦在问题上而不是分胜负时，感情会更稳（中）\n- 事业助力：对方最大的助力在谈判、人际沟通和信息资源上，帮你解读复杂局面，或用自己的社交圈给你带来信息和机会（好）\n- 亲密关系：巨门的感情有\"越了解越深入\"的特质，身体亲密建立在充分沟通和信任之上，情感连接越深，关系越好（中/好）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1851,
+      "lineEnd": 1855,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：夫妻宫；必见星曜：天相；空间：同宫",
+      "conditions": {
+        "palace": [
+          "夫妻宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天相"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天相在夫妻宫】（印星、辅佐、忠厚；配偶忠实、婚姻稳定）\n- 本性（同宫/会照同义）：配偶忠实可靠、重承诺，婚姻稳定，是长期陪伴型伴侣；感情以稳定和谐为主，浪漫激情不足，但忠诚度高，是经营长久婚姻的好配置（好）\n- 庙旺（夫妻宫或三方）：配偶忠厚老实、可靠负责，是踏实的伴侣，婚姻基础扎实，生活稳定（好）\n- 落陷（夫妻宫或三方）：另一半忠厚可靠的特质打折，可能有点优柔寡断（中/坏）\n- 风险：感情容易流于平淡，热度随时间下降（风险）\n- 三方忌煞（尤其擎羊）冲印：婚姻文书/契约课题——登记、婚约、法律文书流程障碍，或因文书是非伤婚姻（坏）；天相本身不四化，忌煞来自三方引动\n- 逢吉（权印/贵人）：有管理和批准色彩，关系稳定升级、文书顺利（好）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-b8a89cbaae67b58b038e",
+        "md-cb392676c5fa24ea8065",
+        "md-72c76df9596d54b80e62",
+        "md-02a44dce1d2c38468c8d"
+      ]
+    },
+    {
+      "ruleId": "md-d4c46a0c818a9d6047fa",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1856,
+      "lineEnd": 1860,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "必见星曜：天相；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天相"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【命带天相】（印星、辅佐、忠厚；感情姿态）\n- 本性：你在感情上忠诚踏实，把承诺看得很重，是\"认定了就不轻易放弃\"的伴侣，稳定可靠是你最大的优势；你不擅长主动经营关系，缘分多来自熟悉的环境，但一旦确定关系，会用稳定的行动长期经营（好）\n- 另一半特质：忠厚可靠、有规矩、处事成熟，多半做行政、法律、财务或大型机构相关工作，不张扬但内有主见，外表低调内心丰富，越相处越能发现价值（好）\n- 事业支撑：对方是你稳定的支撑，在行政、流程或资源整合上给你实质帮助，把各种事情安排妥当，是典型的贤内助/贤外助（好）\n- 相处课题：你们都偏稳重踏实，生活有条不紊、极少大矛盾，相处舒服；但也因为太稳，感情热度容易随时间下降（中/风险）\n- 亲密关系：温厚踏实，亲密关系重安全感和信任，越深越融洽，你们都不是追求刺激的人，享受在深度了解基础上的自然亲近（中/好）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "pattern",
+        "relationship",
+        "sensitive_decision",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1871,
+      "lineEnd": 1875,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：夫妻宫；必见星曜：天梁；空间：同宫",
+      "conditions": {
+        "palace": [
+          "夫妻宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天梁"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天梁在夫妻宫】（荫星、长辈、照顾者；宜晚婚、照顾关系课题）\n- 本性（同宫/会照同义）：婚姻里容易扮演\"长辈照顾者\"，或者配偶年纪有差距，或两人有明显的照顾与被照顾关系；宜晚婚，不取早婚；感情里有照顾与被照顾的需求，关系的平衡度是课题（中）\n- 无引动定性：处事老道、有长辈缘，喜欢帮助别人，有济世情怀，精神世界丰富；独立性强、不依赖他人，有孤克倾向，内心比较孤寂；适合晚婚，感情里喜欢扮演照顾者的角色，有时显得过于老成或保守，难融入同龄人群体（中/风险）\n- 化禄：感情较顺（好）\n- 化忌：容易感情孤寂（坏）\n- 化科：你靠名声或学识吸引对象，伴侣注重文化品位，你们的共同话题多在学识和精神层面（好）\n- 配偶取义（天梁=领导师傅长辈）：照顾/带领关系明显，需平衡照顾与被照顾（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-092a3965d14278639be6",
+        "md-24f24981ffcce848c542",
+        "md-acd35b5b1b19c00534ec",
+        "md-868a07a54ab81470e22b"
+      ]
+    },
+    {
+      "ruleId": "md-1c0b8da28a977540ac88",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1881,
+      "lineEnd": 1885,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "性别：女命；必见星曜：天梁；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天梁"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天梁坐命（女命）】（荫星、长辈、孤克；宜晚婚、精神要求高）\n- 本性：性格独立高冷，有超越年龄的成熟感，对感情的精神要求很高，一般男性很难走进你内心，婚姻阻力比较大（中/坏）\n- 关系模式：你常扮演引导者或保护者，习惯照顾对方、给意见，但这反而让关系不平等，另一半容易感到压力、最终离开（坏/风险）\n- 时间层：天梁女命宜晚婚；三十岁后心性更成熟、期待更实际，比较容易找到合得来的伴侣（中）\n- 匹配：对方能在精神层面滋养你，你才愿意放下防御、享受亲密（中）\n- 课题：你的感情课题是学会示弱、降低道德标准、接受伴侣的不完美（中）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1896,
+      "lineEnd": 1900,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：夫妻宫；必见星曜：七杀；空间：同宫",
+      "conditions": {
+        "palace": [
+          "夫妻宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "七杀"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【七杀在夫妻宫】（将星、刚决、孤克；感情激烈、强强联合）\n- 本性（同宫/会照同义）：配偶个性强势、处事果决，感情激烈，婚姻里冲突和拉锯比较多，不容易平和（中）\n- 三方有吉化加持：反而强强联合，共同成就更多（好）\n- 庙旺（夫妻宫或三方）：配偶一样强势果决，你们是势均力敌的伴侣，婚姻里竞争和磨合并存，但强强联合的时候成就感极高（中/好）\n- 落陷（夫妻宫或三方）：配偶的强势减弱，可能变得犹豫不决，相处时多半由你引导、主导；要小心两人都在等对方拿主意，事情拖下来（中）\n- 三方化忌影响夫妻宫：感情里孤克之气比较重，婚姻波折多；建议取晚婚，减少感情变动（坏/风险）\n- 煞星聚宫（本宫+三方四正≥4煞）：夫妻宫必有不愉悦事件（坏）\n- 地支细分（配偶性格/职业）：寅申=边疆将军型（功劳看不见）；巳亥=战斗将军型（有权能发挥）；辰戌=入库将军型（有能力屈于环境）；卯酉=会吉混财圈、会煞（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-73e4968db953c6721ab7",
+        "md-2d48f74e42b84ca577d4",
+        "md-bf66fbcc795b098105c5",
+        "md-84f2b95cd523de3fbfe1",
+        "md-b692ea43a6115a706e20"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1906,
+      "lineEnd": 1910,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：命宫；必见星曜：七杀；空间：同宫",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "七杀"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【七杀坐命】（将星、刚强、孤克；感情姿态，男女有别）\n- 本性：目大、性急、多疑，意志力极强，独立自主、不服管教，有武将气质；感情上比较孤克，婚姻多磨合；独立与依赖并存是你的特点（中）\n- 配偶匹配：配偶若个性也强势，关系张力大，需要更多沟通经营（中/风险）\n- 女命：性格太过刚强独立，对感情要求极高，接受不了平庸或不对等的关系，婚姻要多磨合；天生有点男子气概，独立自主、不肯低头，宁可单身也不将就，伴侣往往达不到你的期望而离开（中/坏）\n- 时间层（女命）：七杀女命孤克重；不结婚或晚婚的质量高于早婚，三十岁后婚姻更容易匹配，二十岁出头结婚磨合压力大（中）\n- 配偶宜：比你强势、或在某个领域让你信服，还要能包容你的独立、给你足够空间（中/好）\n- 人生重心：事业成就往往是你的人生重心；建议三十岁后婚配，找成熟稳重、有担当的伴侣（中）\n- 适用条件：宫位：命宫（本条目含此条件的读法）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-29c10fea8066a8cfec5d",
+        "md-11224ceab37475934104"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1926,
+      "lineEnd": 1930,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：夫妻宫；必见星曜：破军；空间：同宫",
+      "conditions": {
+        "palace": [
+          "夫妻宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "破军"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【破军在夫妻宫】（破耗星、变动、开创；感情变动多、非传统婚姻）\n- 本性（同宫/会照同义）：感情变动多，非传统型婚姻关系比较多见，可能有多段感情经历，或与配偶有年龄差距（中）\n- 庙旺（夫妻宫或三方）：配偶个性独特，关系不太平稳但充满激情；两人共同开创的经历，反而是婚姻里最珍贵的财富（中/好）\n- 化禄（感情宫位或三方）：\"破而后立\"，感情经历波折后终成正果，可能有第二春，或在感情里得到物质方面的滋润，婚后生活逐渐改善（中/好）\n- 化忌（感情宫位或三方）：感情破坏力极强，婚姻变动风险高，感情伤害可能比较深；叠忌分级：1般/2升级/3打击；建议取晚婚，别冲动决定（坏/风险）\n- 循环模式（破军=破旧迎新、忍无可忍而产生改变）：感情变动常由\"忍无可忍\"触发——破而后立、变动后重建（中/风险）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-500931f496bcf1d794f2",
+        "md-b44aa44e62b1a8679f0d",
+        "md-3742ee1cb51dbbef2ae0",
+        "md-fcb05ce4d03d2f20aca5",
+        "md-cce840d19a8fc6fdeb8c"
+      ]
+    },
+    {
+      "ruleId": "md-0956daa803b52ddbe99c",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1956,
+      "lineEnd": 1963,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "亮度：陷不利；必见星曜：廉贞、破军；空间：全局",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "dim"
+        ],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [
+        "廉贞",
+        "破军"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "- 定性：桃花星（次桃花）、武官带\n  - 长相：眯眯眼（眼睛看过去一条线）、长相清秀\n  - 典型场景：带兵到边疆去打仗，一个人去打仗\n  - 落陷：廉贞破军在亥宫 = **自杀格**",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 78,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-319759fa0b4522a0282d",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1972,
+      "lineEnd": 1980,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：命宫；亮度：庙旺；性别：女命；必见星曜：破军；空间：全局",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [
+        "破军"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "破军庙旺守命宫的女命，定性是\"流浪在外、有专业技术专长、捧着饭碗走天下\"：个性孤僻、自守、闭关自守，跟他说半天还是按自己的来；长相偏瘦，怎么养都不胖；对钱财不看重。英星入庙（破军子/午宫守命）男女有别：男人最好，发武官（军警、法官、外交官）；女人比较孤单，个性非常孤僻，瘦瘦干干，婚姻都会晚。",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 78,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-2d7cb83930b9a0ed842d",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1981,
+      "lineEnd": 1986,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：夫妻宫；四化：忌；空间：会照",
+      "conditions": {
+        "palace": [
+          "夫妻宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "- 需看三方四正，科权禄会合才好\n  - 夫妻宫化忌对冲主感情课题加重：关系波折、责任压力，具体走向须结合夫妻宫主星、亮度与流年/小限引动判断",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation",
+        "time_layer"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-8f4531c5eb92161ee9f3",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1993,
+      "lineEnd": 1998,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "必见星曜：紫微、廉贞、贪狼；空间：对宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "opposite",
+      "requiredStars": [
+        "紫微",
+        "廉贞",
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "- 紫微辰戌宫 + 廉贞寅申独守 + 贪狼对宫\n  - 出武官 / 商人（商人后期毁在桃花）",
+      "specificity": 3,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 75,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-ffe2fe7d751b416226d3",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2005,
+      "lineEnd": 2012,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：命宫、官禄宫；必见星曜：天机；空间：全局",
+      "conditions": {
+        "palace": [
+          "命宫",
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [
+        "天机"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "天机在命宫、官禄宫，核心是智慧、反应、机变和计划。官禄宫、命宫对应咨询、策划、技术、教育、研究和信息处理；负向修正是多变、想得多、执行分散，文昌文曲是成器的支持条件。天机在婚姻中常被解释为需要精神交流和空间，但稳定性要看煞曜、四化与目标宫。",
+      "specificity": 3,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "relationship",
+        "sihua",
+        "star_interpretation",
+        "support_stars"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 100,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-99b734b0fcc39b58ce95",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2013,
+      "lineEnd": 2020,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：命宫、夫妻宫、官禄宫；必见星曜：紫微、天府、七杀；空间：对宫",
+      "conditions": {
+        "palace": [
+          "命宫",
+          "夫妻宫",
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "opposite",
+      "requiredStars": [
+        "紫微",
+        "天府",
+        "七杀"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "七杀在命宫、夫妻宫、官禄宫（对宫紫微天府成七杀朝斗格），核心是将星、果断、急、刚和孤克。官禄宫对应军警、法官、外科、竞争和创业；七杀朝斗需同时满足命宫位置与对宫紫微天府的条件。夫妻宫读取为强势、边界和冲突管理问题。",
+      "specificity": 6,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 75,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-54c3f69bbf8b7aa3663b",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2021,
+      "lineEnd": 2027,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：迁移宫、官禄宫；亮度：庙旺；四化：禄；性别：女命；必见星曜：破军；空间：全局",
+      "conditions": {
+        "palace": [
+          "迁移宫",
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [
+          "禄"
+        ],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [
+        "破军"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "破军庙旺在迁移宫、官禄宫又化禄的格局，女命尤为典型。核心是破旧、开创、流动、技术和不重守成；迁移宫、官禄宫适合异地、专业技术、转型、创业和变化环境；破军化禄读取为\"破而后立\"的资源重组。",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 68,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-699c6011296d007c085b",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2028,
+      "lineEnd": 2032,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "无附加条件；空间：全局",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "断感情时，把关系的开始、稳定、冲突、分手、结婚和法律离婚分开定义、分开判断，不要用一句\"感情不顺\"当作统一终点。",
+      "specificity": 0,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "love",
+        "relationship",
+        "sensitive_decision"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 100,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-c68e43002db2ec69ead4",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2033,
+      "lineEnd": 2037,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：命宫；必见星曜：紫微；空间：会照",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【紫微坐命】（帝座、领导星；感情姿态）\n- 本性：你是天生的领导者：主观强势，一旦决定就不容易改，不服管教，渴望被人仰视而不是平等对话；感情上比较自我，习惯以自己为中心处理关系，晚婚倾向明显（中/风险）\n- 忠诚：但一旦认定伴侣，就比较稳定忠诚（好）\n- 课题：你内心深处渴望成就和被认可，有时太在意面子会做出不理性的决策；能不能接受别人的意见，是你的课题（中/风险）\n- 适用条件：宫位：命宫（本条目含此条件的读法）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 92,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-006ff072288db1e76bcc",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2063,
+      "lineEnd": 2067,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：命宫、子女宫、父母宫；亮度：庙旺；四化：忌；性别：女命；必见星曜：太阳；空间：会照",
+      "conditions": {
+        "palace": [
+          "命宫",
+          "子女宫",
+          "父母宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "太阳"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【太阳在子女/亲子线（女命）】（阳星、名望；子女取义）\n- 本性：命宫、子女宫、父母宫会照太阳的女命，子女阳光外向、有公众魅力，社会发展比较好；这个配置下子女的象征意义尤其重要，你和儿子感情深厚（好）\n- 入庙：子女出色（好）\n- 落陷：子女和父母聚少离多，或因外部压力发展受阻（中/坏）\n- 化忌：眼疾或名誉问题可能影响子女（坏/风险）",
+      "specificity": 5,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 60,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-f9f7171e84a00d1e39aa",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2118,
+      "lineEnd": 2122,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：财帛宫；亮度：庙旺；四化：禄、忌；必见星曜：廉贞；空间：会照",
+      "conditions": {
+        "palace": [
+          "财帛宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "廉贞"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【廉贞在财帛宫】（桃花星、才艺、官非；感情与财联动）\n- 本性：钱来自才艺、人脉或创意，财路多元但也多变；要小心因桃花或感情问题破财，以及情绪冲动下的不理性支出（中/风险）\n- 化禄：才艺能变现、财运旺，贵人来带财机（好）\n- 化忌：钱财从桃花路上流失，感情消耗财运（坏）",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 70,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-fbcb1f7a96c5994f7528",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2128,
+      "lineEnd": 2132,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：交友宫；四化：忌；必见星曜：廉贞；空间：会照",
+      "conditions": {
+        "palace": [
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "廉贞"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【廉贞在交友宫】（桃花星、官非；朋友与是非取义）\n- 本性：朋友里多才艺型、感情丰富的人，社交圈活跃；但朋友圈里的感情纠纷也多（中）\n- 化忌：朋友关系容易因感情或官非问题生变，要小心被朋友牵连进是非（坏）",
+      "specificity": 3,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-55dd98d37d67ce2992e6",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2138,
+      "lineEnd": 2142,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：福德宫；亮度：庙旺；四化：忌；必见星曜：廉贞；空间：会照",
+      "conditions": {
+        "palace": [
+          "福德宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "廉贞"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【廉贞在福德宫】（桃花星、欲望；精神享受取义）\n- 本性：精神享受丰富，爱好广泛、兴趣多元，喜欢美食、艺术和情感体验；桃花气旺在精神层面就是丰富的感情世界（中/好）\n- 化忌：精神层面纠葛多，感情困扰会影响内心安宁（坏）",
+      "specificity": 3,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 70,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-108b79fdc21e3e91e7cd",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2163,
+      "lineEnd": 2167,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：命宫、兄弟宫；四化：禄、忌；性别：女命；必见星曜：太阴；空间：会照",
+      "conditions": {
+        "palace": [
+          "命宫",
+          "兄弟宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【太阴在兄弟/合伙线（女命）】（阴星、温柔；兄弟姐妹与合伙取义）\n- 本性：兄弟姐妹温柔细腻，家庭关系富有情感；兄弟姐妹中可能有女性成员在感情或财务上对你影响很大；合伙人也细腻敏感、善于处理复杂关系（中/好）\n- 化禄：兄弟财运好、助力丰厚（好）\n- 化忌：兄弟姐妹之间容易生嫌隙（坏）\n- 适用条件：宫位：命宫、兄弟宫（本条目含此条件的读法）",
+      "specificity": 5,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 72,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-443dafbf2a15ee2d037f",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2173,
+      "lineEnd": 2177,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：命宫、子女宫、父母宫；亮度：庙旺；四化：禄、忌；性别：女命；必见星曜：太阴；空间：会照",
+      "conditions": {
+        "palace": [
+          "命宫",
+          "子女宫",
+          "父母宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【太阴在子女/亲子线（女命）】（阴星、温柔；子女取义）\n- 本性：子女秀气温柔、感情细腻，和父母感情好、亲子关系融洽；太阴主女性，女儿缘好（好）\n- 化禄：子女富贵（好）\n- 入庙：子女相貌出众（好）\n- 落陷：子女体质偏弱、情绪敏感（中/坏）\n- 男命化忌：子女与母亲关系复杂（坏/风险）\n- 适用条件：宫位：命宫、子女宫、父母宫（本条目含此条件的读法）",
+      "specificity": 6,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 60,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-2cb78f67ed73fe43114c",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2178,
+      "lineEnd": 2182,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：命宫、迁移宫、田宅宫；亮度：庙旺；四化：忌；性别：女命；必见星曜：太阴；空间：会照",
+      "conditions": {
+        "palace": [
+          "命宫",
+          "迁移宫",
+          "田宅宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【太阴在迁移/田宅线（女命）】（阴星、温柔、财星；外出与家宅取义）\n- 本性：外出平和，适合在文化、艺术、金融、田宅相关行业出外发展，外出有贵人助力（好）\n- 入庙：外出财运旺、田宅机会多（好）\n- 落陷：外出情绪起伏大、不适应环境（中/坏）\n- 化忌：外出时感情困扰多（坏/风险）\n- 适用条件：宫位：命宫、迁移宫、田宅宫（本条目含此条件的读法）",
+      "specificity": 5,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 60,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-cde2b61045cfbff97c2c",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2183,
+      "lineEnd": 2187,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：命宫、交友宫；四化：禄、忌；性别：女命；必见星曜：太阴；空间：会照",
+      "conditions": {
+        "palace": [
+          "命宫",
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【太阴在交友线（女命）】（阴星、温柔；朋友与下属取义）\n- 本性：朋友多温柔细腻型，女性朋友缘好，社交圈感情丰富；下属细心、服务意识强（中/好）\n- 化禄：女性贵人多（好）\n- 男命化忌：女性友人带来是非或情感纠纷（坏/风险）\n- 适用条件：宫位：命宫、交友宫（本条目含此条件的读法）",
+      "specificity": 5,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 72,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-cb9e4a7fc1d71185d185",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2198,
+      "lineEnd": 2202,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：兄弟宫；亮度：庙旺；四化：禄、忌；必见星曜：贪狼；空间：会照",
+      "conditions": {
+        "palace": [
+          "兄弟宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【贪狼在兄弟宫】（桃花星、欲望、才艺；兄弟与合伙取义）\n- 本性：兄弟姐妹多才多艺、个性活跃、桃花旺、社交广；合伙关系有才艺互补的优势，但也可能因为欲望和利益分配闹矛盾（中）\n- 化禄：合伙生财顺遂（好）\n- 化忌：兄弟感情因欲望纠纷破裂（坏）",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 70,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-903efb31cded7f95c1d8",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2208,
+      "lineEnd": 2212,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：子女宫；亮度：庙旺；四化：禄、忌；必见星曜：贪狼；空间：会照",
+      "conditions": {
+        "palace": [
+          "子女宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【贪狼在子女宫】（桃花星、欲望；子女取义）\n- 本性：子女多才多艺、桃花旺、社交活跃；亲子关系里子女独立性强，有自己的欲望和追求（中）\n- 化禄：子女有偏财运；早年子女可能虚华，晚年成就更好（中/好）\n- 化忌：子女感情纠纷多（坏）",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 70,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-10d8439b30061b34685a",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2213,
+      "lineEnd": 2217,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：迁移宫；四化：禄、忌；必见星曜：贪狼；空间：同宫",
+      "conditions": {
+        "palace": [
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【贪狼在迁移宫】（桃花星、欲望；外出桃花与偏财取义）\n- 本性：外出桃花多，感情机遇常出现在旅途和异地；外出才艺展示机会多，社交圈在外地更广（中）\n- 火铃同宫：外出偏财机会大增（好）\n- 化禄：外出广结善缘、财运活跃（好）\n- 化忌：外出感情是非多（坏）",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation",
+        "support_stars"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-9a3ea772df40a29c1f51",
+      "chapter": "二、专门领域知识",
+      "section": "2.12 现代场景映射规则",
+      "lineStart": 4259,
+      "lineEnd": 4263,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "现代婚恋途径",
+      "applicableConditions": "宫位：夫妻宫；必见星曜：红鸾；空间：同宫",
+      "conditions": {
+        "palace": [
+          "夫妻宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "红鸾"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "夫妻宫坐红鸾，现代的婚恋途径——相亲、婚恋平台、朋友介绍、网恋奔现——都是夫妻宫外缘的现代形式，不改变夫妻宫定关系模式的传统取义。红鸾、天喜只表示关系入口活跃；网恋和异地恋还须兼看迁移宫与福德宫。",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-e3440474ee606eb116d1",
+      "chapter": "二、专门领域知识",
+      "section": "2.12 现代场景映射规则",
+      "lineStart": 4264,
+      "lineEnd": 4268,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "晚婚与不婚",
+      "applicableConditions": "宫位：夫妻宫；空间：同宫",
+      "conditions": {
+        "palace": [
+          "夫妻宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "夫妻宫主婚姻时机，晚婚在现代多读为对关系质量要求高、先立业后成家或社交圈受限；不婚与独身主义，读为福德宫自主意识强、对婚姻持选择态度。",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    }
+  ]
+}

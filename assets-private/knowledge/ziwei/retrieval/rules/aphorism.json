@@ -1,0 +1,6763 @@
+{
+  "module": "ziwei",
+  "layer": "retrieval",
+  "category": "aphorism",
+  "count": 127,
+  "items": [
+    {
+      "ruleId": "md-ba280830805bbcc1cd03",
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 651,
+      "lineEnd": 655,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "命格总纲",
+      "applicableConditions": "宫位：命宫；必见星曜：紫微；空间：同宫",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【紫微坐命】（帝座、北斗主星；领导型命格，本性主贵）\n- 本性：天生贵气，是典型的领导型命格——自尊心极强、好面子、主观固执、领导欲旺盛，做事有章法，气场压人；相貌红光满面、双目圆大、圆脸、皮肤白皙、中等身材偏壮实，外表雍容，举止自带尊贵感（好）\n- 无左辅右弼相佐（孤君无辅）：再贵也是孤掌难鸣，需借团队与辅佐之力（风险）\n- 三方四正没有化禄辅助（「紫微守命，贵而不富」）：有地位而财力相对不足，富贵难两全（中/风险）\n- 三方四正有化禄辅助：地位与财力兼得，富贵两全（好）\n- 创业/单打独斗：紫微不主动生财，靠职位带动收入，要小心冒险创业、单打独斗（风险）\n- 适用条件：宫位：命宫（本条目含此条件的读法）\n- 逢擎羊/铃星（羊铃加临）：体格偏壮实高大——破军英挺叠加煞星壮实之象（高大魁梧读法）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "overview",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-01fd87c65559324d7b19",
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 696,
+      "lineEnd": 700,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "命格总纲",
+      "applicableConditions": "四化：忌；必见星曜：紫微；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【紫微化忌守命】（帝星受伤；化忌主是非，集中於尊严与地位）\n- 化忌坐命：自尊心最容易遭受打击——一生容易遇到否定你、打压你的人或事，要小心持续自我怀疑（坏）\n- 风险在意气用事：遇事先稳住心态，忌情绪对抗（风险）\n- 大限/流年化忌再引动（叠忌）：尊严与地位课题升级，避免争权夺位式的冲突（坏/风险）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "overview",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 711,
+      "lineEnd": 715,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "命格总纲",
+      "applicableConditions": "宫位：命宫；必见星曜：天机；空间：同宫",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天机"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天机坐命】（智星、善变；本性机变多才，但一生变动较多）\n- 本性：聪明机变、善策划、多才多艺，思维灵活敏锐；相貌清秀，身材修长，面目灵动（好）\n- 取辅佐型岗位（策划、咨询、信息技术、宗教哲学、教育皆宜）：天机「善变」，独当一面反而不利（好）\n- 兴趣广泛、博而不专：早年容易频繁换方向，专注一两个领域方能有大成（风险）\n- 感情上多变不专一：理性与感性并存，有宗教或哲学方面的兴趣，内心世界丰富深刻（中/风险）\n- 命宫会照天机：读法与坐命相同，同取辅佐型岗位（好）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "overview",
+        "palace_structure",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-ca0380fac3438bb166e7",
+        "md-915e47e60e2b21155e11"
+      ]
+    },
+    {
+      "ruleId": "md-4785b013e782776814f1",
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 756,
+      "lineEnd": 760,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "命格总纲",
+      "applicableConditions": "四化：忌；必见星曜：天机；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天机"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天机化忌守命】（智星化忌；多变焦虑的特质被放大到最强）\n- 化忌坐命：「化忌主是非」，天机化忌的麻烦是思虑过多、决策失误带来的——容易陷入反复纠结、难以决断的状态（坏）\n- 感情多波折、神经系统承压：重要决定要多给自己缓冲时间（坏/风险）\n- 涉及借贷/资金周转：天机化忌主周转不灵，注意资金链（风险）\n- 大限/流年化忌再引动（叠忌）：决策课题升级，忌冲动拍板（坏/风险）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "overview",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-17db461c2c08c4c0f4b5",
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 771,
+      "lineEnd": 775,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "命格总纲",
+      "applicableConditions": "宫位：命宫；必见星曜：太阳；空间：同宫",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阳"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【太阳坐命】（阳星主贵；本性重名声与地位甚于实际财富积累）\n- 男命本性：「太阳主贵，太阴主富」——重名声与地位甚于财富；胸怀广阔、热情公正、具公众魅力，最宜政界、管理层、公众服务领域（好）\n- 入庙（卯至申宫）：大吉，名利兼收（好）\n- 落陷（酉至寅宫）：劳而无获，付出多回报少（坏）\n- 女命太阳守命：「父夫子三男象」——太阳主男性象，人生轨迹紧紧绕着父亲、丈夫、儿子三大男性贵人转动；丈夫公众形象好、事业心强，但相处时间有限（中）\n- 本性：处事光明磊落、不藏心机，重名誉与面子，有博爱精神；外表阳光，声音宏亮（好）\n- 适用条件：宫位：命宫（本条目含此条件的读法）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "overview",
+        "palace_structure",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-5f94c13dc8e9e64ef7f4",
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 811,
+      "lineEnd": 815,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "命格总纲",
+      "applicableConditions": "性别：女命；必见星曜：太阳；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阳"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【女命太阳坐命】（太阳=丈夫、父亲、儿子、兄弟等男性象征；命格与重要男性深度绑定）\n- 本性：天性外向热情、博爱公正，有阳光磁场，在公众场合极受欢迎，人缘甚佳；慷慨大度、乐于助人，重名誉与公正，是朋友圈里最受信赖的人（好）\n- 入庙（卯至申宫）：一生贵人多、丈夫形象出众、名利皆有缘（好）\n- 落陷（酉至寅宫）：另一半可能聚少离多或名誉受损，婚姻稳定性取决于耐心与磨合（坏/风险）\n- 太阳化忌：名誉问题或丈夫的是非会对生活产生直接冲击（坏）\n- 欣赏有成就、有担当的男性，但对方忙于事业可能让你感到孤单（中/风险）\n- 适用条件：则：  命主的命宫太阳，太阳对女命（本条目含此条件的读法）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "overview",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-f5d25246b3dd36c94818",
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 831,
+      "lineEnd": 835,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "命格总纲",
+      "applicableConditions": "四化：忌；必见星曜：太阳；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阳"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【太阳化忌守命】（阳星化忌；眼疾与名誉受损双重风险）\n- 化忌坐命：主眼目之灾，以及「劳而无获」的付出困境——努力与认可之间容易出现落差，旁人看不到你的付出，或名誉受到无端损害（坏）\n- 付出模式转为「默默耕耘」：付出与回报不对等（中/风险）\n- 落陷加忌：更要及时换方向，避免无效努力（坏/风险）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "overview",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-20e4e1acf57b83219733",
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 846,
+      "lineEnd": 850,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "命格总纲",
+      "applicableConditions": "宫位：命宫；必见星曜：武曲；空间：同宫",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【武曲坐命】（财星王、刚星；本性刚毅果决、善理财执行）\n- 本性：财气最重的主星之一——处事果决干脆、寡言少语、重义气，不善表达情感，行动力胜于言语；身材多为五短而壮实，有金属般的质感与硬度（好/中）\n- 「五短主贵，亦主富」：武官加财星双象，求财求事业皆有本钱（好）\n- 感情上较为孤克：不善温柔，婚姻需要缘分配合（风险）\n- 武曲化忌：为「刑囚之星」，手术、血光、官司风险增加；亦主紧张烦恼压力、财务必有问题（坏）\n- 适用条件：宫位：命宫（本条目含此条件的读法）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "overview",
+        "palace_structure",
+        "pattern",
+        "sensitive_decision",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 856,
+      "lineEnd": 860,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "通用规则",
+      "applicableConditions": "四化：禄；必见星曜：武曲；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【武曲化禄】（财星得禄；14主星中最强的大富格局之一）\n- 化禄守命/坐命：财上加财、财来至旺——「武曲是财星王」，化禄等于财上加财，是最强的财富格局之一，适合财禄经营与企业经营，求财路子可以走得比常人更宽（好）\n- 自己做生意或担任财务主管：皆大吉，金融、工业、资产管理方向都能做出大成就（好）\n- 化禄=金钱喜悦得财：财来得喜悦顺遂（好）\n- 取大胆扩展事业版图：财富积累速度远超同辈（好）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "overview",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-7e79950167371d74731c",
+        "md-eb09150dc2465eb6d6b3"
+      ]
+    },
+    {
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 891,
+      "lineEnd": 895,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "命格总纲",
+      "applicableConditions": "宫位：命宫；必见星曜：天同；空间：同宫",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天同"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天同坐命】（福星；本性温和乐天，福禄较厚）\n- 本性：性情温和、乐天知命，一生福禄较厚，虽少大富贵但可平安享福——「坐食天禄，有福可享」；生活质量通常不差，精神享受重于物质积累，福分深厚，不爱争竞、随遇而安（好）\n- 职业：适合服务业、艺术创作、教育、儿童相关行业（好）\n- 过于安逸：可能影响进取心（风险）\n- 桃花较旺：感情生活丰富（中）\n- 庙旺（会照/守命）：福星得力，福分更深（好）\n- 适用条件：宫位：命宫（本条目含此条件的读法）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "overview",
+        "palace_structure",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-7de60524079adbce33ba",
+        "md-194c82f21f4032ffd3a9"
+      ]
+    },
+    {
+      "ruleId": "md-21f6160a6658f88a41e6",
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 911,
+      "lineEnd": 915,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "通用规则",
+      "applicableConditions": "四化：科；必见星曜：天同；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "科"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天同"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天同化科】（福星化科；名声与专业技能兼备）\n- 化科坐命：在文教或服务领域有一定成就，受人尊重（好）\n- 福星加化科：温和的福气多了名声光环，口碑是最大的资产（好）\n- 化禄化科同论：轻松顺遂（好）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "overview",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-863147164225b44254d8",
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 931,
+      "lineEnd": 935,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "命格总纲",
+      "applicableConditions": "四化：忌；必见星曜：天同；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天同"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天同化忌守命】（福星化忌；福德受损）\n- 化忌坐命：生活顺遂感明显降低——原本「坐食天禄」的人，因化忌而享受不到该有的福分（坏）\n- 感情多波折、生活中不顺心事增多：幸福感打折，要学会主动调节心态（坏/风险）\n- 化权化忌同论：因无聊安逸而生压力——安逸变煎熬，需主动给生活找事做（风险）\n- 大限/流年化忌再引动（叠忌）：福损课题升级（坏/风险）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "overview",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 946,
+      "lineEnd": 950,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "命格总纲",
+      "applicableConditions": "宫位：命宫；必见星曜：廉贞；空间：同宫",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "廉贞"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【廉贞坐命】（才艺星、次桃花；本性刚烈富激情、文武兼备）\n- 本性：才艺多样、桃花颇旺，性格刚烈而富激情，兼具文武之才，是复杂而有魅力的星曜——「腰缠玉带，衫披桃花」；天生有吸引力（中/好）\n- 长相：廉贞守命者「眼神迷离，见到美色未言先笑，长相清秀」——外表吸引人，但感情复杂（中）\n- 职业：适合法律、创意、艺术、政界（好）\n- 风险：感情纠纷与血光之灾；处事有魄力但情绪化明显，容易冲动决策；感情上投入深，也因此容易受伤或陷入纠纷（风险）\n- 廉贞遇七杀、破军、贪狼组合：人生多重大转折与波折，须结合亮度、四化与运限判断（风险/中）\n- 适用条件：宫位：命宫（本条目含此条件的读法）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "overview",
+        "palace_structure",
+        "pattern",
+        "sensitive_decision",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-8c6b6815cdb022787d45",
+        "md-30f6e031dafb8fd6a926"
+      ]
+    },
+    {
+      "ruleId": "md-0c7cb1d0fde0e6f23295",
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 961,
+      "lineEnd": 965,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "通用规则",
+      "applicableConditions": "四化：权；必见星曜：廉贞；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "权"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "廉贞"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【廉贞化权】（才艺星化权；才华有了掌控力的加持）\n- 化权坐命：在法律、政治或创意领域有强势掌控力，可积累一定社会影响力，做事魄力十足（好）\n- 才艺复杂+化权：才华与权力加持，魄力十足（好）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "overview",
+        "pattern",
+        "sensitive_decision",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 971,
+      "lineEnd": 975,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "通用规则",
+      "applicableConditions": "四化：忌；必见星曜：廉贞；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "廉贞"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【廉贞化忌】（次桃花星化忌；血光官非凶象）\n- 化忌坐命/守命：血光、官司、感情纠纷是三大风险——廉贞化忌主血光官非与色情纠纷；一生中容易无端招惹是非，感情纠葛可能引发官司或人身安全问题（坏）\n- 化忌入财帛宫或三方（坐流财）：财务纠纷——财容易因感情纠葛、法律官司、意外手术大额流失（坏）\n- 化忌坐流福：名誉精神困扰（坏）\n- 化忌坐流兄：合伙纠纷（坏）\n- 化忌坐流夫忌冲流官+天刑：婚姻牵连官非（坏）\n- 廉贞亦主官非、债务、赌债、投诉、审查、安检、复杂流程（坏/风险）\n- 冲动行事是最大风险：遇事要冷静，远离是非与灰色地带，感情与财务往来都要谨慎（风险）\n- 大限/流年化忌再引动（叠忌）：凶象升级（坏/风险）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "overview",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-77007f1c5f4d6507f190",
+        "md-a43fa56210a0075a88f0"
+      ]
+    },
+    {
+      "ruleId": "md-bfa5fffa7dc5aac34803",
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 1021,
+      "lineEnd": 1025,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "命格总纲",
+      "applicableConditions": "宫位：命宫；必见星曜：太阴；空间：同宫",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【太阴坐命】（月亮、财星；本性细腻主富，最讲究亮度）\n- 本性：感情细腻、富有美感、主富，是命盘里最重要的财富星之一——「月亮要亮才好」；内心细腻、审美力强，对家庭环境要求高，房产是天生的财库，与田宅财库经营有缘（好）\n- 入庙（子至巳宫后段）：月光皎洁则大富贵（好）\n- 落陷：月色昏暗、情绪波动多、财运欠稳（坏）\n- 女命：太阴最吉——月主阴柔，与女命气场最为相合，主美貌、富贵与田宅之福；「太阴在命宫的女孩很漂亮」（好）\n- 男命：感情丰富，易受女性影响，情绪较敏感（中）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "overview",
+        "palace_structure",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-57a297b9c7f1a38ff720",
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 1061,
+      "lineEnd": 1065,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "命格总纲",
+      "applicableConditions": "四化：禄；必见星曜：太阴；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【太阴化禄守命】（月亮得禄；财运最旺）\n- 化禄守命：田宅财帛皆旺，田宅财库经营是最佳财路（好）\n- 女命：此格局为大富之象（好）\n- 男命：妻财丰厚，妻子是最大的贵人（好）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "overview",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-e694ca48edca370e03c7",
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 1081,
+      "lineEnd": 1085,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "命格总纲",
+      "applicableConditions": "亮度：庙旺；必见星曜：太阴；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【太阴入庙】（子至巳宫，月亮最圆最亮；富贵气质达到顶峰）\n- 入庙坐命：标准的富格——财富与家宅之福都往高处走（好）\n- 女命：此格为大富贵之象（好）\n- 男命：妻子极为贤良美丽（好）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "overview",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 86,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 1091,
+      "lineEnd": 1095,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "命格总纲",
+      "applicableConditions": "宫位：命宫；必见星曜：贪狼；空间：同宫",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【贪狼坐命】（桃花星、欲望星；本性多才多艺、社交能力一流）\n- 本性：欲望旺盛、多才多艺、口才极佳、社交能力一流——「贪狼除了指桃花星，也指酒色财气赌，统统在贪狼里面」；天生有强大的吸引力（中/好）\n- 容易沉迷享乐、难以专注一件事：早年虚华，中晚年才是真正的成就时期（风险）\n- 逢火星或铃星：形成「火贪格」或「铃贪格」，有暴富之机（好/风险）\n- 庙旺会照：桃花星守命，社交与才艺之象更旺（好）\n- 适用条件：宫位：命宫（本条目含此条件的读法）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "overview",
+        "palace_structure",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-bd3104e928c3b6428a6c",
+        "md-997aa1c47ca980bffcae"
+      ]
+    },
+    {
+      "ruleId": "md-a5f3029cfe1b91b9424d",
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 1131,
+      "lineEnd": 1135,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "命格总纲",
+      "applicableConditions": "四化：忌；必见星曜：贪狼；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【贪狼化忌守命】（桃花星化忌；桃花变是非）\n- 化忌守命：「癸年生人贪狼化忌」——桃花变是非，感情欲望化为感情纠纷（坏）\n- 多才艺变为多耗散：化忌年份要小心意外桃花引发的困扰，感情中的是非会牵连其他生活领域（坏/风险）\n- 大限/流年化忌再引动（叠忌）：感情是非课题升级（坏/风险）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "overview",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-0ca6b4bf15fccb9db030",
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 1181,
+      "lineEnd": 1185,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "命格总纲",
+      "applicableConditions": "四化：忌；必见星曜：巨门；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "巨门"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【巨门化忌守命】（口舌星化忌；是非加倍）\n- 化忌守命：口舌是非最重——巨门在朋友宫「跟朋友合伙会朋友变仇人」，化忌则是非加倍（坏）\n- 言语纠纷、官司口舌是最大的人生困扰：要小心多嘴惹祸，说话前多过脑子（坏/风险）\n- 社交圈的是非会持续消耗精力（坏/风险）\n- 大限/流年化忌再引动（叠忌）：口舌是非课题升级（坏/风险）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "overview",
+        "pattern",
+        "sensitive_decision",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 1196,
+      "lineEnd": 1200,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "命格总纲",
+      "applicableConditions": "宫位：命宫；必见星曜：天相；空间：同宫",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天相"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天相坐命】（印星；本性厚道忠诚、辅佐型）\n- 本性：为人厚道忠诚，取辅佐型职业——行政、法务、秘书助理，位高而权轻；天相「位高无权」，适合做副手而非一把手（中/好）\n- 踏实可靠是最大优势，忠诚守信是最佳品质（好）\n- 一生中有贵人提携：取与强势的领导搭档，在辅佐的过程中实现自身价值（好）\n- 逢吉（权印/贵人）：有管理和批准色彩，能升职，文书顺利（好）\n- 三方忌煞（尤其擎羊）冲印：文书流程障碍、行政或法律事务受阻（坏）——天相本身不四化（天相不化忌），忌煞来自三方引动\n- 逢忌煞小人：办事不诚实、出卖公司之象（坏）\n- 命宫会照天相：读法与坐命相同，同取辅佐型职业（好）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "overview",
+        "palace_structure",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-cd5317f3c856aab5ea95",
+        "md-2537d6842bb10dd28356"
+      ]
+    },
+    {
+      "ruleId": "md-6bc05db2c44b1522b315",
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 1281,
+      "lineEnd": 1285,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "命格总纲",
+      "applicableConditions": "宫位：命宫；必见星曜：七杀；空间：同宫",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "七杀"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【七杀坐命】（将星；本性孤独果决、有冒险精神）\n- 本性：孤独果决、意志坚强、有冒险精神，取军警、创业、高风险高回报行业；性格天生孤克，一生多奋斗（中/好）\n- 七杀朝斗格（子午宫或寅申宫，对宫紫微天府）：「爵禄荣昌」，主武职大贵，是化凶为吉的上等格局（好）\n- 人生多取自力奋斗：靠自身的意志力与执行力征服一切（中）\n- 地支细分：寅申=边疆将军，功劳看不见；巳亥=战斗将军，有权能发挥；辰戌=入库将军，有能力屈于；卯酉=会吉混财圈、会煞（中/风险）\n- 七杀=谈判者高能力、决定性快速之事：适合谈判、决断型岗位（好）\n- 适用条件：宫位：命宫（本条目含此条件的读法）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "overview",
+        "palace_structure",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 1311,
+      "lineEnd": 1315,
+      "domain": "personality",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "性格行为",
+      "applicableConditions": "宫位：命宫；必见星曜：破军；空间：同宫",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "破军"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【破军坐命】（变动星；本性叛逆自由、破而后立）\n- 本性：个性叛逆、不守常规、追求自由，六亲缘薄，感情多波折；外形偏瘦，内心孤芳自赏，有强烈的独立意识（中/风险）\n- 专业技术专长是立足之本：破军主「捧着饭碗走天下」，靠手艺与本事在外漂泊立业，最忌守旧居家（好）\n- 破而后立：在打破中创造新的格局；职场循环——辞职→新工作积极→变化（忍无可忍而产生改变）（中/好）\n- 破军=破旧迎新、改革变动、煽动励志：适合改革、开创型位置（中/好）\n- 命宫会照破军：读法与坐命相同（中）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "palace_structure",
+        "pattern",
+        "personality",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-e09bdf0f1e352483c7e0",
+        "md-8024ddda2dfb5c43cb2f"
+      ]
+    },
+    {
+      "ruleId": "md-bfa3ab6c328e55fb0ebd",
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 1394,
+      "lineEnd": 1399,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "通用规则",
+      "applicableConditions": "必见星曜：天同；空间：全局",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [
+        "天同"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天同人和】（天同=「人和」的星，主张同舟共济）\n- 本性：「平天下的时候，人和大于地利，地利大于天时」——天同入命者以和为贵，靠人和赢天下，是天同的基本定性（好）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "overview",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 100,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-3d1462f027dbd77d0710",
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 1400,
+      "lineEnd": 1406,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "通用规则",
+      "applicableConditions": "宫位：命宫；四化：禄；性别：女命；必见星曜：太阳、巨门；空间：全局",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄"
+        ],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [
+        "太阳",
+        "巨门"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【女命巨日格】（女命命宫化禄，太阳坐命、巨门对会）\n- 成格：成「巨日格」——「一辈子用不完的钱」，巨门化禄主口才生财（好）\n- 男女差别明显：女人唠叨啰嗦主偏房，男人能言善道主富贵——女命此格要把口才用在正经财路上（风险/中）\n- 化禄引动年份：口才生财之年（好）",
+      "specificity": 4,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "overview",
+        "palace_structure",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 70,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-1c387b7ab6bba100f2f2",
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 1490,
+      "lineEnd": 1497,
+      "domain": "personality",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "性格行为",
+      "applicableConditions": "宫位：命宫；四化：禄；性别：女命；空间：全局",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄"
+        ],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【女命命宫化禄】（禄=财禄钱财；性守）\n- 命宫化禄：可能是小气鬼、守财奴（「性守」）（中/风险）\n- 男命身体特征：鼻子（狮鼻、悬胆鼻为大富）（好）\n- 女命身体特征：手枯干；气色上眼睛眯眯，是赚大钱时开心得眯起来的样子（中/好）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "palace_structure",
+        "personality",
+        "sihua"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 80,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-b95d0a526b6abb6f4d83",
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 1498,
+      "lineEnd": 1504,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "通用规则",
+      "applicableConditions": "宫位：命宫；空间：全局",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "命宫看格局要辩证：「格一样，宫不一样，批起来是相反的」；「命好不如限好」，运限往往比本命更关键；「官带星越大，官做得越大」。这三个口诀是命宫论断时的约束规范。",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "overview",
+        "palace_structure"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 100,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1586,
+      "lineEnd": 1590,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：夫妻宫；必见星曜：紫微；空间：同宫",
+      "conditions": {
+        "palace": [
+          "夫妻宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【夫妻宫紫微】（帝星入夫妻；配偶强势有地位）\n- 本性：配偶气质不凡，有帝王般的存在感与强烈的自我意识，同样主观强势、不轻易低头（中）\n- 「双帝争位」：两人婚姻中容易出现各执己见的局面，取晚婚（风险）\n- 对宫（命宫）有化禄：感情较顺遂（好）\n- 配偶在社会上有一定地位或气场，是能够令人信服的伴侣（好）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-97ef61d006fb9ca2e651",
+        "md-e0aec91f969b8136e55e"
+      ]
+    },
+    {
+      "ruleId": "md-cf4d61b753499720d37c",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1591,
+      "lineEnd": 1595,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "性别：男命；必见星曜：紫微；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命紫微守命·感情】（帝星男命；主导欲强）\n- 本性：感情中主导欲强，希望伴侣以自己为中心，但同时也会给对方强大的保护和物质支撑，是「要面子但也负责任」的伴侣（中/好）\n- 感情起步晚：晚婚质量远高于早婚（中）\n- 另一半气质不凡、有一定社会地位或身份背景，本身有主见、有能量，绝非依附型——对方甚至可能比命主更有存在感，让人又欣赏又较劲（好/中）\n- 事业上另一半有实质帮助：可能是人脉来源或精神支撑（好）\n- 双方都强势：争执难免，但旗鼓相当才会互相尊重，感情有棋逢对手的张力；亲密关系有庄重感，激情不是主轴（中）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "love",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-5277d533e46e824d322d",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1596,
+      "lineEnd": 1600,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "性别：女命；必见星曜：紫微；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【女命紫微守命·感情】（帝星女命；主导欲强）\n- 本性：性格主导欲强，在感情中期望伴侣以自己为中心（中）\n- 另一半往往气质不凡、有身份地位，可能是社会精英型男性——在圈子里有一定威望，任何场合都能撑起场面，让人自豪（好）\n- 感情起步晚：晚婚质量远高于早婚；关系稳定取决于互相尊重而非争高下（中/好）\n- 另一半对事业有实质支持：可能是人脉来源或精神支柱（好）\n- 双方都强势：争执难免，但旗鼓相当才会互相尊重，有棋逢对手的张力（中）\n- 适用条件：- 规则：  命宫紫微，性格主导欲（本条目含此条件的读法）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-915649f5e5d42ed8ccb1",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1661,
+      "lineEnd": 1665,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "性别：女命；必见星曜：太阳；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阳"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【女命太阳坐命·感情】（太阳=丈夫、父亲、儿子等男性象征；另一半是太阳型男性）\n- 本性：另一半阳光有魅力、事业心旺盛、外向热情，在社会上有一定知名度或地位，是令人瞩目的伴侣（好）\n- 入庙（卯至申宫）：丈夫形象极佳、顾家且有担当（好）\n- 落陷（酉至寅宫）：另一半脾气急躁、名誉欠佳，或聚少离多、相处时间有限（坏/风险）\n- 太阳化忌：感情或婚姻容易受到名誉纠纷、外遇问题的干扰（坏）\n- 女命太阳落陷：丈夫往往聚少离多或形象受损，取晚婚，待感情磨合后再定（风险）\n- 适用条件：则：  命主的命宫太阳，太阳对女命（本条目含此条件的读法）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-74a0b0c21ce30c9494bd",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1703,
+      "lineEnd": 1707,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "四化：忌；必见星曜：武曲；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【武曲化忌·感情】（财星化忌；刑囚之气影响感情）\n- 化忌入感情：婚姻中容易因金钱纠纷、意外事故或双方刚硬性格的冲突而产生裂痕（坏）\n- 女命武曲化忌：「寡宿」加忌是双重孤克，取晚婚且婚前长期磨合（风险）\n- 大限/流年引动（叠忌）：感情课题升级，财务与感情的边界要划清（坏/风险）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "love",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-41e0a65145ee72f792d5",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1713,
+      "lineEnd": 1717,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "必见星曜：天同；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天同"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天同坐命·感情】（福星；温柔体贴、以和为贵）\n- 本性：感情上温柔体贴、以和为贵，给伴侣舒适、无压力、被接纳感；享受共同生活的温馨日常，对另一半物质要求不高，更看重情感陪伴与默契（好）\n- 另一半温和有福气、重视生活品质和精神享受：可能从事服务业、艺术、设计、餐饮或和美感相关的工作，是能在家里创造舒适氛围的人（好）\n- 事业上另一半是润滑剂：是背后稳定的港湾（好）\n- 双方都温和、不爱争吵：少有激烈冲突，但过于安逸会使感情失去活力（中/风险）\n- 亲密关系温柔绵长：注重情感接近而非激情，自然放松、像老朋友一样，随着时间越来越有默契（好）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "love",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1728,
+      "lineEnd": 1732,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：夫妻宫；必见星曜：廉贞；空间：同宫",
+      "conditions": {
+        "palace": [
+          "夫妻宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "廉贞"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【夫妻宫廉贞】（才艺星入夫妻；感情激烈而波折）\n- 本性：配偶有才艺与魅力，但桃花重，要小心第三者介入或感情纠纷（风险）\n- 化忌：血光或官非与感情相关，严重时可能有大的婚姻变故（坏）\n- 化禄：才艺加持、感情顺遂，人脉带来好的姻缘（好）\n- 禄忌同在：婚姻走向要看运限引动（中/风险）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-76c89409a3fc1c239fc5",
+        "md-f223fb2bb269e2337756"
+      ]
+    },
+    {
+      "ruleId": "md-8bccac10a757f4e00386",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1738,
+      "lineEnd": 1742,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "性别：女命；必见星曜：廉贞；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "廉贞"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【女命廉贞坐命·感情】（廉贞对女命不主桃花，反而贞节清秀）\n- 本性：与男命截然不同——「贞节清秀、出污泥而不染」；外表清丽端庄、气质不凡，有天然的威严感，举止有度，不轻易与人过分亲近（好）\n- 感情上并不多情，反而相当挑剔：对爱情认真严肃，不轻易动心，一旦决定则坚定执着（好/中）\n- 对方要能欣赏才华与独立，而不是单纯被外表吸引（中）\n- 廉贞化忌：要注意感情中的争执与官非风险，或婚姻中第三者的介入——但和男命的桃花风流性质完全不同，女命廉贞化忌更多是「无端招惹是非」而非风流（坏/风险）\n- 整体感情路稳重：晚婚质量高，感情经营以精神契合为优先（好）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "love",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-81d1443ea3c2681b595c",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1748,
+      "lineEnd": 1752,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "四化：忌；必见星曜：廉贞；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "廉贞"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【廉贞化忌·感情】（才艺星化忌；感情纠纷与血光并存）\n- 化忌入感情：感情中容易遭遇不诚实的伴侣，或因感情纠葛引发争执甚至危及人身安全，感情路曲折（坏）\n- 感情课题上要格外谨慎：看人要慢、投入要稳（风险）\n- 大限/流年化忌再引动（叠忌）：感情变故风险升级（坏/风险）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "love",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-78f5d88c9c1046616ef4",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1778,
+      "lineEnd": 1782,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "性别：男命；必见星曜：太阴；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命太阴坐命·感情】（太阴=妻子、母亲、女儿等女性象征；另一半是太阴型女性）\n- 本性：另一半温柔细腻、善解人意、气质娴静优雅，有富贵的气质，往往相貌秀丽动人（好）\n- 入庙（子至巳宫）：妻子贤良淑德、婚姻美满（好）\n- 落陷（午至亥宫）：妻子性格较为内敛忧郁，或体质偏弱（中/风险）\n- 自己感情上温柔细腻、体贴入微：但有时情绪敏感、容易想太多（中）\n- 太阴化忌：妻缘有波折，感情容易因误会或情绪问题产生裂痕（坏）\n- 妻子是命中贵人：感情线极为重要，妻缘越好，财运也越旺（好）\n- 适用条件：则：  命主的命宫太阴，太阴对男命（本条目含此条件的读法）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-13b8d3a1a2500f53cc53",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1811,
+      "lineEnd": 1815,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "性别：男命；必见星曜：贪狼；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命贪狼坐命·感情】（桃花星男命；魅力强、稳定性偏弱）\n- 本性：感情上有天然的魅力和吸引力，桃花旺盛，容易在不经意间让旁人着迷；享受感情中的激情和新鲜感，但稳定性偏弱，感情稳定后容易失去热情（中/风险）\n- 另一半才艺出众、社交能力强、外表有吸引力：可能从事艺术、娱乐、餐饮、商贸或个人特色行业，是饭桌上能让全场活跃的人（中/好）\n- 事业上另一半的帮助主要在拓宽人脉和社交圈：偏财方面容易有化学反应（好）\n- 双方都追求乐趣和自由：可能是朋友眼中的「神仙伴侣」，但皆重自由时关系易因缺乏根基而松散（风险）\n- 亲密关系化学反应强烈、激情指数高：要注意把激情转化为深层的连接（中/风险）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "love",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-004c434602f5f5580772",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1876,
+      "lineEnd": 1880,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "性别：男命；必见星曜：天梁；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天梁"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命天梁坐命·感情】（荫星男命；重品格、往往晚婚）\n- 本性：思虑深远，对另一半的要求不只是外表和条件，更重视对方的品格和人生态度，宁可等待也不愿将就，因此往往是晚婚（中/好）\n- 感情中常扮演引导者或保护者的角色：习惯照顾对方，但也容易无意间形成不平等的关系模式（中/风险）\n- 另一半成熟稳重、有一定的人生阅历：可能年龄或经历上有差距，善于处理复杂局面，可能从事法律、医疗、教育、宗教或咨询类工作（好）\n- 对方在精神层面有启发和支撑：关键选择上能给深度意见，也可能以权威地位为发展背书（好）\n- 双方成熟独立、君子之交：不需要时刻粘在一起，各自保留空间；亲密关系带有精神上的庄重感，重质不重量（好）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "love",
+        "pattern",
+        "relationship",
+        "sensitive_decision",
+        "sensitive_health",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-f8be29e96147edb2c4be",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1886,
+      "lineEnd": 1890,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "四化：禄；必见星曜：天梁；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天梁"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天梁化禄·感情】（荫星化禄；庇护之力落在感情上）\n- 化禄在感情宫位或三方：感情较顺（好）\n- 配偶可能有一定的学识或权威背景：婚姻生活有稳定的物质基础（好）\n- 天梁是荫星，化禄后：婚姻课题的稳定性明显提升（好）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-ac2f3b73a9c290abfaf2",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1901,
+      "lineEnd": 1905,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "性别：男命；必见星曜：七杀；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "七杀"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命七杀坐命·感情】（将星男命；直接果断）\n- 本性：喜欢就追，不喜欢就离开，感情观非常直接，不擅长迂回和暗示，有时给对方带来压迫感（中/风险）\n- 有孤独倾向、对个人空间需求很高：不喜欢过度依赖的状态，也不愿成为别人的情感负担（中）\n- 另一半个性独立、有行动力、绝非依附型：可能从事军警、创业、外贸、运动或需要魄力的工作（好）\n- 事业上对方是激励力量：两人容易相互竞争也相互激励，形成良性「不服输」氛围（好）\n- 双方都强势独立：若不退让冲突难免，「各自精彩，彼此欣赏」是最佳状态；亲密关系直接有力、火气重、激情指数高（中/风险）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "love",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-39e66b2f56e694d0e071",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1931,
+      "lineEnd": 1935,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "性别：男命；必见星曜：破军；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "破军"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命破军坐命·感情】（变动星男命；自由随性）\n- 本性：自由随性、不喜欢被束缚，对传统的婚姻框架有一定的抗拒，早年感情容易多变，不宜太早定下关系（风险）\n- 「破而后立」：感情经历变动后，较能明白自己需要什么样的伴侣（中/好）\n- 另一半有个性、不走寻常路：可能有与众不同的人生经历，自主意识强，可能从事技术、旅游、国际贸易、先锋艺术或创业类工作（中/好）\n- 事业上对方可能是某段事业转型的推动者：「催化剂」型的关系（好/中）\n- 双方都追求自由和变化：关系容易因缺乏根基而解散；亲密关系有野性的吸引力，稳定与否取决于共同建立的根基（风险）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "love",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-70a3107b0ab4b17d0459",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1936,
+      "lineEnd": 1940,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "性别：女命；必见星曜：破军；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "破军"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【女命破军坐命·感情】（变动星女命；婚姻多变动）\n- 本性：感情婚姻有重大变动的可能——离婚再婚、分分合合，或感情中总有波折与变化（坏/风险）\n- 对伴侣的标准不断在变：很难找到一个能长期满足自己的伴侣；有强烈的改造欲，希望对方跟着自己一起改变，但这往往导致冲突（风险）\n- 化禄：「破而后立」——经历波折后能找到真正匹配的伴侣，中年后婚姻趋于稳定（好）\n- 取晚婚：二十五岁以后感情成熟度更高（中）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "love",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-4944f28e7e613bf49956",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1964,
+      "lineEnd": 1971,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "必见星曜：贪狼、七杀、破军；空间：全局",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [
+        "贪狼",
+        "七杀",
+        "破军"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "- **桃花规则（极其重要）**： - 「贪狼星有个大原则，**以在亥子宫才是正格桃花星**」 - 在午宫**不是桃花星，是武官星**\n  - 象征：酒色财气赌，统统在贪狼里\n  - 长相：比较魁梧，比较大，或者毛发比较多\n  - 武官配：「贪狼、破军、七杀这些武官星最希望碰到火和铃」",
+      "specificity": 3,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "love",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 80,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-51a6707d4647a58f3ba7",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1987,
+      "lineEnd": 1992,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：命宫、夫妻宫、福德宫；性别：女命；空间：全局",
+      "conditions": {
+        "palace": [
+          "命宫",
+          "夫妻宫",
+          "福德宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【女命感情·命宫/夫妻宫/福德宫连看】（福德宫=感情的精神层面，等于讲的也是夫妻）\n- 本性：女命的命宫、夫妻宫、福德宫要连起来看——「女人的命，福德宫非常重要」（中）\n- 女命福德宫廉贞破军：主人生格局动荡、风险事件多，感情易受波折冲击，须结合运限判断（风险）\n- 大限/流年引动福德宫：感情精神层面课题显化之年（风险）",
+      "specificity": 3,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 90,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-8b2bafb781489b227056",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 1999,
+      "lineEnd": 2004,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：父母宫；空间：全局",
+      "conditions": {
+        "palace": [
+          "父母宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【父母宫之「克」】（克=情深所致，不是感情不好）\n- 本性：父母宫的「克」不是跟父母感情不好，而是感情太好了——「越对父母好就越克」，克是情深所致（中）\n- 父母宫有此象者：与长辈的牵绊深重，缘深反而显得「克」（中/风险）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "love",
+        "palace_structure",
+        "relationship"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 100,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-00c4caa925a56921cb9d",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2068,
+      "lineEnd": 2072,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：命宫；四化：忌；必见星曜：武曲；空间：会照",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【命宫化忌会照武曲】（财星受伤；孤克加深）\n- 本性：刚毅果断、意志力强、善于理财执行的特质里多了孤克（中/风险）\n- 武曲代表武官，也代表财星，而且是财星王、很大的财星：「五短主贵，亦主富」；处事果决干脆、寡言少语、重义气，不善表达情感，行动力胜于言语；身材多为五短而壮实（中/好）\n- 感情上较为孤克：不善温柔，婚姻需要缘分配合（风险）\n- 化忌（会照）：为「刑囚之星」，手术、血光、官司风险增加（坏）",
+      "specificity": 3,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sensitive_decision",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-b160b81578857f1c57e6",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2093,
+      "lineEnd": 2097,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：命宫；亮度：庙旺；必见星曜：廉贞、贪狼、七杀、破军；空间：会照",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "廉贞",
+        "贪狼",
+        "七杀",
+        "破军"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【杀破狼+廉贞变动格局】（命宫庙旺，会照廉贞、贪狼、七杀、破军）\n- 本性：才艺多样、桃花颇旺，性格刚烈而富激情，兼具文武之才——廉贞「腰缠玉带，衫披桃花」，天生有吸引力（中/好）\n- 感情世界复杂：才华横溢但情绪起伏较大（中）\n- 职业：适合法律、创意、艺术、政界（好）\n- 风险：感情纠纷与血光之灾；廉贞遇七杀、破军、贪狼组合时，人生多重大转折与波折，须结合亮度、四化与运限判断（风险）\n- 杀破狼主变动：变动中求发展，忌一成不变（中）",
+      "specificity": 5,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sensitive_decision",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 50,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-95860e883cf3a2b60cf8",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2098,
+      "lineEnd": 2102,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：命宫；亮度：陷不利；必见星曜：廉贞；空间：会照",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "dim"
+        ],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "廉贞"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【廉贞落陷会照】（才艺星落陷；情绪风险加大）\n- 本性：个性刚烈有激情，多才艺、桃花重（中）\n- 「眼神迷离，见到美色未言先笑，长相清秀」：外表吸引人，但感情复杂（中）\n- 处事有魄力、情绪化明显：容易冲动决策；感情上投入深，也因此容易受伤或陷入纠纷（风险）\n- 陷地廉贞：更要约束情绪，避免冲动行事（坏/风险）\n- 适用条件：宫位：命宫（本条目含此条件的读法）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 80,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2103,
+      "lineEnd": 2107,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：兄弟宫；四化：忌；必见星曜：廉贞；空间：会照",
+      "conditions": {
+        "palace": [
+          "兄弟宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "廉贞"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【兄弟宫廉贞】（才艺星入兄弟；情义与是非并存）\n- 本性：兄弟姐妹中有才艺或个性鲜明者，关系有一定的情义；合伙中兼文武之才，合伙人能干多艺（好/中）\n- 廉贞化忌：兄弟有血光或官非，合伙易因感情纠纷破裂（坏）",
+      "specificity": 3,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-5012dac4b3c169b1f75f",
+        "md-6a82dcda6fae6031d39a"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2113,
+      "lineEnd": 2117,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：子女宫；亮度：庙旺；四化：忌；必见星曜：廉贞；空间：会照",
+      "conditions": {
+        "palace": [
+          "子女宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "廉贞"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【子女宫廉贞】（才艺星入子女；子女才艺活跃）\n- 本性：子女有才艺、个性鲜明、桃花气旺，可能在艺术或感情上较为活跃；亲子关系有一定的情感复杂性（中）\n- 廉贞化忌：子女有血光风险或感情纠纷，要多加照看（坏/风险）",
+      "specificity": 3,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 70,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-c95b682baa2cd7ab371a",
+        "md-b0c27d74cca2ae76c8f1"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2123,
+      "lineEnd": 2127,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：迁移宫；亮度：庙旺；四化：禄、忌；必见星曜：廉贞；空间：会照",
+      "conditions": {
+        "palace": [
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "廉贞"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【迁移宫廉贞】（才艺星入迁移；外出桃花旺）\n- 本性：外出桃花旺，感情机遇在旅途或外地更多；外出多才艺展示的机会（中/好）\n- 化禄：外出感情顺遂、才华受赏识（好）\n- 化忌：外出有官非或血光，感情纠纷在外地更甚（坏）",
+      "specificity": 4,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 70,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-3a718535331944f89272",
+        "md-f26694bfc48787448746"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2133,
+      "lineEnd": 2137,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：田宅宫；四化：忌；必见星曜：廉贞；空间：会照",
+      "conditions": {
+        "palace": [
+          "田宅宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "廉贞"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【田宅宫廉贞】（才艺星入田宅；家宅有情调）\n- 本性：家宅中有一定的艺术品位，居住环境重情调；但感情纠纷可能影响家庭和谐（中/风险）\n- 廉贞化忌：家中有意外血光风险，或因感情纠葛影响家庭稳定（坏）",
+      "specificity": 3,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-e63980890a5017f238f3",
+        "md-a9bb172645f71f46453b"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2143,
+      "lineEnd": 2147,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：父母宫；四化：忌；必见星曜：廉贞；空间：会照",
+      "conditions": {
+        "palace": [
+          "父母宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "廉贞"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【父母宫廉贞】（才艺星入父母；关系带情感色彩）\n- 本性：父母有才艺或个性较为复杂，家庭关系有一定的情感色彩；与上司的关系有才艺层面的互动，但也可能有官非纠纷（中）\n- 廉贞化忌：父母有血光或官非，与上司关系容易出现感情色彩的是非（坏）\n- 化忌表示关系课题或压力加重：不等于断亲或必然决裂（中）",
+      "specificity": 3,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-ba4baeb83cad235b8a21",
+        "md-dd361f97c2d5dc39749f"
+      ]
+    },
+    {
+      "ruleId": "md-f8ccd62b08173e002051",
+      "chapter": "二、专门领域知识",
+      "section": "2.1 感情婚姻规则",
+      "lineStart": 2153,
+      "lineEnd": 2157,
+      "domain": "love",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "感情婚姻",
+      "applicableConditions": "宫位：命宫、田宅宫；亮度：庙旺；性别：女命；必见星曜：太阴；空间：会照",
+      "conditions": {
+        "palace": [
+          "命宫",
+          "田宅宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【女命太阴庙旺会照田宅】（月亮守命+会照田宅宫；典型富格）\n- 本性：月亮守命，感情细腻、富有美感、主富——「月亮要亮才好」（好）\n- 入庙（子至巳宫后段）：月光皎洁则大富贵（好）\n- 落陷：月色昏暗、情绪波动多、财运欠稳（坏）\n- 女命太阴最吉：月主阴柔，与女命气场最为相合，主美貌、富贵与田宅之福（好）\n- 会照田宅宫：田宅财库经营是财路，房产是天生的财库（好）\n- 适用条件：宫位：命宫、田宅宫；的女孩很漂亮」。男命感情丰富，易受女（本条目含此条件的读法）",
+      "specificity": 3,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "love",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 70,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-fc7b90f29fc874e4e70d",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2295,
+      "lineEnd": 2299,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "性别：男命；必见星曜：天机；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天机"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命天机守命·事业】（智星男命；以「智」为核心）\n- 本性：靠脑力和灵活性创造价值，最能发光的不是执行层而是策划、参谋和顾问的位置（好）\n- 最适合咨询顾问、教育培训、科技研发、媒体策划、心理咨询、数据分析等需要脑力和快速应变的领域（好）\n- 智囊型：善于出主意、找解决方案，但主导执行不是强项（中）\n- 有创业潜力：尤其适合知识型创业或轻资产咨询（好）\n- 贵人往往来自有阅历的前辈、师长或行业专家：缘分常通过知识传授和引荐出现（好）\n- 过于善变会让人觉得立场不稳：最大事业风险是多而不精——兴趣太广而分散，没有一个核心专长（风险）\n- 收入来自智慧和知识的变现：专业声誉越高、平台越好，收入增长越快（好）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "career",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-ec696e571a29a23666d8",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2310,
+      "lineEnd": 2314,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：官禄宫；必见星曜：太阳；空间：同宫",
+      "conditions": {
+        "palace": [
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阳"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【官禄宫太阳】（阳星入官禄；仕途光明）\n- 本性：最宜政府机关、公众事务、媒体传播、法律司法或管理职位（好）\n- 入庙：仕途光明，有一定社会地位与影响力（好）\n- 落陷：升职艰难，宜转换行业或工作环境，风险是固守（坏/风险）\n- 化禄：名利双收（好）\n- 化权：在公共领域掌权（好）\n- 无吉化相助：职业口碑靠人脉积累与努力建立（中）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "career",
+        "palace_structure",
+        "pattern",
+        "sensitive_decision",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-bc733333b1cbb7b38352",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2345,
+      "lineEnd": 2349,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "四化：忌；必见星曜：武曲；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【武曲化忌·事业】（财星化忌入官禄宫或三方；事业风波多）\n- 化忌在官禄宫或三方：可能遭遇官司、被裁或与上级发生激烈冲突（坏）\n- 血光和意外事件影响工作：要防突发变故（坏/风险）\n- 武曲化忌的事业课题年里：求稳比求进更重要（风险）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "career",
+        "pattern",
+        "sensitive_decision",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-77e78a92cc688c00699b",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2380,
+      "lineEnd": 2384,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "性别：男命；必见星曜：贪狼；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命贪狼守命·事业】（桃花星男命；以「艺」和「欲」为核心）\n- 本性：靠多元才艺和强烈的进取心在社交型行业中找到位置，中晚年才是真正的事业爆发期（好/中）\n- 最适合艺术表演、餐饮酒水、娱乐传媒、旅游贸易、美容美发、商贸谈判等需要个人魅力的行业，在有人气有热度的场合表现最佳（好）\n- 团队里的活跃分子：善于展示才华、拓展人脉，但容易三分钟热度（中）\n- 有创业冲动：尤其在餐饮、娱乐或个人品牌领域，重心在市场与关系拓展（好）\n- 贵人多来自圈子中的人气人物或社交核心人士（好）\n- 人缘极好，但不利于职业深度积累；最大风险是精力分散、缺乏专注，以及感情问题影响工作表现（风险）\n- 收入高峰在中年：越积累越好，早年收入波动（中）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "career",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-a08dea56fc50d38f7b19",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2385,
+      "lineEnd": 2389,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "性别：女命；必见星曜：贪狼；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【女命贪狼守命·事业】（桃花星女命；「人气经济」）\n- 本性：以「艺」和「欲」为核心，中晚年才是真正的事业爆发期（好/中）\n- 「人气经济」特质：魅力即流量、流量即收入，最适合美容、时尚、KOL、直播、餐饮品牌、活动策划、销售类岗位，靠个人风格吸引粉丝客户（好）\n- 特有风险：早年容易因外貌、人气、社交圈获得超出能力的机会，一旦「美貌红利」消退（30+），如果没有沉淀真正的专业核心，事业会出现明显断崖（风险）\n- 外貌资源能否转化为可持续的事业资产：决定事业持续性（中/风险）\n- 生育与事业平衡：贪狼女命对身材形象在意（中）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "career",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-2be1b4a303ffdb127774",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2400,
+      "lineEnd": 2404,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "性别：男命；必见星曜：巨门；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "巨门"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命巨门守命·事业】（口舌星男命；以「言」为核心）\n- 本性：口才和专业表达是最重要的职业资产，最适合律师、教师讲师、媒体记者、销售顾问、心理咨询师、主持人、编辑作家等以语言为核心工具的职业（好）\n- 化禄：口才直接带财，是最理想的发展格局（好）\n- 团队里的「嘴强王者」：善于在会议中提出锐利的问题和意见，但有时太敢说反而引起同事不满（中/风险）\n- 适合在有一定话语权的岗位上发展：如培训、咨询、自媒体或法律服务，靠专业口碑积累客户（好）\n- 贵人多是欣赏才华的长辈或行业前辈，也可能是媒体或教育圈的核心人物（好）\n- 巨门=中介、暗职、解说代劳：适合中介、解说类岗位（中/好）\n- 最大事业风险是口舌是非：因言惹祸是巨门的事业雷区——「会说话」和「敢说话」是两种能力（风险）\n- 收入随专业声誉和口才能力的提升而增长：个人品牌是提高收入上限的主要路径（好）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "career",
+        "pattern",
+        "sensitive_decision",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-00064b35677d40f43f72",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2425,
+      "lineEnd": 2429,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "性别：男命；必见星曜：天梁；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天梁"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命天梁守命·事业】（荫星男命；以「专」和「荫」为核心）\n- 本性：靠专业权威和帮助他人的能力积累事业声誉，越是在有社会价值的领域越能发光（好）\n- 最适合法律、医学、宗教、心理学、教育、咨询顾问、公益慈善等需要专业权威和救助色彩的领域（好）\n- 团队中的智囊和稳定器：能在混乱中保持冷静，但有时态度过于高冷，让人觉得难以接近（中）\n- 在有权威背书的机构中发展更稳：依靠声誉积累客户，不适合快消型或需要大量社交拓展的商业模式（好/中）\n- 贵人多是年长、学识渊博的长辈或行业权威（好）\n- 天梁=领导师傅长辈、带领培训升职学习：逢权禄则能力好有带领力（好）；逢擎羊则脾气不好办事冲动（风险）；逢地空则不务正业不管事（坏）\n- 最大风险是原地踏步：过于专注专业而忽略机构内的政治关系维护（风险）\n- 专业声誉是财运基础：声誉越高、资历越深，收入天花板越高（好）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "career",
+        "pattern",
+        "sensitive_decision",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-810fec9738ef691ca052",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2445,
+      "lineEnd": 2449,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "亮度：庙旺；必见星曜：七杀；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "七杀"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【七杀庙旺·事业】（将星庙旺在官禄宫或三方；事业格局最高）\n- 本性：适合军警、创业、高风险高回报行业，在竞争中最能脱颖而出（好）\n- 七杀朝斗格：大贵之象显现，是杀星里最上乘的事业配置，闯劲能换来实权（好）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "career",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 86,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-04e474a2fe41a23af137",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2500,
+      "lineEnd": 2508,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "必见星曜：天府；空间：全局",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [
+        "天府"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天府定性】（南斗星君、库星/财库；不能解厄制化——南斗唯一例外）\n- 本性：性情温和（但不一定是好人），心眼比较多；长相特征是眉毛浓、三角眼、四白眼（中）\n- 职业：天府是文官星、教星——当武官前途黯淡无光（坏）；取文官/教职方向发挥（好）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "career",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 100,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-58b704db147e9f60565c",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2509,
+      "lineEnd": 2517,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "必见星曜：天府、天相；空间：全局",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [
+        "天府",
+        "天相"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "- 定性：**天上的宰相，是一个佐才星**\n  - 职业：适合做助理、秘书、师爷\n  - 长相：男女都一样，**瘦瘦高高的，没有肉，两根竹竿一样**\n  - 性情：非常好，厚道，谦和\n  - 天府天相：「逢府看相，逢相寻府」",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "career",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 90,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-090700e3086e185cdc9a",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2527,
+      "lineEnd": 2534,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：命宫；四化：忌；时间层：大限；空间：会照",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [
+          "大限"
+        ],
+        "timeLayer": [
+          "大限"
+        ]
+      },
+      "relation": "meeting",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "大限化忌入命宫时，更要看懂组合原则：「因科而禄」——三方四正只有科时，因科而禄，有专业技术专长；「权禄相逢」——自己做事业当老板；科权禄全在大限——可大富贵，限好比命好还佳；化忌所在宫——该星所主领域受阻、想不开、是非。命宫引动时按此断吉凶组合。",
+      "specificity": 3,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "career",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "time_layer"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 72,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-81536719d7122129a0b0",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2563,
+      "lineEnd": 2567,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：命宫；亮度：庙旺；四化：禄；必见星曜：紫微；空间：会照",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [
+          "禄"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【命宫紫微庙旺化禄】（帝座富贵格；一生以「贵」为主轴）\n- 本性：天生具有领导气质与王者风范（好）\n- 无左辅右弼相佐：「孤君无辅」之局，再贵也是孤掌难鸣（风险）\n- 自尊心极强、主观固执、好面子、领导欲旺盛：处事有章法、气场压人（中）\n- 命宫化禄补上「贵而不富」的缺口：三方四正有化禄辅助，地位与财力可以兼得（好）\n- 紫微不主动生财：靠职位带动收入（中）\n- 相貌红光满面、双目圆大、圆脸、皮肤白皙：外表雍容，举止自带尊贵感（好）",
+      "specificity": 3,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "career",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 70,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-fdb43d55a1b314e59c27",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2588,
+      "lineEnd": 2592,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：命宫；亮度：庙旺；性别：女命；必见星曜：太阳、太阴；空间：会照",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "太阳",
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【女命日月并明】（命宫太阳、太阴庙旺会照；贵格）\n- 本性：「太阳主贵，太阴主富」，重名声地位也重财富积累（好）\n- 太阳入庙（卯至申宫）：大吉，名利兼收（好）\n- 太阳落陷（酉至寅宫）：劳而无获（坏）\n- 女命太阳守命：「父夫子三男象」——人生轨迹紧紧绕着父亲、丈夫、儿子三大男性贵人转动；丈夫公众形象好、事业心强，但相处时间有限（中）\n- 处事光明磊落、不藏心机：重名誉与面子，有博爱精神；外表阳光，声音宏亮（好）\n- 适用条件：太阳星守命，男命主贵不主富——「（本条目含此条件的读法）",
+      "specificity": 3,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "career",
+        "palace_structure",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 60,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-b91df35fed2ebf189fe6",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2598,
+      "lineEnd": 2602,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：官禄宫；亮度：庙旺；四化：禄、权；必见星曜：太阳；空间：会照",
+      "conditions": {
+        "palace": [
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [
+          "禄",
+          "权"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "太阳"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【官禄宫太阳庙旺+禄权】（最上乘的事业配置）\n- 本性：最宜政府机关、公众事务、媒体传播、法律司法或管理职位（好）\n- 入庙：仕途光明，有社会地位与影响力（好）\n- 落陷：升职艰难，宜转换行业或工作环境，风险是固守（坏/风险）\n- 化禄：名利双收（好）\n- 化权：在公共领域掌权（好）\n- 禄权双化：仕途与公众影响力是最大亮点（好）\n- 无吉化相助：职业口碑靠人脉积累与努力建立（中）",
+      "specificity": 4,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "career",
+        "palace_structure",
+        "pattern",
+        "sensitive_decision",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 70,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2663,
+      "lineEnd": 2667,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：财帛宫；必见星曜：天相；空间：会照",
+      "conditions": {
+        "palace": [
+          "财帛宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "天相"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【财帛宫天相】（印星入财帛；求的是稳）\n- 本性：收入稳定，不会大富，以稳健型薪资收入为主；适合正职工作而非自己创业，财来安稳（中/好）\n- 理财取保守稳健：不适合高风险逐利，财富靠积累而非暴发——天相在财帛，求的是稳（好/中）\n- 三方忌煞（尤其擎羊）冲印：贷款不过关、文书流程障碍（坏）——天相本身不四化（天相不化忌），忌煞来自三方引动",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "career",
+        "palace_structure",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 92,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-e687eb96a9be6498b9b7",
+        "md-ce0c172e2b3e9f111f7e"
+      ]
+    },
+    {
+      "ruleId": "md-ca27dbd2ced1c825adbf",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2730,
+      "lineEnd": 2734,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "性别：男命；必见星曜：天机；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天机"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命天机守命·财运】（智星男命；财随智动）\n- 本性：财运有起有伏，不是财库厚实一劳永逸的格局，而是随机遇和判断的变化而波动（中）\n- 正财有一定基础：来自专业技能和知识服务；偏财机会不少，但需要借助灵活的判断力来把握（中/好）\n- 赚钱天赋是把脑力变现：讲课、咨询、策划、写作或任何知识型收入，是最自然的财路（好）\n- 理财能力偏弱：容易因为想法太多而把资金分散在多个方向，守财不如赚财（风险）\n- 财富积累偏中年爆发型：早年财运起伏，40岁后随经验积累财运趋稳（中/好）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-9a19b48be39b916e8160",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2735,
+      "lineEnd": 2739,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "性别：女命；必见星曜：天机；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天机"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【女命天机守命·财运】（智星女命；财随智动）\n- 本性：财运有起有伏，正财来自专业技能和知识服务，偏财要靠灵活的判断力把握（中）\n- 赚钱天赋是把脑力变现：讲课、咨询、策划、写作或任何知识型收入（好）\n- 理财能力偏弱：容易因想法太多而分散资金（风险）\n- 「想得多买得多」：研究消费、对比品牌的能力极强，但容易资讯过载；情绪不稳时易冲动消费以转移焦虑（风险）\n- 财务结构越简单，积财性越强（好）\n- 财富积累偏中年爆发型：40岁后趋稳（中/好）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2750,
+      "lineEnd": 2754,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "宫位：财帛宫；必见星曜：武曲；空间：同宫",
+      "conditions": {
+        "palace": [
+          "财帛宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【财帛宫武曲】（财星本位；最强的财运组合之一）\n- 本性：财气极旺，天生善于理财生财（好）\n- 化禄：大富、财源广进（好）\n- 化权：凭自身能力累积大财（好）\n- 化科：以专业技术换财（好）\n- 化忌：要小心意外支出或财务风险，可能因手术、官司而大额破财（坏）\n- 庙旺会照：财星本位发挥到极致，财气极旺（好）\n- 武曲属数目大之财：财量级偏大（好）\n- 命理只读倾向与风险提示：不预测市场涨跌或具体收益（中）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "palace_structure",
+        "pattern",
+        "sensitive_decision",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-92fa13a7437c56c594a4",
+        "md-dfe7d05a7c2c1eb2ff98"
+      ]
+    },
+    {
+      "ruleId": "md-d545310d17d7028ee477",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2760,
+      "lineEnd": 2764,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "四化：禄；必见星曜：武曲；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【武曲化禄入财帛宫或三方】（财王得禄；14主星中最强的大富格局）\n- 成格：财星化禄即「财王得禄」，财源广进自然涌入（好）\n- 财路：金融、实业、资产管理、田宅财库经营都是最旺财路（好）\n- 取大胆扩展事业版图：财富积累速度远超同辈（好）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-6f53ebc1e2f56fbc4e96",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2765,
+      "lineEnd": 2769,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "四化：权；必见星曜：武曲；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "权"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【武曲化权入财帛宫或三方】（掌财之权；当家立户）\n- 成格：天生具备做老板、当家做主管钱的能力，财务决策权牢牢握在自己手里（好）\n- 「武曲化权，当家立户」：钱财调度的主导力是最大的财富密码（好）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "sensitive_decision",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-f544d8eecf7e77afcecd",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2775,
+      "lineEnd": 2779,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "亮度：庙旺；必见星曜：武曲；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【武曲入庙守财帛宫】（辰戌丑未四墓宫尤旺；财库厚实）\n- 成格：财星在本位发挥到极致，是真正的「财库厚实」之象——赚钱、守财两头都强（好）\n- 四墓宫正是武曲最旺的位置：财库越守越厚（好）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 86,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2785,
+      "lineEnd": 2789,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "宫位：财帛宫；必见星曜：天同；空间：同宫",
+      "conditions": {
+        "palace": [
+          "财帛宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天同"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【财帛宫天同】（福星入财帛；财稳有福）\n- 本性：财运平稳，不会大富也不会大贫，有福禄而少劳碌；财来财稳，生活无虞（中/好）\n- 过于安逸：反而影响财运，风险是因懒散而错失财运机遇（风险）\n- 化禄：福禄双旺、生活更加舒适顺遂（好）\n- 庙旺又化禄：财运平稳中有福气（好）\n- 天同属数目小之财：财量级偏小，重福不重厚（中）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-65cd274384ed8a7e40f9",
+        "md-f1aa0d7a1ade29f00280"
+      ]
+    },
+    {
+      "ruleId": "md-799ce2b9cec9be8d5756",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2790,
+      "lineEnd": 2794,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "性别：男命；必见星曜：天同；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天同"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命天同守命·财运】（福星男命；不愁吃穿但难成大富）\n- 本性：财运平稳，来得轻松但积累偏慢——「不愁吃穿但难成大富」，生活品质有保障，财库厚度有限（中）\n- 正财稳定：来自工作和薪资；偏财偶有机会但不是主力，不适合依赖偏财改变财运（中）\n- 赚钱天赋是通过服务和口碑积累财富：在某个细分领域做到让人信任，带来稳定客源（好）\n- 理财能力偏弱：最大漏财点是享乐消费——美食、旅游等享受性消费占比大，容易财来财去（风险）\n- 消费观偏向当下满足：不适合高风险投机（风险）\n- 财富积累缓慢稳定：感情稳定时财运也顺，感情动荡时花费增加（中）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-8c6bf2912717f524794b",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2795,
+      "lineEnd": 2799,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "性别：女命；必见星曜：天同；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天同"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【女命天同守命·财运】（福星女命；不愁吃穿但难成大富）\n- 本性：财运平稳，来得轻松但积累偏慢，生活品质有保障，财库厚度有限（中）\n- 正财稳定：来自工作和薪资；赚钱靠服务和口碑积累，在细分领域做到让人信任（好）\n- 理财能力偏弱：最大漏财点是享乐消费——对生活品质的要求让钱不知不觉就花出去了（风险）\n- 较少独自管大钱：多与配偶分工——自己管日常开销与家庭氛围，配偶管财禄经营与重大决策，这是抑制享乐主义漏财的主要路径（好/中）\n- 不适合高风险投机：财富积累缓慢稳定（中）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-3fd00348ee496fc9e5e0",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2805,
+      "lineEnd": 2809,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "性别：男命；必见星曜：廉贞；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "廉贞"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命廉贞守命·财运】（才艺星男命；财有起伏）\n- 本性：财运有起有伏，充满阶段性的高峰和低谷（中）\n- 正财有一定基础：来自专业技能和才华变现；偏财机会不少但风险并存（中）\n- 赚钱天赋是把才艺和个人魅力变现：如演出、设计、顾问、美容、餐饮创业或个人品牌，都是自然财路（好）\n- 理财能力偏弱：消费上容易因审美和享乐需求而大手大脚（风险）\n- 漏财点：感情消费（为感情大量付出或因感情纠纷造成的损失）、法律官非（律师费和和解费用）、冲动消费（风险）\n- 更适合与自身事业相关的实业财禄经营（好）\n- 财富积累有明显的阶段性：化禄期财运极好，化忌期财务防护程度决定财运稳定性（中/风险）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "sensitive_decision",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-41842336de0fbd59fd92",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2825,
+      "lineEnd": 2829,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "四化：忌；必见星曜：廉贞；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "廉贞"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【廉贞化忌入财帛宫或三方】（14主星中最危险的财运配置之一）\n- 成格：血光、官非、桃花纠纷三重风险叠加，财容易因感情纠葛、法律官司、意外手术大额流失（坏）\n- 化忌年份：要小心涉及色情、赌博、灰色地带的财务往来，远离一切可能引发法律风险的合作（风险）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "sensitive_decision",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-1e1010d7d054ed8d3de8",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2860,
+      "lineEnd": 2864,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "四化：忌；必见星曜：天府；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天府"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【三方化忌入照天府财帛】（守财星遇忌；财库出现裂缝）\n- 成格：本是「守财星」却忌入财帛，意味着原本最稳的财库出现裂缝——是天府最大的财务警讯（坏）\n- 化忌年份：要小心借贷给他人或为人作担保，重大财禄经营易成课题，细节不明则风险增（风险）\n- 适用条件：忌入照天府坐落的财帛宫，是天府最大的财（本条目含此条件的读法）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-ca97f144f646a3dc4827",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2865,
+      "lineEnd": 2869,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "亮度：庙旺；必见星曜：天府；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天府"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天府庙旺守财帛宫】（丑未巳亥宫尤吉；家财万贯）\n- 成格：南斗财库坐到本位，发挥到极致，是真正的「家财万贯，世代不衰」之象（好）\n- 最适合稳健长持的财库配置：核心地段不动产、蓝筹股、传家债券、艺术收藏——越守越有钱，求的就是一个稳（好）\n- 逢化权化禄引动（流官/流财飞化入流官）：显老板/经营创业象，有管理资产、当家做主的能力（好）\n- 被引动的创业年：金钱破耗大，需控风险（风险）\n- 化忌或忌冲坐财位库位：不宜投机创业，守成为上策（坏）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 86,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-825350dfe62bfca1b74c",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2875,
+      "lineEnd": 2879,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "宫位：财帛宫；必见星曜：太阴；空间：同宫",
+      "conditions": {
+        "palace": [
+          "财帛宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【财帛宫太阴】（月亮入财帛；房产生财）\n- 入庙：大富——太阴主田宅与房产，财来自房地产或稳定型财禄经营（好）\n- 落陷：财运起伏，难以长期积累（坏）\n- 化禄：财运极佳，是命盘中最强的财富象征之一（好）\n- 善于细水长流地积累财富：适合长期财禄规划（好）\n- 太阴属数目小之财：财量级偏小，胜在稳（中）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-fa5d9a99f15337f929db",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2885,
+      "lineEnd": 2889,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "四化：禄；必见星曜：太阴；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【太阴化禄在财帛宫或三方】（月光皎洁聚财；田宅房产最旺）\n- 成格：田宅房产财运最旺，经营房产是最理想的财路（好）\n- 女命：大富之象，钱来钱顺，财库越积越厚（好）\n- 男命：妻财最旺，妻子的财运直接成为家庭财库的来源——「妻财双美」（好）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-d027c31b5a7bddfa0b2a",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2895,
+      "lineEnd": 2899,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "四化：忌；必见星曜：太阴；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【太阴化忌在财帛宫或三方】（月主忧愁；田宅财运受损）\n- 成格：田宅财运受损，情绪化的财务决策是最大漏财点（坏）\n- 「太阴化忌，月主忧愁」：常因感情忧愁、家庭矛盾连带影响财运（坏）\n- 男命化忌：婆媳或妻母之间的财务纠纷风险增加（风险）\n- 取保守稳健：不要在情绪低落时做重大财务决定（风险）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "sensitive_decision",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-c9ed3a9154a0cbb4de49",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2915,
+      "lineEnd": 2919,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "性别：男命；必见星曜：贪狼；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命贪狼守命·财运】（桃花星男命；偏财为特点）\n- 本性：正财起伏，偏财机会较多，尤其逢火铃同宫或特定流年时偏财暴发的概率明显提升（中/好）\n- 正财随事业波动：偏财靠人脉、财禄经营或特殊机遇带来一次性收益（中）\n- 赚钱天赋是靠魅力和人脉引流：把社交网络转化为商业资源——餐饮、娱乐、商贸或个人品牌变现都是自然财路（好）\n- 守财能力偏弱：欲望旺盛导致消费无节制，美食、娱乐、服饰、旅游等享受性消费是最大的漏财口（风险）\n- 冲动消费、投机赌博以及感情上的大额付出都要小心（风险）\n- 财富积累早年起伏、中年开始厚积、晚年收益：保留发展空间更重要（中）\n- 火铃、贪狼属动荡破财快来快去之星：财进得快也去得快，注意落袋为安（风险）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "star_interpretation",
+        "support_stars",
+        "time_layer",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-8d51d88a33a248ee6fe2",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2920,
+      "lineEnd": 2924,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "四化：禄；必见星曜：贪狼；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【贪狼化禄在财帛宫或三方】（桃花财+偏财同时启动）\n- 成格：财来自人脉、才艺、社交场合的成交——餐饮、娱乐、酒店、夜店、美容、KTV、传媒等需要人气的行业最旺（好）\n- 逢火星或铃星：更是「火贪格」「铃贪格」之首，偏财暴发概率倍增，但格局波动性高（好/风险）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-d3f28097872479dfa4e3",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2930,
+      "lineEnd": 2934,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "四化：忌；必见星曜：贪狼；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【贪狼化忌在财帛宫或三方】（财色两空；偏财变破财）\n- 成格：桃花变烂桃花，偏财变破财——「贪狼化忌，财色两空」（坏）\n- 最大风险：因酒色赌博、不当感情关系、虚荣消费而大额漏财（风险）\n- 化忌年份：要远离投机赌博和高风险娱乐场合的财务往来，远离一切「快钱」诱惑（风险）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-032dd72742b000b64661",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2935,
+      "lineEnd": 2939,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "亮度：庙旺；必见星曜：贪狼；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【贪狼庙旺守财帛宫】（辰戌丑未墓宫，尤其辰戌；才艺社交财运全开）\n- 成格：才艺与社交财运全开（好）\n- 逢火铃同宫：成「火贪格」「铃贪格」，是14主星中偏财暴发力最强的格局之一，意外横财机会显著高于他星（好/风险）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "star_interpretation",
+        "support_stars",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 86,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-b1aa367b159be7ab8ef9",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2950,
+      "lineEnd": 2954,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "性别：男命；必见星曜：巨门；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "巨门"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命巨门守命·财运】（口舌星男命；口才即财路）\n- 本性：财运与口才和专业能力直接挂钩（中）\n- 化禄：财路大开，是口才即财路的典型格局（好）\n- 化忌：口舌官非容易连带财务损失（坏）\n- 正财来自专业服务和知识变现：随技能提升稳步增长；偏财要靠人脉和信息优势把握（中/好）\n- 赚钱天赋是把信息和表达能力变现：如顾问、演讲、写作、法律服务或教育，越是能清晰表达复杂信息的领域收入越高（好）\n- 守财能力中等：漏财点是口舌官非的和解费、律师费，以及因不信任他人而错失合作机会的机会成本（风险）\n- 巨门=暗财（转介绍费、暗钱）：巨门化禄坐福德=外水意外之财（好）\n- 适合知识产权、版权、教育产业：不适合盲目跟风投机（中）\n- 财富积累偏中稳型：不会一夜暴富，但口碑和专业声誉积累后收入会明显上一个台阶（中/好）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "sensitive_decision",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-a3f5b557affb207e248d",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2955,
+      "lineEnd": 2959,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "性别：女命；必见星曜：巨门；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "巨门"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【女命巨门守命·财运】（口舌星女命；口才即财路）\n- 本性：财运与口才和专业能力直接挂钩（中）\n- 化禄：财路大开，是口才即财路的典型格局（好）\n- 化忌：口舌官非容易连带财务损失（坏）\n- 正财来自专业服务和知识变现：随技能提升稳步增长；偏财要靠人脉和信息优势把握（中/好）\n- 赚钱天赋是把信息和表达能力变现：如顾问、演讲、写作、法律服务或教育（好）\n- 守财能力中等：漏财点是口舌官非的和解费、律师费，以及不信任他人错失合作的机会成本（风险）\n- 较少被动接受配偶的财务安排：喜欢双方坐下来「理性辩论」出最优方案；但自己的「分析」在配偶听来常常变成「质疑」或「批评」，常以温柔语气包装犀利内容（中/风险）\n- 财富积累偏中稳型：口碑和声誉积累后收入上一个台阶（中/好）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "sensitive_decision",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-15b1178326e1509401d0",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2965,
+      "lineEnd": 2969,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "性别：男命；必见星曜：天相；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天相"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命天相守命·财运】（印星男命；守成有余、开拓不足）\n- 本性：财运稳健中等，「不愁基本生活但难成大富」，踏实积累是主旋律（中）\n- 正财稳定：来自工作收入，不善于通过偏财或额外渠道提升财运，主要依靠职业晋升带动增长（中）\n- 赚钱天赋是把专业技能服务化：在行政、法务、财务或管理类领域提供稳定可靠的服务，细水长流型财路（好）\n- 守财能力不错：消费理性有节制，但有时过于保守而错失优质求财机会（中）\n- 漏财点：人情消费，以及无法拒绝他人而导致的资源损耗（风险）\n- 不适合高风险投机：保本优先（中）\n- 财富稳步上升：40岁后财务状况明显改善；但容易长期拿低于自身价值的薪酬，谈薪时要更主动（中/好）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-896c5bc53d0af3a04d65",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2970,
+      "lineEnd": 2974,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "宫位：财帛宫；必见星曜：天梁；空间：同宫",
+      "conditions": {
+        "palace": [
+          "财帛宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天梁"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【财帛宫天梁】（荫星入财帛；财从学识或服务他人中来）\n- 本性：不是自然富贵星，取稳健财禄经营，不取冒险（中）\n- 以专业技能、服务或学识为生财之道：「不取见禄」；过度追求财富反而不得，以道义换财较合天梁（中/好）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "palace_structure",
+        "pattern",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-c738a911e3820b448c71",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2975,
+      "lineEnd": 2979,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "性别：男命；必见星曜：天梁；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天梁"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命天梁守命·财运】（荫星男命；以「清」为特点）\n- 本性：不以量取胜而以质取胜——靠专业声誉赢得的收入稳定有保障，但整体财富量级不会太高（中/好）\n- 正财来自专业服务和知识积累：化禄时有明显的财运提升，整体财运随时间慢慢改善（中/好）\n- 赚钱天赋是把学识和专业权威变现：如顾问咨询、教学培训、法律医疗或写作出版，口碑是最重要的财运来源（好）\n- 守财能力较好：不追求奢华，有一定的财务自律（好）\n- 漏财点：对人的过度付出，以及过于固守原则而错失赚钱机会（风险）\n- 适合长期持有的稳健资产：不适合高风险投机（中）\n- 财富积累是缓慢上升型：中年后随声誉积累上一个台阶；很多天梁星的人低估自己的专业价值，导致收入长期低于应有水平（中/风险）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "sensitive_decision",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-935a0e73a0995f519c17",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2980,
+      "lineEnd": 2984,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "性别：女命；必见星曜：天梁；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天梁"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【女命天梁守命·财运】（荫星女命；以「清」为特点）\n- 本性：不以量取胜而以质取胜——靠专业声誉赢得的收入稳定有保障，但整体财富量级不会太高（中/好）\n- 正财来自专业服务和知识积累：化禄时有明显提升（中/好）\n- 赚钱天赋是把学识和专业权威变现：如顾问咨询、教学培训、法律医疗或写作出版，口碑是最重要的财运来源（好）\n- 守财能力较好：漏财点是对人的过度付出，以及过于固守原则而错失赚钱机会（风险）\n- 「独立财库」特质：孤克属性反而让命主在财务上不依赖他人，自己赚自己花，婚否对财务安全感影响极小（好）\n- 「清高」带来漏财风险：不愿意为钱低头，容易低估自己的专业价值，长期定价偏低（风险）\n- 不以刻意逐财为强项：专业服务他人的回报型财运更合其性（中/好）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "sensitive_decision",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-0b7198889f813461a418",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2995,
+      "lineEnd": 2999,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "性别：女命；必见星曜：七杀；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "七杀"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【女命七杀守命·财运】（将星女命；以「猛」为特点）\n- 本性：财来得快去得也快，有时大收获，有时大损失，起伏明显（中/风险）\n- 正财来自工作和实干：偏财因冒险精神而较多（中）\n- 赚钱天赋是靠行动力和冒险精神快速抓住机会：在竞争激烈的领域先行一步往往获得超额回报，速度是财运优势（好）\n- 守财能力偏弱：漏财点是冲动财禄经营、意气用事，以及行动太快没做好合同保护（风险）\n- 财从动中取：赚钱方式偏向高风险高回报——金融、销售、创业、外贸都是常见财路（中/风险）\n- 财务最大盲点：「事业巅峰期忽视个人消费品质」——把精力投入战斗，对自己反而苛刻（中）\n- 偏孤克：越赚钱越容易在家庭中显得强势，伴侣易有经济边缘化感受，家庭关系平衡成为课题；私房钱观念极强，独立财务空间是婚姻幸福的根基（中/风险）\n- 取年轻时打好专业基础：中年后用稳健的方式积累财富（中/好）",
+      "specificity": 1,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "pattern",
+        "sensitive_decision",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-21d3309a9a55f1d78f91",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 3010,
+      "lineEnd": 3017,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "宫位：命宫、财帛宫；四化：忌；性别：女命；必见星曜：太阴；空间：全局",
+      "conditions": {
+        "palace": [
+          "命宫",
+          "财帛宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "- 定性：月亮要亮（晚上出来比较好）\n  - **女命独特**：命宫太阴 = 很漂亮，「比得上月里嫦娥」\n  - 文官带，在财帛宫 = 正财\n  - 太阴化忌主母亲担心",
+      "specificity": 4,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "palace_structure",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 80,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 3044,
+      "lineEnd": 3048,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "宫位：田宅宫；四化：禄、忌；必见星曜：紫微；空间：会照",
+      "conditions": {
+        "palace": [
+          "田宅宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【田宅宫紫微】（帝星入田宅；家宅有贵气）\n- 本性：祖产或房产有一定规模，居家环境讲究格调；紫微入田宅，房产可作为积累财富的主要方式之一（好）\n- 化禄：房产多且价值高（好）\n- 化忌：家宅不宁、家人矛盾多，要小心家事纠纷（坏）",
+      "specificity": 4,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-d26f7b68e54bd1a2d3be",
+        "md-ebd7e9c202364b860f21"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 3074,
+      "lineEnd": 3078,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "宫位：田宅宫；亮度：庙旺；四化：禄、忌；必见星曜：武曲；空间：会照",
+      "conditions": {
+        "palace": [
+          "田宅宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【田宅宫武曲】（财星入田宅；实物资产财禄经营能力强）\n- 本性：房产是重要的财富积累方式；家宅简洁务实，重功能而非装饰（好）\n- 化禄：房产大旺、财库厚实（好）\n- 化忌：房产有纠纷，或家中有意外血光（坏）",
+      "specificity": 4,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 70,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-e9319810ddd4cf963254",
+        "md-cc3d780f6528a368bf42"
+      ]
+    },
+    {
+      "ruleId": "md-c3a4026b9b411866749b",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 3109,
+      "lineEnd": 3113,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "宫位：命宫、财帛宫、田宅宫；亮度：庙旺；四化：禄；必见星曜：太阴；空间：会照",
+      "conditions": {
+        "palace": [
+          "命宫",
+          "财帛宫",
+          "田宅宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [
+          "禄"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【命宫太阴庙旺化禄会照财帛、田宅】（命盘中最强的财富象征之一）\n- 成格：太阴入庙大富，主田宅与房产，财来自房地产或稳定型财禄经营（好）\n- 化禄：财运极佳，田宅财帛双旺（好）\n- 落陷：财运起伏、难以长期积累（坏）\n- 善于细水长流地积累财富：适合长期财禄规划，房产就是天生的财库（好）\n- 适用条件：宫位：命宫、财帛宫、田宅宫（本条目含此条件的读法）",
+      "specificity": 5,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 70,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-7eee27ea65d194aef104",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 3134,
+      "lineEnd": 3138,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "宫位：田宅宫；四化：忌；必见星曜：天相；空间：会照",
+      "conditions": {
+        "palace": [
+          "田宅宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "天相"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【田宅宫天相化忌】（印星入田宅；稳固基本盘不变）\n- 本性：家宅稳固的基本盘不变——居家环境整洁有序，家庭成员关系踏实；不动产有一定保障，房产稳健，家宅功能性受到重视（好）\n- 化忌时：这份安稳要靠细心维护，家宅相关的文书、契约细节要多留神（风险）",
+      "specificity": 3,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-17465c2da9bd9a18672c",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 3139,
+      "lineEnd": 3143,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "宫位：命宫、财帛宫；四化：禄；必见星曜：天梁；空间：会照",
+      "conditions": {
+        "palace": [
+          "命宫",
+          "财帛宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "天梁"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【命宫天梁化禄会照财帛宫】（荫星化禄；稳中带顺的财源）\n- 本性：财从学识或服务他人中来，不是自然富贵星，取稳健财禄经营，不取冒险（中）\n- 以专业技能、服务或学识为生财之道：「不取见禄」；过度追求财富反而不得，以道义换财较合天梁（中/好）\n- 化禄给的是稳中带顺的财源：而非暴富（好/中）",
+      "specificity": 4,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.4 疾厄健康规则",
+      "lineStart": 3238,
+      "lineEnd": 3242,
+      "domain": "health",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "疾厄健康",
+      "applicableConditions": "宫位：疾厄宫；必见星曜：天梁；空间：同宫",
+      "conditions": {
+        "palace": [
+          "疾厄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天梁"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【疾厄宫天梁】（荫星入疾厄；骨骼关节弱项）\n- 本性：骨骼、关节为弱项，老年性疾病主题较早显化（风险）\n- 天梁主荫：在疾厄宫有一定逢凶化吉的能力（好）\n- 中年后骨质疏松主题加重：要小心骨质疏松（风险）\n- 会照同断：疾厄宫天梁会照，读法与同宫相同（中）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "health",
+        "palace_structure",
+        "pattern",
+        "sensitive_health",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-070389f773c5c99dc436",
+        "md-878b6f9a9a49bb8b62ea"
+      ]
+    },
+    {
+      "ruleId": "md-e06f0ae32d103904056f",
+      "chapter": "二、专门领域知识",
+      "section": "2.4 疾厄健康规则",
+      "lineStart": 3253,
+      "lineEnd": 3257,
+      "domain": "health",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "疾厄健康",
+      "applicableConditions": "宫位：疾厄宫；亮度：陷不利；四化：忌；空间：全局",
+      "conditions": {
+        "palace": [
+          "疾厄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "dim"
+        ],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【疾厄宫陷地化忌】（煞星入疾厄；最凶之象）\n- 成格：疾厄宫陷地化忌，煞星入疾厄是最凶之象（坏）\n- 擎羊、陀罗入疾厄宫：代表开刀见血光（坏）\n- 疾厄宫的化忌与羊陀组合：是手术血光的高危信号，健康课题上要格外谨慎，定期体检、避开风险活动（风险）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "health",
+        "palace_structure",
+        "sensitive_health",
+        "sihua"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 78,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-bdb52b9e0263654ac7c8",
+      "chapter": "二、专门领域知识",
+      "section": "2.4 疾厄健康规则",
+      "lineStart": 3258,
+      "lineEnd": 3265,
+      "domain": "health",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "疾厄健康",
+      "applicableConditions": "宫位：财帛宫、疾厄宫、官禄宫；四化：忌；必见星曜：武曲、七杀；空间：同宫",
+      "conditions": {
+        "palace": [
+          "财帛宫",
+          "疾厄宫",
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "武曲",
+        "七杀"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【武曲七杀同宫化忌】（联动财帛宫、疾厄宫、官禄宫）\n- 核心：财富、执行、果断、金融实业和武职（中）\n- 财帛宫与官禄宫：可对应财务、经营、管理和结果导向（中）\n- 与七杀同宫为武曲七杀：读取为刚强、风险承受和高压环境适应（中）\n- 化忌、疾厄宫或煞曜联动时：提示手术或血光风险（坏/风险）",
+      "specificity": 6,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "health",
+        "palace_structure",
+        "pattern",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation",
+        "support_stars"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 78,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-b97dc3f9cfe3191fd871",
+      "chapter": "二、专门领域知识",
+      "section": "2.4 疾厄健康规则",
+      "lineStart": 3279,
+      "lineEnd": 3283,
+      "domain": "health",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "疾厄健康",
+      "applicableConditions": "宫位：子女宫、父母宫；亮度：庙旺；四化：禄、忌；性别：女命；必见星曜：武曲；空间：会照",
+      "conditions": {
+        "palace": [
+          "子女宫",
+          "父母宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【女命武曲庙旺会照子女宫、父母宫】（财星女命；子女刚强独立）\n- 本性：子女宫武曲，子女性格刚强、独立自主，与父母关系实际而少温情；子女在财务或技术领域有才能（中）\n- 孤克之气对子女缘有一定影响：子女较早独立（中/风险）\n- 化禄：子女事业有成、财运旺（好）\n- 化忌：亲子关系因刚直而冲突，或子女有手术健康风险（坏）\n- 父母宫同参：长辈缘与子女缘放在一起看更完整（中）",
+      "specificity": 5,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "health",
+        "palace_structure",
+        "pattern",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 60,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.5 家庭手足规则",
+      "lineStart": 3365,
+      "lineEnd": 3369,
+      "domain": "family",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "家庭手足",
+      "applicableConditions": "宫位：兄弟宫；必见星曜：天府；空间：同宫",
+      "conditions": {
+        "palace": [
+          "兄弟宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天府"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【兄弟宫天府】（财库星入兄弟；关系稳定踏实）\n- 本性：兄弟姐妹稳重保守，各自有一定的物质基础，兄弟间关系稳定踏实；合伙人守成能力强，是可靠的财务伙伴（好）\n- 适合长期稳定的合伙关系：但风险是合伙过于保守而错失机会（中/风险）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "family",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-b130ccd9dcbfd8329a73",
+        "md-47c28a556b1b4fd3f422"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.5 家庭手足规则",
+      "lineStart": 3380,
+      "lineEnd": 3384,
+      "domain": "family",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "家庭手足",
+      "applicableConditions": "宫位：兄弟宫；必见星曜：巨门；空间：同宫",
+      "conditions": {
+        "palace": [
+          "兄弟宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "巨门"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【兄弟宫巨门】（口舌星入兄弟；口舌是非较多）\n- 本性：兄弟姐妹关系中口舌是非较多，容易因言语不当产生误解（风险）\n- 风险：合伙人因意见分歧而反目——「巨门在朋友宫，跟朋友合伙会朋友变仇人」，兄弟宫同理（风险）\n- 化禄：以口才化解是非，合伙生财（好）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "family",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-69d48abee94b097dc1ee",
+        "md-2bb761073b613743d339"
+      ]
+    },
+    {
+      "ruleId": "md-c9bc8419657c56bb4a9c",
+      "chapter": "二、专门领域知识",
+      "section": "2.6 子女晚辈规则",
+      "lineStart": 3511,
+      "lineEnd": 3515,
+      "domain": "children",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "子女晚辈",
+      "applicableConditions": "宫位：子女宫；必见星曜：武曲；空间：同宫",
+      "conditions": {
+        "palace": [
+          "子女宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【子女宫武曲】（财星入子女；子女刚强独立）\n- 本性：子女性格刚强、独立自主，与父母关系实际而少温情（中）\n- 子女在财务或技术领域有才能（好）\n- 孤克之气对子女缘有一定影响：子女较早独立（中/风险）\n- 化禄：子女事业有成、财运旺（好）\n- 化忌：亲子关系因刚直而冲突，或子女有手术健康风险（坏）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "children",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-eae636786f9b93a3550b",
+      "chapter": "二、专门领域知识",
+      "section": "2.6 子女晚辈规则",
+      "lineStart": 3551,
+      "lineEnd": 3555,
+      "domain": "children",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "子女晚辈",
+      "applicableConditions": "宫位：子女宫；必见星曜：天梁；空间：同宫",
+      "conditions": {
+        "palace": [
+          "子女宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天梁"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【子女宫天梁】（荫星入子女；子女成熟稳重）\n- 本性：子女成熟稳重，有一定的荫护子女之力，孩子懂事早（好）\n- 子女适合法律、医疗、教育方向（好）\n- 与子女关系亦师亦友：但天梁有孤克倾向，子女独立性强（中）\n- 女命天梁在子女宫：子女缘偏薄，晚育倾向增加（中/风险）\n- 化科：子女有学识名声（好）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "children",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sensitive_decision",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-df75ad868dd6a010a84f",
+      "chapter": "二、专门领域知识",
+      "section": "2.6 子女晚辈规则",
+      "lineStart": 3556,
+      "lineEnd": 3560,
+      "domain": "children",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "子女晚辈",
+      "applicableConditions": "宫位：子女宫；必见星曜：七杀；空间：同宫",
+      "conditions": {
+        "palace": [
+          "子女宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "七杀"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【子女宫七杀】（将星入子女；子女强势独立）\n- 本性：子女个性强势独立，与父母关系有一定的冲突感；子女早早独立，缘分较薄（中/风险）\n- 七杀有孤独之气：女命七杀在子女宫，子女缘偏薄，晚育倾向增加（中/风险）\n- 化忌：亲子冲突激烈，教育方式要更讲方法（坏/风险）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "children",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.6 子女晚辈规则",
+      "lineStart": 3571,
+      "lineEnd": 3575,
+      "domain": "children",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "子女晚辈",
+      "applicableConditions": "宫位：子女宫、父母宫；四化：禄、忌；必见星曜：紫微；空间：会照",
+      "conditions": {
+        "palace": [
+          "子女宫",
+          "父母宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【子女宫与父母宫会照紫微】（帝星照父母；父亲有地位）\n- 本性：父母宫紫微，父亲往往有地位或气场强大，对子女有较高期望；与上司或长辈的关系亦带有一定的权威色彩（中）\n- 化禄：长辈贵人多（好）\n- 化忌：与父母、上司关系紧张（坏）\n- 子女宫同参：长辈的期望与子女的成长相互牵动（中）",
+      "specificity": 5,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "children",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-f168e64a0d23752bbf68",
+        "md-d9d26fc6693b6fcea855"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.6 子女晚辈规则",
+      "lineStart": 3586,
+      "lineEnd": 3590,
+      "domain": "children",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "子女晚辈",
+      "applicableConditions": "宫位：子女宫、父母宫；必见星曜：天府；空间：会照",
+      "conditions": {
+        "palace": [
+          "子女宫",
+          "父母宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "天府"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【子女宫与父母宫会照天府】（财库星照父母；父母稳重踏实）\n- 本性：父母宫天府，父母稳重踏实，家庭背景有一定的物质基础，给子女提供稳定的成长环境（好）\n- 与上司关系中规中矩、稳定可靠：容易得到上司信任，但升迁路比较保守稳健（中）\n- 子女宫同参：家族的稳定氛围是子女成长的基础（中）",
+      "specificity": 3,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "children",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 92,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-0c77343cf3ea9bd58150",
+        "md-1cd62b58044a5a9918c8"
+      ]
+    },
+    {
+      "ruleId": "md-fc6c6e329db865d9023c",
+      "chapter": "二、专门领域知识",
+      "section": "2.6 子女晚辈规则",
+      "lineStart": 3591,
+      "lineEnd": 3595,
+      "domain": "children",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "子女晚辈",
+      "applicableConditions": "宫位：命宫、子女宫；四化：科；性别：女命；必见星曜：天梁；空间：会照",
+      "conditions": {
+        "palace": [
+          "命宫",
+          "子女宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "科"
+        ],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "天梁"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【女命命宫天梁化科会照子女宫】（荫星女命化科；子女有学识名声）\n- 本性：子女成熟稳重，有一定的荫护子女之力，孩子懂事早（好）\n- 子女适合法律、医疗、教育方向（好）\n- 与子女关系亦师亦友：但天梁有孤克倾向，子女独立性强（中）\n- 女命天梁在子女宫：子女缘偏薄，晚育倾向增加（中/风险）\n- 化科：子女有学识名声，命主自身也因学识或名望受益（好）",
+      "specificity": 4,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "children",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sensitive_decision",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 72,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-3c62b145902225e63881",
+      "chapter": "二、专门领域知识",
+      "section": "2.6 子女晚辈规则",
+      "lineStart": 3596,
+      "lineEnd": 3600,
+      "domain": "children",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "子女晚辈",
+      "applicableConditions": "宫位：命宫、子女宫、父母宫；四化：忌；性别：女命；必见星曜：七杀；空间：会照",
+      "conditions": {
+        "palace": [
+          "命宫",
+          "子女宫",
+          "父母宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "七杀"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【女命命宫七杀化忌会照子女宫与父母宫】（将星女命化忌；亲子课题放大）\n- 本性：子女宫七杀，子女个性强势独立，与父母关系有一定的冲突感；子女早早独立，缘分较薄（中/风险）\n- 七杀有孤独之气：女命七杀在子女宫，子女缘偏薄，晚育倾向增加（中/风险）\n- 化忌：亲子冲突激烈（坏）\n- 父母宫同参：原生家庭的张力会放大亲子课题（风险）",
+      "specificity": 5,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "children",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 72,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.7 迁移外出规则",
+      "lineStart": 3612,
+      "lineEnd": 3616,
+      "domain": "move",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "迁移外出",
+      "applicableConditions": "宫位：迁移宫；必见星曜：紫微；空间：同宫",
+      "conditions": {
+        "palace": [
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【迁移宫紫微】（帝星入迁移；外地逢贵人）\n- 本性：外出贵人多，异地他乡反而能遇到贵人提携，仕途在外地发展胜于故乡——「紫微在迁移，外地逢贵人」，出门在外有帝星庇护，适合闯荡他方（好）\n- 化权：在外地掌权（好）\n- 化忌：外出多是非纠纷，人际上要收敛锋芒（坏）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "move",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-7808cb9ccb718965938c",
+        "md-86f4ef10561d10377476"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.7 迁移外出规则",
+      "lineStart": 3627,
+      "lineEnd": 3631,
+      "domain": "move",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "迁移外出",
+      "applicableConditions": "宫位：迁移宫；必见星曜：武曲；空间：同宫",
+      "conditions": {
+        "palace": [
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【迁移宫武曲】（财星入迁移；外出实干派）\n- 本性：外出实干派，不依赖人脉、靠实力立足——武曲在迁移宫，外地打拼是正路，靠硬实力说话（好）\n- 化禄：外出大财（好）\n- 化忌：外出有意外或血光风险（坏）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "move",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-7af349fed785789d8ebe",
+        "md-ba97f59e0fb892426959"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.7 迁移外出规则",
+      "lineStart": 3672,
+      "lineEnd": 3676,
+      "domain": "move",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "迁移外出",
+      "applicableConditions": "宫位：迁移宫；必见星曜：七杀；空间：同宫",
+      "conditions": {
+        "palace": [
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "七杀"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【迁移宫七杀】（将星入迁移；外出独当一面）\n- 本性：外出独当一面，适合在竞争激烈的行业出外闯荡；在外地以果决和实力立足，不依赖人脉、靠实力说话（好）\n- 七杀朝斗格在迁移：外地发展大贵（好）\n- 化忌：外出孤立无援，要小心外地官非冲突，远行计划更要多做准备（坏/风险）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "move",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-3039641635504d1eda92",
+        "md-1136204cc33e10e22c8c"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.7 迁移外出规则",
+      "lineStart": 3677,
+      "lineEnd": 3681,
+      "domain": "move",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "迁移外出",
+      "applicableConditions": "宫位：迁移宫；必见星曜：破军；空间：同宫",
+      "conditions": {
+        "palace": [
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "破军"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【迁移宫破军】（变动星入迁移；最适合破军的宫位）\n- 本性：在外地闯荡、走天下，以专业技术立足；在外有破旧立新的机会，变动是常态，每次变动带来新可能（好/中）\n- 破军要「捧着饭碗走天下」：迁移宫正是最好的发挥（好）\n- 化禄：外出破而后立、大发（好）\n- 化忌：外出变故多，变动前要三思（坏/风险）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "move",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-25f69bfa85b0a56c7d02",
+        "md-f7ca0b01fb4f130ee87d"
+      ]
+    },
+    {
+      "ruleId": "md-700f49e3d51388fc6e5d",
+      "chapter": "二、专门领域知识",
+      "section": "2.7 迁移外出规则",
+      "lineStart": 3682,
+      "lineEnd": 3691,
+      "domain": "move",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "迁移外出",
+      "applicableConditions": "宫位：迁移宫；必见星曜：紫微；空间：全局",
+      "conditions": {
+        "palace": [
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "- 定性：北斗星君、官带星、阳星\n  - 长相：脸宽宽的，方方的，耳朵长长的，正面不见耳最好\n  - 性情：不苟言笑，不随便开口\n  - **必需辅弼**：「紫微星一定要有左辅右弼来会合」「没有左辅右弼是僧道」\n  - 功能：有解厄制化的功能\n  - 迁移宫紫微：在外地会逢贵人，但也是孤君象",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "move",
+        "palace_structure",
+        "star_interpretation",
+        "support_stars"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 100,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-0bab9810a014eb7fb1a0",
+      "chapter": "二、专门领域知识",
+      "section": "2.8 人际交友规则",
+      "lineStart": 3810,
+      "lineEnd": 3817,
+      "domain": "friends",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "人际交友",
+      "applicableConditions": "必见星曜：太阳、武曲；空间：全局",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [
+        "太阳",
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【人际交友看太阳、武曲】（贵人星+财星）\n- 武曲定性：武官加财星，而且是财星王、很大的财星（中）\n- 性情：跟太阳一样火爆，「一发就过去了」，不记仇（好/中）\n- 长相：比较矮、比较壮（五短主贵，亦主富）（中）\n- 太阳、武曲也代表贵人：社交场上多遇能提携你的人（好）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "traditional_aphorism",
+      "categories": [
+        "aphorism",
+        "friends",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 90,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.9 田宅家业规则",
+      "lineStart": 3889,
+      "lineEnd": 3893,
+      "domain": "home",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "田宅家业",
+      "applicableConditions": "宫位：田宅宫；必见星曜：天同；空间：同宫",
+      "conditions": {
+        "palace": [
+          "田宅宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天同"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【田宅宫天同】（福星入田宅；家宅温馨舒适）\n- 本性：家宅环境温馨舒适，居家生活幸福感高，注重家庭生活品质；不动产有一定积累（好）\n- 化禄：家宅福气厚、生活安乐（好）\n- 化忌：家宅出现矛盾、生活乐趣减损（坏）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "home",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-58256362fdfdc325827b",
+        "md-56296586f012fe5bc280"
+      ]
+    },
+    {
+      "ruleId": "md-786d41069d4445bf26ab",
+      "chapter": "二、专门领域知识",
+      "section": "2.9 田宅家业规则",
+      "lineStart": 3919,
+      "lineEnd": 3923,
+      "domain": "home",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "田宅家业",
+      "applicableConditions": "宫位：田宅宫；必见星曜：天相；空间：同宫",
+      "conditions": {
+        "palace": [
+          "田宅宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天相"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【田宅宫天相】（印星入田宅；家宅稳固）\n- 本性：家宅以稳固为底色——居家环境整洁有序，家庭成员关系踏实，不动产有一定保障、房产稳健（好）\n- 天相在田宅：家宅功能性受到重视，日子过得规矩安稳（好）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "home",
+        "palace_structure",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.9 田宅家业规则",
+      "lineStart": 3924,
+      "lineEnd": 3928,
+      "domain": "home",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "田宅家业",
+      "applicableConditions": "宫位：田宅宫；必见星曜：天梁；空间：同宫",
+      "conditions": {
+        "palace": [
+          "田宅宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天梁"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【田宅宫天梁】（荫星入田宅；家宅有荫护）\n- 本性：家宅有荫护，居住环境稳定安全；祖上有一定的荫德，家庭底蕴深厚（好）\n- 不动产有一定积累：家宅是精神上的避风港（好）\n- 化科：家宅有文化底蕴，家庭教育注重品德修养，有书香传家之象（好）",
+      "specificity": 2,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "home",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-53651324fe47030c8ee7",
+        "md-22b338dd8f05e663d497"
+      ]
+    },
+    {
+      "ruleId": "md-6e9bfeeceb1f0fc48157",
+      "chapter": "二、专门领域知识",
+      "section": "2.10 福德精神规则",
+      "lineStart": 4086,
+      "lineEnd": 4090,
+      "domain": "spirit",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "福德精神",
+      "applicableConditions": "宫位：命宫；必见星曜：紫微、天府、七杀；空间：对宫",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "opposite",
+      "requiredStars": [
+        "紫微",
+        "天府",
+        "七杀"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【命宫七杀对宫紫微天府】（七杀朝斗格；化凶为吉）\n- 成格：七杀朝斗格（子午宫或寅申宫，对宫紫微天府）则「爵禄荣昌」，主武职大贵，是化凶为吉的上等格局（好）\n- 本性：七杀将星守命，孤独果决、意志坚强、有冒险精神，取军警、创业、高风险高回报行业（中/好）\n- 性格天生孤克，一生多奋斗：人生多取自力奋斗，靠自身的意志力与执行力征服一切（中）",
+      "specificity": 4,
+      "ruleKind": "aphorism",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "aphorism",
+        "palace_structure",
+        "pattern",
+        "spirit",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 75,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    }
+  ]
+}

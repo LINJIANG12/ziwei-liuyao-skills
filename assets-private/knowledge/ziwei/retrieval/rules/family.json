@@ -1,0 +1,973 @@
+{
+  "module": "ziwei",
+  "layer": "retrieval",
+  "category": "family",
+  "count": 18,
+  "items": [
+    {
+      "ruleId": "md-d63c97dd4bd769141a9a",
+      "chapter": "二、专门领域知识",
+      "section": "2.5 家庭手足规则",
+      "lineStart": 3331,
+      "lineEnd": 3334,
+      "domain": "family",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "领域总纲",
+      "applicableConditions": "无附加条件",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "看家庭关系这一块，四个宫的分工：兄弟宫管兄弟姐妹、同辈人和对等的合作关系；交友宫管朋友、下属和外面的圈层；父母宫管父母、长辈、上司和制度；命宫管你自己在这堆关系里站什么位置。兄弟宫和交友宫分的是平辈关系和上下级关系两种。四化也有各自的指向：化禄是支持和资源，化权是分配权、谁说了算，化科是名声和文书名分，化忌是口舌、利益拉扯、边界不清和关系疏远。",
+      "specificity": 0,
+      "ruleKind": "foundation_theory",
+      "claimStyle": "theory_or_boundary",
+      "categories": [
+        "family",
+        "palace_structure",
+        "relationship",
+        "sihua",
+        "theory"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 100,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.5 家庭手足规则",
+      "lineStart": 3335,
+      "lineEnd": 3339,
+      "domain": "family",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "家庭手足",
+      "applicableConditions": "宫位：兄弟宫；必见星曜：紫微；空间：同宫",
+      "conditions": {
+        "palace": [
+          "兄弟宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【兄弟宫紫微】（紫微=帝星贵气、地位高；兄弟宫=手足/平辈/合伙）\n- 本性（同宫/会照）：兄弟姐妹里总有贵气，往往有一位出类拔萃、地位高的；也可能是自己在兄弟里排行贵显、在兄弟中贵显，受兄弟敬重（好）\n- 合伙（同宫/会照）：合伙人气场强势，各有主见，容易两强相争，小心双帝争权的局面（风险）\n- 化权：合伙人比你还强势、极强势（风险）\n- 化忌：兄弟容易不和或者合伙破财（坏）\n- 紫微+天魁：兄弟/合伙人中有贵人，遇事得提拔助力（好）\n- 紫微+擎羊：兄弟/合伙人脾气暴躁，冲突性相处（坏）\n- 煞星聚宫（本宫+三方四正≥4煞）：兄弟宫必有不愉悦事件（坏）\n- 时间层（大限/流年兄弟宫引动）：手足事与合伙事在该限应期（中）；流/限兄弟宫飞忌入本命兄弟宫（同类宫相冲）=凶上加凶（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "family",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-f847de5afc1f01b0b10c",
+        "md-a700d5a2a228d98c6716"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.5 家庭手足规则",
+      "lineStart": 3340,
+      "lineEnd": 3344,
+      "domain": "family",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "家庭手足",
+      "applicableConditions": "宫位：兄弟宫；必见星曜：天机；空间：同宫",
+      "conditions": {
+        "palace": [
+          "兄弟宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天机"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【兄弟宫天机】（天机=机变、善谋、变动快；兄弟宫=手足/平辈/合伙）\n- 本性（同宫/会照）：兄弟姐妹脑筋活、变得快，关系经常变动，各自忙各自的事，聚少离多、聚少散多（中）\n- 合伙（同宫/会照）：合伙人点子多、善谋划但容易变卦，风险是朝令夕改、计划说改就改（风险）\n- 化忌：兄弟容易因为小事起嫌隙，合伙因为意见不合谈崩、因分歧散伙（坏）；天机化忌主周转不灵，合伙资金周转有风险（风险）\n- 机梁坐兄弟（天机+天梁）：团队合作格，坐兄也主共享财（好）\n- 逢煞（空劫/陀罗）：计划变更更多、合作反复难定（坏）\n- 时间层（大限/流年兄弟宫引动）：手足离合与合伙变动在该限应期（中）；同类宫相冲=凶上加凶（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "family",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-6f250148d02b2a52f946",
+        "md-d41061201774c5af6a8b"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.5 家庭手足规则",
+      "lineStart": 3345,
+      "lineEnd": 3349,
+      "domain": "family",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "家庭手足",
+      "applicableConditions": "宫位：兄弟宫；必见星曜：太阳；空间：同宫",
+      "conditions": {
+        "palace": [
+          "兄弟宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阳"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【兄弟宫太阳】（太阳=光明、地位、名声；兄弟宫=手足/平辈/合伙）\n- 本性（同宫/会照）：兄弟姐妹里有阳光外向、地位较高的，关系公开透明、摆在明面上，很少有私下算计的（好）\n- 入庙（庙旺）：兄弟助力大，兄弟中有阳光、上进、地位不错的（好）\n- 落陷：兄弟帮不上多少忙，或者兄弟的名声问题连带自己（坏）\n- 化忌：兄弟是非多，合伙容易有公开的纠纷；声望牵连，兄弟出负面名声会牵住你（坏）\n- 煞星聚宫（本宫+三方四正≥4煞）：兄弟宫必有不愉悦事件，兄弟是非升级（坏）\n- 时间层（大限/流年兄弟宫引动）：兄弟是非与合伙公开纠纷在该限应期（中/坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "family",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-5632c74903c4e0d0a2c4",
+        "md-12722210ce911777ea43"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.5 家庭手足规则",
+      "lineStart": 3350,
+      "lineEnd": 3354,
+      "domain": "family",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "家庭手足",
+      "applicableConditions": "宫位：兄弟宫；必见星曜：武曲；空间：同宫",
+      "conditions": {
+        "palace": [
+          "兄弟宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【兄弟宫武曲】（武曲=财务/刚星/实干；兄弟宫=手足/平辈/合伙）\n- 本性（同宫/会照）：兄弟姐妹性子硬、各干各的，往来务实，先论利后论情，很少讲温情的话，但紧要关头靠得住、能互相支援（好/中）\n- 合伙（同宫/会照）：武曲能干活，但两边都强势容易蹭出火来（风险）\n- 化禄：合伙大赚（好）\n- 化权：激进争取，合伙中争主导权（中/风险）\n- 化科：专业名声，合伙宜财务/技术/法律类，得地名声变现（好）\n- 化忌：有损财、起冲突的风险，起摩擦、起刑伤；武曲化忌财务必有问题，合伙账目要盯紧（坏）\n- 时间层（大限/流年兄弟宫引动）：合伙财务事件在该限应期（中）；同类宫相冲=凶上加凶（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "family",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-0c0887b2f698a21ac213",
+        "md-ff4a67b6fc31dee813c6"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.5 家庭手足规则",
+      "lineStart": 3355,
+      "lineEnd": 3359,
+      "domain": "family",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "家庭手足",
+      "applicableConditions": "宫位：兄弟宫；必见星曜：天同；空间：同宫",
+      "conditions": {
+        "palace": [
+          "兄弟宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天同"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【兄弟宫天同】（天同=福星、随和、安逸；兄弟宫=手足/平辈/合伙）\n- 本性（同宫/会照）：兄弟姐妹处得来、温顺好相处，随和，家宅氛围也和睦、家庭和融（好）\n- 合伙（同宫/会照）：合伙顺当，合伙人配合得不错，就是进取心差了点火候（中）\n- 化禄：兄弟是助力，生活安稳顺心（好）\n- 化权：兄弟支持（好）\n- 化忌：兄弟情分淡，合伙也提不起劲、越来越懒散无劲（坏）；天同化忌=福德受损生活波折（坏）\n- 时间层（大限/流年兄弟宫引动）：手足助力或懒散在该限应期（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "family",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-1e640ca51d4672514fb3",
+        "md-0b4ffea583c3a8d0db20"
+      ]
+    },
+    {
+      "ruleId": "md-8bce8c38d16b7fa18435",
+      "chapter": "二、专门领域知识",
+      "section": "2.5 家庭手足规则",
+      "lineStart": 3370,
+      "lineEnd": 3374,
+      "domain": "family",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "家庭手足",
+      "applicableConditions": "宫位：兄弟宫；必见星曜：太阴；空间：同宫",
+      "conditions": {
+        "palace": [
+          "兄弟宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【兄弟宫太阴】（太阴=细腻、感情、女缘、财星；兄弟宫=手足/平辈/合伙）\n- 本性：兄弟姐妹心思细、感情浓，家里来往重情意；兄弟姐妹中可能有女性在感情或财务上对你有分量（好/中）\n- 合伙：合伙上也细腻、敏感，会把复杂的关系打理好（好）\n- 化禄：兄弟财运好、助你实惠（好）\n- 化忌：兄弟之间起暗伤、生嫌隙（坏）\n- 男命化忌：因女性手足或女性合伙人的感情/财务牵连，暗伤更明显（坏）\n- 时间层（大限/流年兄弟宫引动）：手足情意或暗伤在该限应期（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "family",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-1747ea185e643eff8d92",
+      "chapter": "二、专门领域知识",
+      "section": "2.5 家庭手足规则",
+      "lineStart": 3375,
+      "lineEnd": 3379,
+      "domain": "family",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "家庭手足",
+      "applicableConditions": "宫位：兄弟宫；必见星曜：贪狼；空间：同宫",
+      "conditions": {
+        "palace": [
+          "兄弟宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【兄弟宫贪狼】（贪狼=才艺、欲望、社交、竞争格星；兄弟宫=手足/平辈/合伙）\n- 本性：兄弟姐妹多才多艺，人活跃，社交旺，也带桃花（中）\n- 合伙：才艺互补不错，但容易因为欲望和利益分配不均闹矛盾（风险）\n- 化禄：合伙生财顺利（好）\n- 化忌：兄弟情因欲望纠葛疏远，合伙也容易散（坏）\n- 竞争格（贪狼为竞争格星）：手足间有竞争较劲，合伙有狼性争利；逢擎羊更激烈（中/风险）\n- 财数大（贪狼在兄弟宫）：合伙共享之财数目偏大（中/好）\n- 逢煞（擎羊/火铃）：欲望冲突升级，因赌酒财色惹是非（坏）\n- 时间层（大限/流年兄弟宫引动）：合伙生财或散伙在该限应期（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "family",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.5 家庭手足规则",
+      "lineStart": 3385,
+      "lineEnd": 3389,
+      "domain": "family",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "家庭手足",
+      "applicableConditions": "宫位：兄弟宫；必见星曜：天相；空间：同宫",
+      "conditions": {
+        "palace": [
+          "兄弟宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天相"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【兄弟宫天相】（天相=印星、辅佐、行政；兄弟宫=手足/平辈/合伙）\n- 本性（同宫/会照）：兄弟姐妹忠厚靠得住、是可依靠的后盾；总体上兄弟关系和睦，没什么大风浪，是稳定支撑你的力量（好）\n- 合伙（同宫/会照）：合伙方面是稳的，适合做辅佐、行政的帮手，就是不擅长拿大主意；与辅佐型的人搭得来，主导力不足没关系，稳定压倒一切（好/中）\n- 天相=服务技术性、衣食之事：合伙宜服务技术类项目（中）\n- 三方忌煞（尤其擎羊）冲印：合伙文书、契约、贷款流程受阻不过关（坏）\n- 逢忌煞小人：兄弟/合伙人办事不诚实、有出卖之象（坏）\n- 天相本身不四化：忌煞多来自三方引动（中）\n- 时间层（大限/流年兄弟宫引动）：手足后援或文书麻烦在该限应期（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "family",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-c0dacf24c930d8b550c4",
+        "md-611b49e58d2a566a0a84"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.5 家庭手足规则",
+      "lineStart": 3390,
+      "lineEnd": 3394,
+      "domain": "family",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "家庭手足",
+      "applicableConditions": "宫位：兄弟宫；必见星曜：天梁；空间：同宫",
+      "conditions": {
+        "palace": [
+          "兄弟宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天梁"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【兄弟宫天梁】（天梁=荫星、长辈相、领导师傅；兄弟宫=手足/平辈/合伙）\n- 本性（同宫/会照）：兄弟姐妹里有人稳重成熟、像长辈一样照着你的，兄姐中有一二位是老成、照看你的长辈相（好）\n- 合伙（同宫/会照）：合伙人也老成、稳当，能陪你熬过难的关口、共患难；关系带点亦师亦友的味道，关键时刻往往逢凶化吉（好）\n- 化科：兄弟会带好名声给你，给里子也是面子（好）\n- 化忌：受荫变薄、荫庇变淡，凡事靠自己、慢慢都要靠自己（坏）\n- 机梁坐兄弟（天机+天梁）：团队合作格，坐兄也主共享财（好）\n- 天梁+权禄：兄弟/合伙人有带领力，能力好（好）\n- 天梁+擎羊：脾气不好办事冲动（坏）\n- 天梁+地空：不务正业不管事（坏）\n- 天梁=领导师傅长辈、带领培训升职学习：兄弟/合伙人中有人能带你学习升职（好）\n- 时间层（大限/流年兄弟宫引动）：荫庇助力或变淡在该限应期（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "family",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-02d09a817694221a4bd9",
+        "md-eb232013f749180e994f"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.5 家庭手足规则",
+      "lineStart": 3395,
+      "lineEnd": 3399,
+      "domain": "family",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "家庭手足",
+      "applicableConditions": "宫位：兄弟宫；必见星曜：七杀；空间：同宫",
+      "conditions": {
+        "palace": [
+          "兄弟宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "七杀"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【兄弟宫七杀】（七杀=刚烈、独断、战斗；兄弟宫=手足/平辈/合伙）\n- 本性（同宫/会照）：兄弟姐妹性情强、锋芒硬，主张多，各干各的，相处里温情少，关系偏疏离；兄弟缘显得有些薄（中/坏）\n- 合伙（同宫/会照）：七杀独断强势，容易起冲突、合股易冲突，合伙的风险在强势顶上（风险）\n- 七杀=谈判者高能力、决定性快速之事：合伙宜快刀斩乱麻的谈判攻坚类项目（中/好）\n- 化忌：强势锋头互顶就散，独行反倒自在（坏）\n- 逢煞（擎羊/火铃）：冲突升级、兄弟反目（坏）\n- 时间层（大限/流年兄弟宫引动）：兄弟冲突或合伙拆伙在该限应期（中/坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "family",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-11dc68cab66cb7be9b5d",
+        "md-0e5074927f069533ea66"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.5 家庭手足规则",
+      "lineStart": 3400,
+      "lineEnd": 3404,
+      "domain": "family",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "家庭手足",
+      "applicableConditions": "宫位：兄弟宫；必见星曜：破军；空间：同宫",
+      "conditions": {
+        "palace": [
+          "兄弟宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "破军"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【兄弟宫破军】（破军=变动、破旧迎新；兄弟宫=手足/平辈/合伙）\n- 本性（同宫/会照）：兄弟姐妹缘份浅，各自飘在各处，聚少离多、散离多，兄弟缘薄（中/坏）\n- 合伙（同宫/会照）：合伙关系变动大，分分合合，合伙人想法多但定不下来，创新有余、稳定不足（中/风险）\n- 化禄：聚少散多，但关键时刻能破而后立，帮你挺过难关，患难见真情（好/中）\n- 化忌：兄弟姐妹里惊变多、水火多惊，合伙损财风险高（坏）\n- 破军=破旧迎新、改革变动：合伙宜破旧立新的改革型项目，变数大（中/风险）\n- 时间层（大限/流年兄弟宫引动）：手足离合与合伙分合在该限应期（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "family",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-563a252353007815c649",
+        "md-4ab1e6653b70f4fcd83f"
+      ]
+    },
+    {
+      "ruleId": "md-3d74596ba4222e44e23e",
+      "chapter": "二、专门领域知识",
+      "section": "2.5 家庭手足规则",
+      "lineStart": 3405,
+      "lineEnd": 3409,
+      "domain": "family",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "家庭手足",
+      "applicableConditions": "宫位：兄弟宫；四化：忌；空间：全局",
+      "conditions": {
+        "palace": [
+          "兄弟宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【兄弟宫化忌读法】（化忌坐宫=课题压力；忌冲对宫=事件落点）\n- 化忌坐兄弟宫：读手足、平辈、合伙和资源分配，说明这一段关系里有损耗、有拉扯、有边界不清（中）\n- 纪律：化忌不等于老死不相往来、不等于断亲；单引动只报主题加重，不判必然（中）\n- 忌冲对宫（交友宫）：事件落点显现在朋友、圈层人事（坏）\n- 叠忌分级：单忌=课题加重（中），叠忌=升级（坏），三忌=打击（坏）；禄忌交战=级别加重（坏）；自化忌=不可控（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "family",
+        "palace_structure",
+        "relationship",
+        "sihua"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 90,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-2f3b3f421105979e520f",
+      "chapter": "二、专门领域知识",
+      "section": "2.5 家庭手足规则",
+      "lineStart": 3420,
+      "lineEnd": 3424,
+      "domain": "family",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "家庭手足",
+      "applicableConditions": "宫位：交友宫；四化：禄、忌；必见星曜：天机；空间：会照",
+      "conditions": {
+        "palace": [
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "天机"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【交友宫天机】（天机=机变、人脉、善谋；交友宫=朋友/下属/圈层）\n- 本性：朋友聪明机灵、人脉广，但流动快，长久稳定的知己少（中）\n- 合作：合伙人也善于谋划但耐不住性子（风险）\n- 化禄：靠朋友串通生财（好）\n- 化忌：朋友靠不住，小心被聪明人拉下水（坏）\n- 逢煞（空劫）：人脉更虚、变动更多（坏）\n- 时间层（大限/流年交友宫引动）：朋友圈变动与靠朋友生财在该限应期（中）",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "family",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-1bf06a062a7950d9206b",
+      "chapter": "二、专门领域知识",
+      "section": "2.5 家庭手足规则",
+      "lineStart": 3435,
+      "lineEnd": 3439,
+      "domain": "family",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "家庭手足",
+      "applicableConditions": "宫位：交友宫；四化：禄、忌；必见星曜：武曲；空间：会照",
+      "conditions": {
+        "palace": [
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【交友宫武曲】（武曲=财务/实干；交友宫=朋友/下属）\n- 本性：朋友务实直接，讲利益和合作，情感交流少；下属能干执行力强（中/好）\n- 化禄：朋友能拿来财务资源（好）\n- 化权：激进争取，朋友/下属中有人争主导（中/风险）\n- 化忌：朋友变仇人，合伙有财务纠纷风险（坏）\n- 武曲=财务/法律/金融/技术：化忌财务必有问题，账目要盯紧（坏）\n- 时间层（大限/流年交友宫引动）：朋友财务往来在该限应期（中）",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "family",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-c84bfc1b17b121e5b12e",
+      "chapter": "二、专门领域知识",
+      "section": "2.5 家庭手足规则",
+      "lineStart": 3450,
+      "lineEnd": 3454,
+      "domain": "family",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "家庭手足",
+      "applicableConditions": "宫位：交友宫；四化：禄、忌；必见星曜：贪狼；空间：会照",
+      "conditions": {
+        "palace": [
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【交友宫贪狼】（贪狼=才艺、欲望、竞争格星；交友宫=朋友/下属/圈层）\n- 本性：朋友面广，多才多艺、爱玩爱热闹的朋友多，社交圈里烟酒财气的氛围兜得住（中）\n- 化禄：朋友带财（好）\n- 化忌：朋友带来欲望是非，合伙因利益纠纷散伙（坏）\n- 竞争格（贪狼为竞争格星）：圈内竞争较劲，逢擎羊更激烈（中/风险）\n- 逢煞（擎羊/火铃）：欲望是非升级，小心被拖进赌局酒局（坏）\n- 时间层（大限/流年交友宫引动）：朋友带财或惹是非在该限应期（中）",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "family",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-e1c1f015c5b67aedf460",
+      "chapter": "二、专门领域知识",
+      "section": "2.5 家庭手足规则",
+      "lineStart": 3465,
+      "lineEnd": 3469,
+      "domain": "family",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "家庭手足",
+      "applicableConditions": "宫位：交友宫；必见星曜：天相；空间：会照",
+      "conditions": {
+        "palace": [
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "天相"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【交友宫天相】（天相=印星、辅佐、行政；交友宫=朋友/下属）\n- 本性：朋友忠厚、圈层稳；下属踏实肯配合，是好团队材料（好）\n- 互助：利用心少，真心互助的多（好）\n- 合伙：也是稳妥的行政型搭配（好/中）\n- 天相=服务技术性、衣食之事：朋友/下属宜服务技术类（中）\n- 三方忌煞（尤其擎羊）冲印：文书契约、介绍推荐受阻（坏）\n- 逢忌煞小人：朋友中有人办事不诚实、出卖之象（坏）\n- 天相本身不四化：忌煞多来自三方引动（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "family",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 92,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-d0d2622c5d41ec800353",
+      "chapter": "二、专门领域知识",
+      "section": "2.5 家庭手足规则",
+      "lineStart": 3485,
+      "lineEnd": 3489,
+      "domain": "family",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "家庭手足",
+      "applicableConditions": "宫位：交友宫；四化：禄、忌；必见星曜：破军；空间：会照",
+      "conditions": {
+        "palace": [
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "破军"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【交友宫破军】（破军=变动、破旧迎新；交友宫=朋友/下属）\n- 本性：朋友流动性极大，不同阶段换一批人；下属难留，合伙人各有算盘（中/坏）\n- 变与破：破军带来变动和突破（中）\n- 化禄：朋友在变动中帮你立新局（好）\n- 化忌：朋友惹事，合伙损财（坏）\n- 破军=破旧迎新、改革变动：朋友中多改革派，合作宜破旧立新（中）\n- 时间层（大限/流年交友宫引动）：朋友圈更替在该限应期（中）",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "family",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    }
+  ]
+}

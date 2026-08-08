@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-08T04:58:18.768Z",
+  "files": [
+    "ziwei/default/core.json",
+    "ziwei/retrieval/rules/aphorism.json",
+    "ziwei/retrieval/rules/career.json",
+    "ziwei/retrieval/rules/children.json",
+    "ziwei/retrieval/rules/family.json",
+    "ziwei/retrieval/rules/flying_star.json",
+    "ziwei/retrieval/rules/friends.json",
+    "ziwei/retrieval/rules/health.json",
+    "ziwei/retrieval/rules/home.json",
+    "ziwei/retrieval/rules/love.json",
+    "ziwei/retrieval/rules/move.json",
+    "ziwei/retrieval/rules/overview.json",
+    "ziwei/retrieval/rules/palace_structure.json",
+    "ziwei/retrieval/rules/pattern.json",
+    "ziwei/retrieval/rules/personality.json",
+    "ziwei/conditional/star-palace.json",
+    "ziwei/conditional/star-combinations.json",
+    "ziwei/meta.json",
+    "liuyao/default/foundation.json",
+    "liuyao/default/habits.json",
+    "liuyao/conditional/use-god.md",
+    "liuyao/conditional/stage-guides.json"
+  ]
+}

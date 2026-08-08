@@ -1,0 +1,579 @@
+{
+  "module": "ziwei",
+  "layer": "retrieval",
+  "category": "home",
+  "count": 11,
+  "items": [
+    {
+      "ruleId": "md-14552bc452055c68737b",
+      "chapter": "二、专门领域知识",
+      "section": "2.9 田宅家业规则",
+      "lineStart": 3865,
+      "lineEnd": 3868,
+      "domain": "home",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "领域总纲",
+      "applicableConditions": "无附加条件",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "看家业这一块先分四宫：田宅宫看住宅、房产、家业、居住环境和财富储藏；子女宫看住在家里的人以及家宅的产出；疾厄宫看居所对身体状态的牵动；福德宫看住得舒不舒服、精神安不安定。主星分两路：紫微、天府、太阴走的是资产和守成的路子；破军、七杀、火铃、空劫走的是变动、破耗、居所不稳的路子。四化用来定家业得失、权责名声这些牵扯。",
+      "specificity": 0,
+      "ruleKind": "foundation_theory",
+      "claimStyle": "theory_or_boundary",
+      "categories": [
+        "home",
+        "sensitive_health",
+        "sihua",
+        "support_stars",
+        "theory"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 100,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-c5ec8d05cbcbfa261137",
+      "chapter": "二、专门领域知识",
+      "section": "2.9 田宅家业规则",
+      "lineStart": 3874,
+      "lineEnd": 3878,
+      "domain": "home",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "田宅家业",
+      "applicableConditions": "宫位：田宅宫；必见星曜：天机；空间：同宫",
+      "conditions": {
+        "palace": [
+          "田宅宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天机"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【田宅宫天机】（天机=智慧、机变、变动；坐田宅宫=居所常变动）\n- 本性：住的地儿常变动——换房、搬家、装修的频率偏高，总觉得自己没安顿下来；老换地方，房子倒进倒出，攒不动产就比较吃亏，攒钱的速度被摊薄（中/坏）\n- 化禄引动：变动里有收益，搬一次家，家当还升级了一次（好）\n- 化忌引动：家宅不太稳当，变动里头容易有损耗，买房、租房都要多看两遍合同（坏）\n- 财的数目：天机=数目小——不动产宜细水长流，不宜重注投机（中）\n- 时间层：流年/大限田宅宫逢天机化忌，搬家、换房主题加重（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "home",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.9 田宅家业规则",
+      "lineStart": 3879,
+      "lineEnd": 3949,
+      "domain": "home",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "田宅家业",
+      "applicableConditions": "宫位：田宅宫；亮度：庙旺；四化：忌；性别：男命；必见星曜：太阳；空间：同宫、会照",
+      "conditions": {
+        "palace": [
+          "田宅宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阳"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【田宅宫太阳】（太阳=阳刚、公开、名誉、官贵；坐田宅宫=家宅明亮向阳）\n- 本性：家里明亮、向阳，敞亮得很，这种家庭氛围也容易养出在外面有台面的人（好）\n- 入庙：家族积累的家底厚，祖上传下来的东西有光（好）\n- 落陷：家宅让人不踏实，跟父亲、家里男人的关系容易绷着（坏）\n- 太阳会照田宅宫见庙旺：家族里阳气足，父亲这一房的形象亮堂，家底有光（好）\n- 化忌引动（男命）：跟父亲、家里人的关系课题会被放大、摆在明面上，家里的名声也容易有起伏；父子之间、家门之间都要留面子，说话留三分（坏）\n- 时间层：流年/大限田宅宫逢太阳化忌，家宅名声、父亲关系主题加重（坏）",
+      "specificity": 3,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "home",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-f05e20ebc459af9fba00",
+        "md-d3e653307ff091518630"
+      ]
+    },
+    {
+      "ruleId": "md-8df03d15e5479d25f14a",
+      "chapter": "二、专门领域知识",
+      "section": "2.9 田宅家业规则",
+      "lineStart": 3899,
+      "lineEnd": 3903,
+      "domain": "home",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "田宅家业",
+      "applicableConditions": "宫位：田宅宫；必见星曜：天府；空间：同宫",
+      "conditions": {
+        "palace": [
+          "田宅宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天府"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【田宅宫天府】（天府=财库、守成、令星；坐田宅宫=财库护房产）\n- 本性：这是老论里的重仓——天府守财，放这一宫就是财库护着房产：不动产厚实，祖业有家底，家宅稳当，家族积累的盘子大；适合把房产当成家里的核心配置，守住比折腾更划算（好）\n- 化禄引动：不动产增值、置业顺遂（好）\n- 化忌引动：财库课题、房产损耗（坏）\n- 落陷：家底打折、守成吃力（坏/中）\n- 时间层：流年/大限田宅宫逢化禄，置业运佳（好）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "home",
+        "palace_structure",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-ffc9b8f57167583bce32",
+      "chapter": "二、专门领域知识",
+      "section": "2.9 田宅家业规则",
+      "lineStart": 3904,
+      "lineEnd": 3908,
+      "domain": "home",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "田宅家业",
+      "applicableConditions": "宫位：田宅宫；必见星曜：太阴；空间：同宫",
+      "conditions": {
+        "palace": [
+          "田宅宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【田宅宫太阴】（太阴=月亮、财富、田宅、女性六亲；坐田宅宫=不动产最强段）\n- 本性：太阴本来就主田宅房产，放这一宫是它最旺的地段之一——不动产的积累能力最强，家宅温暖、有格调，平日里家里女主人的话语权也高（好）\n- 化禄引动：家宅兴旺，置业一路顺（好）\n- 化忌引动：家里容易有心结，或房产上引来纠纷、损耗，写到自己名下的细节要留心（坏）\n- 逢空劫+左右：搬来搬去（中/风险）\n- 财的数目：太阴=数目小——房产细水长流、稳健积累（中）\n- 时间层：流年/大限田宅宫逢太阴化禄，置业运佳（好）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "home",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-ef9653a64ff06622d9b9",
+      "chapter": "二、专门领域知识",
+      "section": "2.9 田宅家业规则",
+      "lineStart": 3909,
+      "lineEnd": 3913,
+      "domain": "home",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "田宅家业",
+      "applicableConditions": "宫位：田宅宫；必见星曜：贪狼；空间：同宫",
+      "conditions": {
+        "palace": [
+          "田宅宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【田宅宫贪狼】（贪狼=欲望、桃花、多才、机会；坐田宅宫=居家讲究享受）\n- 本性：居家追求享受和美感，住要住得有品质，家里布置、环境都讲究，花在房子和吃喝享乐上的钱不少，存钱这事得有人盯着（中）\n- 化禄引动：房产上常有意外之财的机会（好）\n- 逢火铃同宫：房子的大喜大忧都来得利落，行情好时翻得快，但别只盯着赚头——动荡破财快来快去（风险/好）\n- 化忌引动：家里容易因欲望起纷争，消费上头，房贷这些账要绷紧（坏）\n- 时间层：流年/大限田宅宫逢贪狼化忌，房产消费主题加重（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "home",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation",
+        "support_stars"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.9 田宅家业规则",
+      "lineStart": 3914,
+      "lineEnd": 3959,
+      "domain": "home",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "田宅家业",
+      "applicableConditions": "宫位：田宅宫；四化：禄、忌；必见星曜：巨门；空间：同宫、会照",
+      "conditions": {
+        "palace": [
+          "田宅宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "巨门"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【田宅宫巨门】（巨门=口舌、暗、分析、是非；坐田宅宫=家宅话多声杂）\n- 本性：家里嘴仗比一般人家多，氛围容易吵，声音大——过日子要先把话讲开，摊在桌面上（中/坏）\n- 化禄引动：家里靠沟通把疙瘩解开，吵归吵，事能说拢（中/好）\n- 化忌引动：家里口舌不断，芝麻小事也能发酵，家人关系绷得紧（坏）\n- 巨门会照田宅宫：家里话头多、声音杂，住着住着就能吵起来，嘴仗不离口；化禄时话说得开，疙瘩解得快，家里的关系是吵出来的热络；化忌时话柄生是非，家人之间越计较越绷（中）\n- 时间层：流年/大限田宅宫逢巨门化忌，家宅口舌是非主题加重（坏）",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "home",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-0d417e2827e111042ecd",
+        "md-87ccf090dd5247ef5e47"
+      ]
+    },
+    {
+      "ruleId": "md-841f502d797f378805c2",
+      "chapter": "二、专门领域知识",
+      "section": "2.9 田宅家业规则",
+      "lineStart": 3929,
+      "lineEnd": 3933,
+      "domain": "home",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "田宅家业",
+      "applicableConditions": "宫位：田宅宫；必见星曜：七杀；空间：同宫",
+      "conditions": {
+        "palace": [
+          "田宅宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "七杀"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【田宅宫七杀】（七杀=将星、果决、竞争、急变；坐田宅宫=家宅气氛偏硬）\n- 本性：家里气氛偏硬，家人都强势，事儿讲效率不讲温情，居家想轻松要自己留出个私人地盘；不动产方面变动多，卖旧买新、挪窝常客（中/坏）\n- 化禄引动：变动得利（中/好）\n- 化忌引动：家里冲突多，装修、买房这类大事容易出状况，房子上的手续、合同要多防一手（坏）\n- 逢煞曜（火铃擎羊）：房产进出快、破耗重（风险）\n- 时间层：流年/大限田宅宫逢七杀化忌，家宅变动冲突主题加重（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "home",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-aea0c1686f21d6bcf3fb",
+      "chapter": "二、专门领域知识",
+      "section": "2.9 田宅家业规则",
+      "lineStart": 3934,
+      "lineEnd": 3938,
+      "domain": "home",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "田宅家业",
+      "applicableConditions": "宫位：田宅宫；必见星曜：破军；空间：同宫",
+      "conditions": {
+        "palace": [
+          "田宅宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "破军"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【田宅宫破军】（破军=破旧、开创、耗变、流动；坐田宅宫=居所难长住）\n- 本性：房子留不住人，搬迁动静多，难在一处长住，家宅要重新打扫开张（中/坏）\n- 化禄引动：每次折腾完都比原来好一档，破了重立，越换越像样（好）\n- 化忌引动：家宅损耗大，买进卖出、装修这些事上当合同里的坑，防合约纠纷（坏）\n- 逢煞曜（火铃擎羊）：房产动荡破财、快来快去（风险）\n- 时间层：流年/大限田宅宫逢破军化忌，搬迁破耗主题加重（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "home",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-47aed9219108847ae557",
+      "chapter": "二、专门领域知识",
+      "section": "2.9 田宅家业规则",
+      "lineStart": 3939,
+      "lineEnd": 3944,
+      "domain": "home",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "田宅家业",
+      "applicableConditions": "宫位：田宅宫；必见星曜：紫微、太阴；空间：全局",
+      "conditions": {
+        "palace": [
+          "田宅宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [
+        "紫微",
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【紫微/太阴入田宅宫】（紫微=帝座、尊贵、祖业；太阴=田宅正主；坐田宅宫=家底加分）\n- 紫微入田宅宫：祖产有规模，家里的老底子厚，房子背后立着一套家业（好）\n- 太阴入田宅宫：是管田宅宫的正主，房产运、置业能力强（好）\n- 双星齐备或会照：都是家底加分项（好）\n- 化忌引动：家业课题、祖产损耗（坏）\n- 落陷：家底打折（坏/中）",
+      "specificity": 3,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "home",
+        "palace_structure",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 90,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-e397d319cc8d9e064306",
+      "chapter": "二、专门领域知识",
+      "section": "2.12 现代场景映射规则",
+      "lineStart": 4309,
+      "lineEnd": 4313,
+      "domain": "home",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "独居与宠物",
+      "applicableConditions": "宫位：田宅宫；必见星曜：地空；空间：同宫",
+      "conditions": {
+        "palace": [
+          "田宅宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "地空"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【田宅宫见空劫】（地空地劫=空亡、变动；田宅宫=居所与家业）\n- 空劫同宫：住的这条线不安定，安居的底气容易忽高忽低——独居、合租、常搬这些算是它落到现在的现实表达；跟宠物的陪伴是安放感常见的一种解（中/坏）\n- 见吉化：居所则安稳，住的地方给人踏实（好）\n- 煞星聚宫（空劫+火铃羊陀等，本宫+三方四正煞多）：居所课题加重、必有不愉悦事件（风险）\n- 时间层：流年/大限田宅宫逢空劫，搬迁、独居主题加重（中/风险）\n- 纪律：主题≠事件——只显示主题，不判必然（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "home",
+        "palace_structure",
+        "pattern",
+        "star_interpretation",
+        "support_stars"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    }
+  ]
+}

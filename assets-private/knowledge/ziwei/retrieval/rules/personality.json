@@ -1,0 +1,98 @@
+{
+  "module": "ziwei",
+  "layer": "retrieval",
+  "category": "personality",
+  "count": 2,
+  "items": [
+    {
+      "ruleId": "md-d3b13a425f46f00e22c0",
+      "chapter": "一、基础知识",
+      "section": "1.14 命宫、身宫、宫干与命身阴阳",
+      "lineStart": 265,
+      "lineEnd": 265,
+      "domain": "personality",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "1.14 命宫、身宫、宫干与命身阴阳",
+      "applicableConditions": "无附加条件",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "- 宫干先定寅宫干：甲己年丙寅、乙庚年戊寅、丙辛年庚寅、丁壬年壬寅、戊癸年甲寅；从寅起沿地支顺行，每一宫天干顺推一位。",
+      "specificity": 0,
+      "ruleKind": "foundation_theory",
+      "claimStyle": "theory_or_boundary",
+      "categories": [
+        "personality",
+        "theory"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 100,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-25e29791789453c5e373",
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 1482,
+      "lineEnd": 1489,
+      "domain": "personality",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "性格行为",
+      "applicableConditions": "四化：权；空间：全局",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "权"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【化权坐命的第一印象】（化权=主导、决断、管；看亮度与煞吉修正）\n- 得地+吉会：说话做事带官样，有决断、说一不二，骨子里想当说了算的人，给人能担事之感（中/好）\n- 逢煞（羊陀火铃）：强势刚愎、说一不二变说一不二到底，容易与人顶撞冲突（坏）\n- 落陷：决断变武断，想当家却没实权，外强中干（坏）\n- 老书面相印证（颧骨有肉、骨相突出）仅供参考，不作相貌断言（中性）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "personality",
+        "sihua"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 90,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    }
+  ]
+}

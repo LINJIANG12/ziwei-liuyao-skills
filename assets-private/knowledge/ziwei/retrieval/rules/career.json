@@ -1,0 +1,2821 @@
+{
+  "module": "ziwei",
+  "layer": "retrieval",
+  "category": "career",
+  "count": 55,
+  "items": [
+    {
+      "ruleId": "md-144fd202ad0e19bd310a",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2260,
+      "lineEnd": 2264,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "领域总纲",
+      "applicableConditions": "无附加条件",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "- 官禄宫定职业、职位、权责和社会角色；命宫定能力与人格底色；身宫定实际投入；迁移宫定外部平台与发展空间。\n- 财帛宫定职业变现与收入路径；交友宫定团队、下属与合作网络；父母宫定上司、制度、资格、文书与权威来源。\n- 事业四化：禄主职位资源与收入；权主权责、管理与推进；科主资格、专业和名声；忌主制度摩擦、文书障碍与职权压力。",
+      "specificity": 0,
+      "ruleKind": "foundation_theory",
+      "claimStyle": "theory_or_boundary",
+      "categories": [
+        "career",
+        "palace_structure",
+        "sihua",
+        "theory"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 100,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2265,
+      "lineEnd": 2269,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：官禄宫；必见星曜：紫微；空间：同宫",
+      "conditions": {
+        "palace": [
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【官禄宫紫微】（紫微=帝星、坐镇指挥；宜定方向不当先锋；化权职位更高、化科有口碑、无吉化孤高）\n- 本性：天生适合机关、司法、大企业领导层，有坐镇指挥的气场，擅长定方向，不适合自己冲在前面（中/好）\n- 化权：职位更高，能上到高层（好）\n- 化科：在专业圈子里有口碑、专业有声望（好）\n- 无吉化：小心孤高自傲、和同僚正面顶撞，独断过头就没人搭把手、孤立无援（坏）\n- 落陷（陷不利）：贵气使不出来，升职路上阻力大，靠关系不如靠实绩，拿成绩换位置（坏）\n- 时间层（流年引动）：流官见紫微+天魁=今年升职、遇贵人提拔（好）；流官见紫微+擎羊=遇脾气暴躁的老板/上司（坏）；流官见紫微+破军化权=主公司改革变化（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-407855a252a387baed91",
+        "md-10d09d21fad1922d2c97",
+        "md-a4c9a1f258cc57a60685"
+      ]
+    },
+    {
+      "ruleId": "md-cb7e80784c69c19be69a",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2270,
+      "lineEnd": 2274,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "性别：男命；必见星曜：紫微；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命紫微】（事业格局核心是「贵」字；适合走仕途、大机构或行业领军）\n- 本性：天生自带让人信服的气场，坐高位比跑执行更能发挥；机关、司法、大企业管理层、金融高层，或者要有头衔背书的位置都合适；你是统帅型的人，拿大方向拿得稳，但琐碎细节既不爱碰也不擅长（好）\n- 平台选择：走大平台借势比单干强，除非人脉资源攒够了再考虑自己干（中/好）\n- 贵人：贵人多是比你年长、地位高的高层，能真提携你（好）\n- 人际：你偏高冷，跟平级容易有暗劲的竞争，带下属留住人心才是长久之道（中/风险）\n- 最大的坎：孤高自傲、坚持己见搞到孤立无援（坏）\n- 收入：跟着职位走，职位越高财越厚，升职比跳槽更补财运（中/好）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-41443d33e97991c2567e",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2275,
+      "lineEnd": 2279,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "四化：禄；必见星曜：紫微；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【紫微化禄在官禄宫】（禄主职位资源与收入；帝星得禄=地位带动财禄）\n- 本性：职位和财禄双旺，职位越高收入越厚，升职的机会是实打实的（好）\n- 争取：往上走要有底气地争取，贵人常来自上级的提携（好）\n- 禄忌交战（化忌同宫并存）：级别加重，财禄旺但权力纠纷、是非压力并存（风险）\n- 逢煞（擎羊陀罗）：职位资源仍在，但易招嫉妒、暗斗（风险）\n- 时间层（大限/流年）：升职加薪应期，利争取权位（好）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-04c1f2d06639a46ac240",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2280,
+      "lineEnd": 2284,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "四化：忌；必见星曜：紫微；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【紫微化忌在官禄宫】（忌=制度摩擦、职权压力；帝星化忌=权威受挫、官非是非）\n- 本性：事业里官非是非、权力斗争是主要的坑（坏）\n- 与权威关系：容易跟上级或权威人物顶起来，地位有受损的可能，别正面硬碰（坏）\n- 忌冲对宫（父母宫/上司制度）：事件落点在文书、制度与上司关系（坏）\n- 叠忌（大限/流年再引动）：权力斗争升级，职位或名誉受打击（坏）\n- 同类宫相冲（流/限官禄飞忌入本命官禄）：凶上加凶，权威与职位双重受挫（坏）\n- 自化忌：权力局面不可控，主动退让为上（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2290,
+      "lineEnd": 2294,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：官禄宫；必见星曜：天机；空间：同宫",
+      "conditions": {
+        "palace": [
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天机"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【官禄宫天机】（天机=智慧、策划、变动；靠脑子变通、出主意的料）\n- 本性：策划、IT、咨询顾问、教育培训、媒体这些靠脑子变通的行业最合适，是运筹帷幄的料（好）\n- 平台：别自己单干硬扛，大平台才发挥得开（中）\n- 化权：能独当一面，但变动还是多，职业上容易换方向（中/风险）\n- 落陷：思虑过盛、变动多而难落地，职业方向更易漂移（坏）\n- 逢煞（擎羊陀罗火星铃星）：变动带摩擦，点子多但执行受扰（风险）\n- 时间层（大限/流年）：化禄权引动年利换跑道，化忌引动年少横跳（风险）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-53c93f74291bf4c0c215",
+        "md-ab0856d0137eac82def2"
+      ]
+    },
+    {
+      "ruleId": "md-291365a49645ffbfd717",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2300,
+      "lineEnd": 2304,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "四化：禄；必见星曜：天机；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天机"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天机化禄在官禄宫】（禄从脑来；知识、点子生财）\n- 本性：靠知识和点子赚钱最顺，知识型创业、顾问服务是好路数（好）\n- 财源：财从脑子来，越专业越有得赚（好）\n- 禄忌交战（化忌同宫）：点子带来财也带来变动纠纷，级别加重（风险）\n- 时间层（大限/流年）：知识变现、换跑道的窗口，但天机本就多变，见好即收（中/好）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-7fdd5957fb9c9bfada53",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2305,
+      "lineEnd": 2309,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "四化：忌；必见星曜：天机；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天机"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天机化忌在官禄宫】（忌动=变动失手、思虑成障；天机化忌主周转不灵）\n- 本性：职业上变动多、容易失手，方向改来改去容易错过机会（坏）\n- 同事关系：跟同事也容易起摩擦（坏）\n- 财务牵连（化忌坐财帛/流财）：周转不灵、计划财务打结（坏）\n- 应对：少跳槽、少横跳（中）\n- 叠忌（大限/流年再引动）：变动带损失，宜守不宜攻（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-687f927023bf00fc78b0",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2315,
+      "lineEnd": 2319,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "性别：男命；必见星曜：太阳；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阳"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命太阳】（事业格局核心是「名」字；名声和曝光度是你最值钱的资产，知名度越高机会越多）\n- 本性：政治、公共管理、媒体传播、公关、教育培训、品牌营销，凡是要在聚光灯下的领域都合适（好）\n- 角色：你是天生的带头人和表达者，能激励人、能讲愿景，但细节和后台的活投入不够（中）\n- 平台：大平台的光环你借得上；创业方向跟个人品牌绑得死（演讲、顾问、媒体这种），成的概率也高（好）\n- 贵人：贵人多是位高权重的长辈、政商核心人物，紧要关头才出手（好）\n- 人际：你讨喜，但老好人当过头就没了立场，尊重度靠亲和和立场的平衡（中/风险）\n- 最大的风险：名声上出事，形象一塌恢复期很长（坏）\n- 收入：跟职位和知名度走，扩大影响力比跳槽更补财运（中/好）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-789fbd7ef6a472934323",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2320,
+      "lineEnd": 2324,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "性别：女命；必见星曜：太阳；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阳"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【女命太阳】（事业格局核心是「名」字；名声和曝光度是最值钱的资产，知名度越高机会越多）\n- 本性：政治、公共管理、媒体、公关、教育培训、品牌营销，需要公众形象的领域都合适（好）\n- 角色：你是天生的带头人和表达者，能激励人、讲愿景，但细节管理投入不够（中）\n- 平台：大平台的光环借得上；创业如果跟个人品牌绑得紧（演讲、顾问、媒体），成的概率也高（好）\n- 贵人：贵人多是位高权重的长辈、政商核心人物，关键时候才出现（好）\n- 人际：你广受欢迎，但老好人当过头会没立场，尊重度靠亲和和立场的平衡（中/风险）\n- 最大的风险：名誉受损，形象一塌恢复期长（坏）\n- 婚姻牵连：你的事业运跟另一半（太阳象）的成就牵连得紧，对方事业越好，你的社交资源和贵人圈也跟着越旺（中/好）\n- 收入：随职位和知名度涨，扩大影响力比跳槽更补财运（中/好）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-fff41ea1e64b91a28790",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2325,
+      "lineEnd": 2329,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "四化：禄；必见星曜：太阳；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阳"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【太阳化禄在官禄宫】（太阳=名、曝光；禄=名利变现）\n- 本性：名利一起到，职业上的曝光度直接变现，知名度越高机会越多（好）\n- 方向：适合靠名气吃饭的方向（好）\n- 逢煞（擎羊火星铃星）：名声来得急去得快，注意形象透支（风险）\n- 时间层（大限/流年）：曝光机会窗口，利宣传、品牌、公众事务（好）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-7aad7b1ce6493259e143",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2330,
+      "lineEnd": 2334,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "四化：忌；必见星曜：太阳；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阳"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【太阳化忌在官禄宫】（忌=名声受损、无端是非；太阳忌最怕名誉课题）\n- 本性：职业上最大的风险是名声受损，可能摊上无端的是非或升职被卡（坏）\n- 应对：拿实绩说话，别跟权威硬顶（中）\n- 忌冲对宫（迁移宫/外面名声）：事件落点在外部名声与舆论（坏）\n- 叠忌/自化忌：名声课题不可控、级别加重（坏）\n- 时间层（大限/流年）：该时段避免高调曝光、涉险公共事务（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-dc857b7c28623af8513b",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2335,
+      "lineEnd": 2339,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "亮度：陷不利；必见星曜：太阳；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "dim"
+        ],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阳"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【太阳落陷在官禄宫】（太阳陷=光芒被掩，付出多回报少）\n- 本性：职业上付出多、回报少，现在的环境给不了你应有的认可（坏）\n- 应对：换个能让你发光的平台（中）\n- 逢吉（化权/化科）：仍能靠专业与实绩换认可，但比庙旺辛苦（中）\n- 逢煞忌（擎羊陀罗地空地劫）：更显怀才不遇，易被抢功、功劳看不见（坏）\n- 时间层（大限/流年）：忌引动年防名声受损，禄权引动年有回补（风险）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 86,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2340,
+      "lineEnd": 2344,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：官禄宫；必见星曜：武曲；空间：同宫",
+      "conditions": {
+        "palace": [
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【官禄宫武曲】（武曲=财务/技术/刚星；执行力强、意志硬）\n- 本性：执行力强、意志硬，越难的事越能啃下来（好）\n- 化权：自己当老板，财权抓得死（好）\n- 化禄：财源广进，事业财运一起旺（好）\n- 化科：在财务或技术领域有专业口碑（好）\n- 化忌：事业风波多，留神官非或突发的事（坏）\n- 落陷：刚硬之气受压，执行打折、财运起伏，靠实干换回报（中/坏）\n- 逢煞（擎羊陀罗火星铃星）：过刚易折，冲动决策多摩擦（风险）\n- 时间层（大限/流年）：财务、技术领域权责加身之年利攻坚（好）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-f2cabd8205545597e9a1",
+        "md-284d04d17a36b51a7077"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2350,
+      "lineEnd": 2354,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：官禄宫；必见星曜：天同；空间：同宫",
+      "conditions": {
+        "palace": [
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天同"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【官禄宫天同】（天同=福星、和顺、轻松；服务与协作型事业）\n- 本性：适合服务业、艺术创作、儿童相关、教育、娱乐、休闲产业，图个稳定舒服，别挤进高强度竞争的行当（中/好）\n- 升迁：升职慢些，但环境通常和气（中）\n- 化权：能在服务领域独当一面管起事（好）\n- 化禄/化科：轻松顺遂、享福得助（好）\n- 化忌：工作中波折多起来（坏）\n- 逢煞（火星铃星擎羊陀罗）：安逸被打破，被迫应变劳碌（风险）\n- 时间层（大限/流年）：化权化忌引动年因无聊安逸而生压力（风险）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-5a96058a9a7262e44524",
+        "md-282084157f043bae343a"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2355,
+      "lineEnd": 2359,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：官禄宫；必见星曜：廉贞；空间：同宫",
+      "conditions": {
+        "palace": [
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "廉贞"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【官禄宫廉贞】（廉贞=才艺/人际/复杂流程/行政审核；主官非、债务、投诉、审查）\n- 本性：法律、创意设计、艺术表演、政界或要胆识的特种行业合适；才艺和人际关系是你的本钱，在要创意又扛执行的位子上最出彩（中/好）\n- 化禄：贵人搭手，事业顺（好）\n- 化忌：风波多、是非增加，忌重了可能惹上官非，当心事业上的坑（坏）\n- 落陷（陷不利）：才艺与执行打折，是非风险更高（坏）\n- 官非落点（叠宫区分）：坐流夫忌冲流官=婚姻牵连官非；坐流财=财务官非；坐流福=名誉精神困扰；坐流兄=合伙纠纷（坏）\n- 时间层（大限/流年）：忌引动年防审查、投诉、债务课题（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "sensitive_decision",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-5a6a6c83af061be0b170",
+        "md-7c84297275f2cf883ce3"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2360,
+      "lineEnd": 2364,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：官禄宫；必见星曜：天府；空间：同宫",
+      "conditions": {
+        "palace": [
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天府"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【官禄宫天府】（天府=南斗令星、财库；本性守成，机构中坚）\n- 本性：适合机关、银行、大企业行政岗，走得稳，升职慢但可靠（中/好）\n- 守成：别创业冒险，守成是上策；在讲规矩、讲规则的环境里最能施展，是机构里少不得的中坚（中）\n- 逢化权化禄引动（流官/流财飞化入流官）：显老板/经营创业象，有管理资产、当家做主的能力（好）\n- 被引动的创业年：金钱破耗大，需控风险（风险）\n- 化忌或忌冲坐财位库位：不宜投机创业，守成为上策（坏）\n- 落陷：守成力打折，升迁更慢、财库不稳（中/坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-e01d8e46087a7dfefc4c",
+        "md-b3d52d4ca8294bac37e5"
+      ]
+    },
+    {
+      "ruleId": "md-bc94e53ce051caeac69f",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2365,
+      "lineEnd": 2369,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "性别：男命；必见星曜：天府；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天府"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命天府】（事业格局核心是「守」字；最擅长把已有的体系维持好、完善好，在大机构里守正出奇）\n- 本性：机关、银行、会计审计、大企业行政、法务合规这些规范化运作的领域最顺手；你是可靠、负责、有原则的成员，守着规则能把机构打理得井井有条（好）\n- 局限：创新思维平平，变化里找机会不是你的菜；要创业也别碰科技、创新型（中）\n- 平台：成熟机构比创业适合你（中）\n- 贵人：贵人多是机构里的长辈、上级，或者体制内的关键人物，以推荐和提拔的方式出现（好）\n- 人际：你处事公平，但太守规矩有时显得不够活络（中）\n- 最大的风险：原地踏步——太安全了，职业停滞、错过升迁（坏）\n- 收入：以工作工资为主，别盲目跨界（中）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2370,
+      "lineEnd": 2374,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：官禄宫；必见星曜：太阴；空间：同宫",
+      "conditions": {
+        "palace": [
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【官禄宫太阴】（太阴=财星、内务、细腻；女命在此位特别有利）\n- 本性：女命在这个位置特别有利，入庙职业顺、发展好（好）\n- 落陷：职业起伏大，方向跟着适配度走（坏）\n- 化禄：财禄兼顾（好）\n- 化权：在自己领域里说话有分量（好）\n- 化忌：事业暗礁、财务文书波折（坏）\n- 男命：相对女命平常，宜务实积累、内务型岗位（中）\n- 逢煞（地空地劫）：计划多变、成果打折（风险）\n- 适用条件：宫位：命宫、官禄宫（本条目含此条件的读法）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-465cdc960c1ec44fa2ba",
+        "md-ee46b2466bca99392168"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2375,
+      "lineEnd": 2379,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：官禄宫；必见星曜：贪狼；空间：同宫",
+      "conditions": {
+        "palace": [
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【官禄宫贪狼】（贪狼=才艺/人脉/欲望；口才和才艺是本钱，人脉是最大的资产）\n- 本性：娱乐、艺术表演、餐饮、政界、社交媒体、销售都合适（好）\n- 火贪/铃贪（火星铃星同宫）：事业有爆发的机会（好）\n- 化权：在自己的地盘影响力大，能独当一面（好）\n- 化禄：财从才艺和人脉来，是相当顺的格局（好）\n- 化忌：才艺人脉生财受阻，欲望过盛招是非（坏）\n- 落陷：才艺变现打折，财来快去（风险）\n- 时间层（大限/流年）：火铃引动年利爆发，忌引动年防破财（风险）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-2d09f2b6fd8a84e7020e",
+        "md-a358bf96c6cf11a3502f"
+      ]
+    },
+    {
+      "ruleId": "md-234f4f0a0b858bca4a4d",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2390,
+      "lineEnd": 2394,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "四化：禄；必见星曜：贪狼；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【贪狼化禄在官禄宫】（禄=欲望得偿、才艺变现）\n- 本性：多才多艺直接变财路，靠技能和人脉生财，艺术、娱乐、商业方向都合适（好）\n- 活跃度：越活跃机会越多（好）\n- 逢煞（地空地劫火星铃星）：财来快去、留不住（风险）\n- 禄忌交战（化忌同宫）：机会与是非同来，级别加重（风险）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2395,
+      "lineEnd": 2399,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：官禄宫；必见星曜：巨门；空间：同宫",
+      "conditions": {
+        "palace": [
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "巨门"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【官禄宫巨门】（巨门=口才、分析、争议、暗面、是非；亦主中介、暗职、解说代劳）\n- 本性：天生的口才型职业：律师、老师、主播、命理师、谈判专家、外交官都是好选择（好）\n- 化禄：以口生财，顺当，收入靠才华（好）\n- 化权：专业话语权强（好）\n- 化忌：口舌是非多，当心话不当说砸了职业形象（坏）\n- 化禄坐福德：暗财外水、转介绍费（好）\n- 逢煞（擎羊火星铃星）：口舌升级为是非官非（坏）\n- 适用条件：宫位：命宫、官禄宫（本条目含此条件的读法）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-f95037a8bf376194d063",
+        "md-e064bbb2eda984a891e1"
+      ]
+    },
+    {
+      "ruleId": "md-949aece44a48bd85320a",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2405,
+      "lineEnd": 2409,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "四化：禄；必见星曜：巨门；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "巨门"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【巨门化禄在官禄宫】（禄=以口生财）\n- 本性：靠嘴吃饭顺风顺水，律师、教师、传媒、销售、培训方向最旺，越能说越有财（好）\n- 暗财（化禄坐福德）：外水意外之财、转介绍费（好）\n- 逢煞（擎羊铃星）：口才变现但易招是非眼红（风险）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-6b35341351857a1850ef",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2410,
+      "lineEnd": 2414,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "四化：忌；必见星曜：巨门；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "巨门"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【巨门化忌在官禄宫】（忌=口舌是非、误解、合同沟通风险）\n- 本性：事业上口舌是非多，要收着点（坏）\n- 落点：争议、误解和合同沟通上的风险（坏）\n- 叠忌/忌冲：是非升级为官非、名誉受损（坏）\n- 时间层（大限/流年）：该时段少说话、文书留痕（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2415,
+      "lineEnd": 2419,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：官禄宫；必见星曜：天相；空间：同宫",
+      "conditions": {
+        "palace": [
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天相"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【官禄宫天相】（天相=印绶、文书、辅佐、行政；位高无权，本身不四化）\n- 本性：行政管理、法务、会计、秘书、副手这类辅佐岗最合适，大机构里发展最理想；踏实可靠是你最大的招牌，能得上司信任，有贵人提携（中/好）\n- 位高无权：别小看辅佐位，「位高无权」是天相的特色，辅佐他人同样有价值（中）\n- 逢吉（权印/贵人）：有管理和批准色彩，能升职，文书顺利（好）\n- 三方忌煞（尤其擎羊）冲印：贷款不过关、文书流程障碍、行政或法律事务受阻（坏）\n- 逢忌煞小人：办事不诚实、出卖公司之象（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-53a6c7783abc22fde19e",
+        "md-39b67c7453bc316ce6ff"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2420,
+      "lineEnd": 2424,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：官禄宫；必见星曜：天梁；空间：同宫",
+      "conditions": {
+        "palace": [
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天梁"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【官禄宫天梁】（天梁=领导、权威、学识；荫星，宜监察、教育、医疗）\n- 本性：法律、医学、教育、宗教、监察、慈善这类要权威和学识的领域合适（好）\n- 坐午宫入庙：古论里是一品武官的相，军警法官显贵（好）\n- 化权：权威大增，专业里说话有分量（好）\n- 化科：名声才学一起到，是理想的学术型、专业型格局（好）\n- 天梁+权禄：能力好有带领力（好）\n- 天梁+擎羊：脾气不好办事冲动（坏）\n- 天梁+地空：不务正业不管事（坏）\n- 化忌：荫庇打折，权威受质疑、遇是非（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "sensitive_decision",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-f8ca5976d6b347641def",
+        "md-584f980edc0731425eb0"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2430,
+      "lineEnd": 2434,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：官禄宫；必见星曜：七杀；空间：同宫",
+      "conditions": {
+        "palace": [
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "七杀"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【官禄宫七杀】（七杀=杀伐、决断、拼劲；谈判者高能力、决定性快速之事）\n- 本性：军警、创业、竞争激烈的行业合适，有拼劲，适合自己打天下或坐需要拍板的位子（好）\n- 七杀朝斗格：武职显贵，格局高（好）\n- 竞争：不怕竞争不怕难，越是硬仗越出状态，是拼出来的事业（好）\n- 地支细分：寅申=边疆将军（功劳看不见）；巳亥=战斗将军（有权能发挥）；辰戌=入库将军（有能力屈于）；卯酉=会吉混财圈、会煞（中/坏）\n- 煞星聚宫（本宫+三方四正≥4煞）：该宫必有不愉悦事件，硬仗变硬伤、突发意外或事业冲突（坏）\n- 化忌引动：事业冲突、官非风险（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-169900ce42b3fa037798",
+        "md-8fda65feca8f415fddfe"
+      ]
+    },
+    {
+      "ruleId": "md-4b5e16c4c49914909398",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2435,
+      "lineEnd": 2439,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "性别：男命；必见星曜：七杀；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "七杀"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命七杀】（事业格局核心是「勇」字；越是竞争和挑战的环境越能发挥，岗位越高压越出潜力）\n- 本性：军警执法、创业、外贸国际、财禄经营兼并、体育竞技、外科手术，要魄力、要单兵作战的领域都合适（好）\n- 角色：你是团队里的冲锋队长，推进快、不怕难，但管理风格硬，下属要带出跟随感而不是怕你（中）\n- 创业：创业倾向强，在红海里杀得出来；但冲动决策容易浪费资源（好/风险）\n- 贵人：贵人多是军政商界的强势人物或资历深的实干前辈，以并肩作战或关键时刻提携的方式出现（好）\n- 人际：你容易树敌，性格不妥协会把对手逼成联盟，少一点无谓摩擦（风险）\n- 最大的风险：意气用事、一意孤行（坏）\n- 化忌时期：还容易摊上突发意外或事业冲突（坏）\n- 收入：随实力和位置走，越在能发挥魄力的岗位，财运越好（好）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "career",
+        "pattern",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-cc4ea768818eb2676c1a",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2440,
+      "lineEnd": 2444,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "性别：女命；必见星曜：七杀；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "七杀"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【女命七杀】（事业格局核心是「勇」字；竞争和挑战的环境最能发挥，岗位越高压越出潜力）\n- 本性：军警执法、创业、外贸国际、财禄经营兼并、体育竞技、外科手术，要魄力的领域都合适（好）\n- 主轴：这种命格的女性，事业往往比感情更顺，以事业为主轴——成就能带来自信，也让日子更有方向（好）\n- 角色：你是冲锋队长型的人，推进快、不怕难，但管理风格硬（中）\n- 创业：创业倾向强，适合在竞争激烈的市场里杀出来（好）\n- 最大的风险：意气用事、一意孤行（坏）\n- 化忌期：还有突发意外或事业冲突的可能（坏）\n- 收入：随实力和位置走，岗位越能发挥魄力，财运越好（好）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "career",
+        "pattern",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2450,
+      "lineEnd": 2454,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：官禄宫；必见星曜：破军；空间：同宫",
+      "conditions": {
+        "palace": [
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "破军"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【官禄宫破军】（破军=破旧迎新、改革变动、煽动励志；先锋者格局）\n- 本性：技术专业、先锋科技、旅游贸易、开创型事业合适，有破旧立新的劲头（好）\n- 英星入庙（子午宫）：男命武职有大成（好）\n- 化禄：财从开创来，破而后立（好）\n- 化权：开拓力更强，是先锋者的格局（好）\n- 化忌：事业波折多，变动容易带损失，守比攻稳（坏）\n- 破军循环（辞职→新工作积极→变化）：忍无可忍而产生改变（中/风险）\n- 逢煞（擎羊陀罗地空地劫）：破格变破败，改革伤身（坏）\n- 时间层（大限/流年）：变动之年破局即机会，忌引动年防损失（风险）\n- 适用条件：宫位：命宫、官禄宫（本条目含此条件的读法）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-d54a5f07cd6e09756b4d",
+        "md-739d09aed2d0ffe552bb"
+      ]
+    },
+    {
+      "ruleId": "md-01fdcab6bd139e4ade95",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2455,
+      "lineEnd": 2459,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "性别：男命；必见星曜：破军；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "破军"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命破军】（事业格局核心是「破」和「变」；变革、创新的环境最能发挥，守旧重复是最受不了的状态）\n- 本性：科技创新、旅游贸易、国际商务、先锋艺术、军事外交、改革型管理，凡是要开拓精神、敢打破现状的领域都合适，「走天下」是你的路（好）\n- 角色：你是敢提不同意见、推着变革走的人，突破的关口最出价值，但也会影响团队稳定（中/风险）\n- 创业：破军很适合创业，尤其创新密集的领域，靠一技之长打天下最对路（好）\n- 贵人：贵人来自天南海北——旅途、跨界、特殊际遇里冒出来，不拘一格，可以说天下之大皆有贵人（好）\n- 人际：人际流动性强，身边的人换了一茬又一茬，新机遇是你的优势（中/好）\n- 财运：财运跟变动直接挂钩，每破一次局财运都可能上一个台阶（好）\n- 化禄时：「破而后立」的改善尤其明显（好）\n- 化忌时：变动带损失，破局变破败（坏）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-50f9bb84184488cc9b86",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2460,
+      "lineEnd": 2464,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "性别：女命；必见星曜：破军；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "破军"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【女命破军】（事业格局核心是「破」和「变」；变革、创新的环境最能发挥，守旧重复最难忍）\n- 本性：科技创新、旅游贸易、国际商务、先锋艺术、军事外交、改革型管理，要开拓精神的领域都合适，「走天下」是你的路（好）\n- 角色：你是敢提不同意见、推动变革的人，突破关口最出价值，但会影响团队稳定（中/风险）\n- 创业：破军很适合创业，尤其创新密集的领域，靠一技之长打天下（好）\n- 贵人：贵人来自天南海北，旅途、跨界、特殊际遇里冒出来，不拘一格（好）\n- 人际：人际流动强，身边的人换得快，新机遇是你的优势（中/好）\n- 财运：财运跟变动挂钩，每次破局都可能带动财运上升，化禄时尤其明显（好）\n- 主轴：这种命格的女性，事业往往比感情更顺，以事业为主轴，靠一技之长打天下，异地发展、外部流动会牵动财运和格局（好）\n- 化忌时：变动带损失（坏）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-4ab4ae6c60d87c2054e7",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2465,
+      "lineEnd": 2469,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "四化：禄；必见星曜：破军；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "破军"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【破军化禄在官禄宫】（禄=破而后立、开创得财）\n- 本性：事业走「破而后立」的路，每次转行或创业都带来更好的机会（好）\n- 方式：靠开拓精神攒事业财富（好）\n- 逢煞（火星铃星地空地劫）：破立来得急，财进财出波动大（风险）\n- 时间层（大限/流年化禄引动）：转行创业窗口，破局即机会（好）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-f3ff00e05563d9550998",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2470,
+      "lineEnd": 2474,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "四化：忌；必见星曜：破军；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "破军"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【破军化忌在官禄宫】（忌=变动带损失；破局变破败）\n- 本性：事业波折多，变动容易带损失（坏）\n- 应对：这阵子守比攻稳（中）\n- 叠忌/忌冲：换工作、创业失败成本高，忌冲对宫=事件落点（坏）\n- 自化忌：变动不可控，慎签长期承诺（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-3bdca94e632e9461aa03",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2475,
+      "lineEnd": 2479,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "修正：佳格；空间：会照",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【机月同梁聚】（天机太阴天同天梁聚在命、迁移、财帛、官禄；聪慧谋略、文质彬彬）\n- 本性：人聪慧、有谋略、文质彬彬，适合公职、学术、文艺、服务业，稳着来为上策（中/好）\n- 逢煞忌冲（擎羊陀罗火星铃星地空地劫）：安定的底子被扰，谋略变多虑、易劳碌奔波（坏）\n- 化忌引动：稳定破局，宜守（坏）\n- 时间层（大限/流年吉化引动）：利公职、学术晋升（好）",
+      "specificity": 0,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "pattern"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 92,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-beb904667e4b339ec1a0",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2480,
+      "lineEnd": 2484,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "修正：佳格；空间：会照",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【廉贞天相印绶格】（廉贞天相同宫；印绶格局，秉公清廉）\n- 本性：为人秉公，适合公职或行政管理，有清廉的名声，有贵人相助（好）\n- 三方忌煞（尤其擎羊）冲印：贷款不过关、文书流程障碍、行政或法律事务受阻（坏）\n- 逢忌煞小人：清廉受损、办事不诚实、出卖公司之象（坏）\n- 化忌引动：印绶蒙尘，官非文书课题（坏）",
+      "specificity": 0,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "pattern"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 92,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-634dd1072c0099cfdf77",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2485,
+      "lineEnd": 2489,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "修正：佳格；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【太阳太阴同宫】（日月同宫；光华映照，阴阳平衡、文武兼备）\n- 本性：阴阳平衡、文武兼备，异性缘好，事业顺、名声远（好）\n- 化忌引动（太阳化忌/太阴化忌）：名声或财帛课题，日月暗淡（坏）\n- 逢煞（地空地劫擎羊陀罗）：光华打折，事业起伏（风险）\n- 时间层（大限/流年）：日月格/权禄引动主岗位更迭替换（中）",
+      "specificity": 0,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "pattern"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-72e68d9ffc301b5596c3",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2490,
+      "lineEnd": 2494,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "修正：上格；空间：夹宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "adjacent",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【太阳太阴夹命】（太阳太阴分居命宫两侧夹照；光明磊落）\n- 本性：光明磊落，一生有贵人相助，事业蓬勃（好）\n- 男命：主官贵（好）\n- 女命：旺夫兴家（好）\n- 三方忌煞冲：贵人打折、光明受阻（坏）",
+      "specificity": 0,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 93,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-36d7d21cdf5b71b2007f",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2495,
+      "lineEnd": 2499,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "修正：上格；空间：夹宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "adjacent",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【左辅右弼夹命】（辅弼夹宫；贵人不断）\n- 本性：一生贵人不断，逢凶化吉、遇难成祥，适合仕途或大企业，是有贵人提携的命（好）\n- 忌煞冲夹：贵人助力打折，需主动经营关系（中）\n- 时间层（大限/流年）：贵人应期，利求荐举提拔（好）\n- 适用条件：左辅右弼夹辅命宫，一生贵人不断，（本条目含此条件的读法）",
+      "specificity": 0,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 93,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-41016962105b4f1b3c98",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2518,
+      "lineEnd": 2526,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：官禄宫；四化：权；必见星曜：紫微、七杀；空间：同宫",
+      "conditions": {
+        "palace": [
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "权"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "紫微",
+        "七杀"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【官禄宫紫微七杀】（紫微七杀组合；最欢迎权星进来）\n- 化权（或紫微七杀同宫）：官权加重，很好（好）\n- 财星跑进官禄宫：往贪官那条路走（坏）\n- 七杀加擎羊：当官的路不好走（坏）\n- 官带的星越大：官做得越大，星越小官越差（中）\n- 时间层（流年引动）：流官见紫微+破军化权=主公司改革变化（中）",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 78,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-2c5e25f983ffda131b6a",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2535,
+      "lineEnd": 2542,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：命宫、官禄宫、福德宫；必见星曜：天同；空间：全局",
+      "conditions": {
+        "palace": [
+          "命宫",
+          "官禄宫",
+          "福德宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [
+        "天同"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天同事业底子】（天同=人和、舒适、协作、享福、随缘；主下属/小孩/年小者）\n- 本性：命宫、福德宫偏内在舒适和人际和谐；官禄宫适合服务、教育、儿童、艺术和协作型组织（中）\n- 化禄/化科：轻松顺遂、享福得助（好）\n- 化权：因无聊安逸而生压力（风险）\n- 化忌：福德受损生活波折、工作波折（坏）\n- 风险：过度安逸、缺主动性，解读时留意（风险）",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 100,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-024ceef914420ee58e76",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2543,
+      "lineEnd": 2549,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：财帛宫、官禄宫；四化：禄、忌；必见星曜：巨门；空间：全局",
+      "conditions": {
+        "palace": [
+          "财帛宫",
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [
+        "巨门"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【巨门事业底子】（巨门=口才、分析、争议、暗面和是非；亦主暗财、中介、暗职、解说代劳）\n- 本性：官禄宫、财帛宫适合律师、教师、传媒、咨询、销售和表达型工作（中/好）\n- 化禄：读作「以口生财」；化禄坐福德=外水意外之财（好）\n- 化忌：读作争议、误解和合同沟通上的风险（坏）\n- 暗财属性：巨门=暗财（转介绍费、暗钱）（中）",
+      "specificity": 5,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "sensitive_decision",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 90,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-2cf1e06d236a622a20eb",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2550,
+      "lineEnd": 2556,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：交友宫、官禄宫；必见星曜：紫微、廉贞、天相；空间：同宫",
+      "conditions": {
+        "palace": [
+          "交友宫",
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "紫微",
+        "廉贞",
+        "天相"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天相事业底子】（天相（紫微、廉贞组）=佐才、印绶、行政、协调和厚道；本身不四化）\n- 本性：官禄宫、交友宫适合助理、秘书、法务、行政、组织中介和规则执行（中/好）\n- 组合：跟紫微或廉贞同宫，读作借权、印绶或清廉的主题（中）\n- 本性2：天相=服务技术性、衣食之事（中）\n- 逢吉（权印/贵人）：升职、有管理和批准色彩（好）\n- 三方忌煞（尤其擎羊）冲印：文书流程障碍、行政或法律事务受阻（坏）\n- 逢忌煞小人：办事不诚实、出卖公司之象（坏）",
+      "specificity": 5,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 78,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-d2a59e22b9321fdc10ea",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2557,
+      "lineEnd": 2562,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：命宫；必见星曜：紫微、天府、七杀；空间：对宫",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "opposite",
+      "requiredStars": [
+        "紫微",
+        "天府",
+        "七杀"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【七杀坐命紫府朝垣】（七杀坐命宫，对宫有紫微天府相照；爵禄荣昌）\n- 本性：主爵禄荣昌，武职或高压领导角色（好）\n- 地支复核：支位要按地支条件复核（中）\n- 地支细分（寅申=边疆将军功劳看不见；巳亥=战斗将军有权能发挥；辰戌=入库将军有能力屈于；卯酉=会吉混财圈、会煞）（中/坏）\n- 逢煞忌冲：爵禄打折、武职受挫（坏）",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 75,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-87108473512a4d788a4a",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2578,
+      "lineEnd": 2582,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：迁移宫；四化：禄、忌；必见星曜：天机；空间：会照",
+      "conditions": {
+        "palace": [
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "天机"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【迁移宫天机】（外出变动多、旅途机会多；适合常出差的工作）\n- 本性：外出变动多、旅途机会多，适合常出差的工作（中）\n- 在外应变：在外应变快，能迅速适应新环境（好）\n- 化禄：出外生财，靠智慧闯（好）\n- 化忌：外出波折多、路上不顺（坏）\n- 时间层（大限/流年）：出差、外派、异地机会应期（中）",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-8fff493ded1a89ed5bc3",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2593,
+      "lineEnd": 2597,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：交友宫；亮度：庙旺；四化：忌；必见星曜：太阳；空间：会照",
+      "conditions": {
+        "palace": [
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "太阳"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【交友宫太阳】（朋友里有名望地位高的人；事业借得上公众资源的光）\n- 本性：朋友里有名望地位高的人，事业借得上公众资源的光（好）\n- 入庙：贵友真出力（好）\n- 落陷：帮助有限、关系浮面（中/坏）\n- 化忌：朋友成是非源头，小心被拖累名声（坏）",
+      "specificity": 3,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 70,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-a94ee3e510e3fd7a1af9",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2608,
+      "lineEnd": 2612,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：交友宫；四化：禄、忌；必见星曜：天同；空间：会照",
+      "conditions": {
+        "palace": [
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "天同"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【交友宫天同】（朋友关系温和、圈里轻松，但偏泛泛之交）\n- 本性：朋友关系温和、圈里轻松，但偏泛泛之交（中）\n- 下属：下属温顺配合、氛围融洽（好）\n- 化禄：朋友带来好机会（好）\n- 化忌：朋友失和，合作懒散拖效率（坏）",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-86bb1395a1d5395ac453",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2638,
+      "lineEnd": 2642,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：子女宫；四化：禄、忌；必见星曜：巨门；空间：会照",
+      "conditions": {
+        "palace": [
+          "子女宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "巨门"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【子女宫巨门】（子女口才好、能辩、思维快；亲子口舌摩擦）\n- 本性：子女口才好、能辩、思维快（好）\n- 亲子：但亲子间口舌摩擦多（风险）\n- 事业方向：子女适合语言、法律、教育类工作（中/好）\n- 化禄：子女靠嘴生财（好）\n- 化忌：子女口舌纠纷多（坏）",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "sensitive_decision",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-c14ba57813966d3201b7",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2643,
+      "lineEnd": 2647,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：迁移宫；四化：禄、忌；必见星曜：巨门；空间：会照",
+      "conditions": {
+        "palace": [
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "巨门"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【迁移宫巨门】（出门口舌是非多；在外靠嘴皮子能谋生）\n- 本性：出门口舌是非多，但在外靠嘴皮子能谋生（中）\n- 事业：法律、教育、传媒类工作在外有机会（中/好）\n- 化禄：口才在外有大用武之地（好）\n- 化忌：外出是非不断，少说多做，当心口舌官非（坏）",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "sensitive_decision",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-33c64d9da2f579d982f8",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2658,
+      "lineEnd": 2662,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：子女宫、父母宫；四化：忌；必见星曜：天相；空间：会照",
+      "conditions": {
+        "palace": [
+          "子女宫",
+          "父母宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "天相"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【子女宫天相会照父母宫】（逢化忌时尤须留意）\n- 本性：子女厚道老实、孝顺踏实，亲子关系稳定（好）\n- 事业方向：适合行政、法务、辅佐型工作；孩子不是冒险开拓型的，但靠得住，让父母安心（中/好）\n- 化忌：逢化忌时尤须留意，亲子与文书课题加重（坏）",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-ce1f45688d86d2ec7501",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2668,
+      "lineEnd": 2672,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：迁移宫；必见星曜：天相；空间：会照",
+      "conditions": {
+        "palace": [
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "天相"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【迁移宫天相】（出外平稳；大机构或正式环境发展顺）\n- 本性：出外平稳，大机构或正式环境发展顺（好）\n- 在外角色：在外擅长配合，适合驻外的行政、法务工作（中/好）\n- 整体：整体外出运稳，大起大落少（中/好）\n- 三方忌煞（尤其擎羊）冲：在外文书、合同、行政受阻（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 92,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-426823715a5e257b119e",
+      "chapter": "二、专门领域知识",
+      "section": "2.2 事业职业规则",
+      "lineStart": 2693,
+      "lineEnd": 2697,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "事业职业",
+      "applicableConditions": "宫位：父母宫；四化：禄、忌；必见星曜：破军；空间：会照",
+      "conditions": {
+        "palace": [
+          "父母宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "破军"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【父母宫破军】（父母宫=上司、制度；破军=变动、缘浅）\n- 本性：跟父母的缘分浅，早年独立，亲子关系变数多；家里背景可能有较大变动（中/坏）\n- 上司：跟上司的关系也变动不定，很难长期跟一个上司干（中/坏）\n- 化禄：跟父母虽经波折，但最终破而后立（好）\n- 化忌：亲子与上司的关系课题都会更重（坏）",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-ebf3f0b4992f814c9d66",
+      "chapter": "二、专门领域知识",
+      "section": "2.12 现代场景映射规则",
+      "lineStart": 4274,
+      "lineEnd": 4278,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "互联网与新兴行业",
+      "applicableConditions": "宫位：官禄宫；必见星曜：天机；空间：同宫",
+      "conditions": {
+        "palace": [
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天机"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "互联网、IT、数据、内容和新科技行业，适合信息处理和脑力变现的配置：天机、太阳、巨门这类口才信息星入官禄宫时，运营、产品、内容、技术方向都施展得开。现代行业映射是对传统官禄宫取义的类比，别拿行业名当死标准。",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-bcdafe2c45d6e4c4920d",
+      "chapter": "二、专门领域知识",
+      "section": "2.12 现代场景映射规则",
+      "lineStart": 4279,
+      "lineEnd": 4283,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "自由职业与副业",
+      "applicableConditions": "宫位：命宫；必见星曜：天机；空间：同宫",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天机"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "自由职业、远程办公、副业是现代职业形态的类比：命宫、财帛宫见天机、贪狼、太阴这类灵活才艺星时，多线收入和做个人品牌比较顺；副业宜小步试错、以正职现金流打底，别一上来就孤注一掷。",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-834d15cdb9c45c1833b7",
+      "chapter": "二、专门领域知识",
+      "section": "2.13 断语合成规则（借星、吉凶加权与取象纪律）",
+      "lineStart": 4347,
+      "lineEnd": 4359,
+      "domain": "career",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "职业映射补遗",
+      "applicableConditions": "宫位：官禄宫；空间：全局",
+      "conditions": {
+        "palace": [
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "具体职业按主星加宫位组合取象：音乐演奏、演艺——廉贞、贪狼、昌曲入官禄宫或命宫三方，主才艺表演类；酒吧、餐饮老板——贪狼入官禄宫逢火铃；牧师、神职、身心灵——天梁入官禄宫（宗教、教育、慈善），天巫、月德、恩光等福德类杂曜聚官禄宫或大限命宫；入殓师、殡葬——天相入官禄宫逢地空地劫，或巨门陷弱会照丧葬杂曜（天哭、天伤）；航运物流、运输——破军、天马入官禄宫或迁移；健身教练、运动产业——武曲、七杀入官禄宫；工厂、制造业、国企——天府、紫微入官禄宫主大机构和体制内，武曲入官禄宫主工业制造业实干岗；小生意、个体经营——贪狼、破军入官禄宫或财帛，主自营创业和灵活经营。",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "career",
+        "palace_structure",
+        "pattern",
+        "star_interpretation",
+        "support_stars",
+        "time_layer"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 100,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    }
+  ]
+}

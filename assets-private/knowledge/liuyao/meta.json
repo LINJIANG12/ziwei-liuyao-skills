@@ -1,0 +1,8 @@
+{
+  "module": "liuyao",
+  "sourceSha256": "324d8d841da3ccd88b4500848b4c36564a776f061075e1811654b7db6b7602cb",
+  "humanSourcePath": "src/renderer/packages/liuyao/knowledge-source.md",
+  "aiSourcePath": "src/renderer/packages/liuyao/knowledge-ai-source.md",
+  "chunkCount": 206,
+  "foundationVersion": "v4"
+}

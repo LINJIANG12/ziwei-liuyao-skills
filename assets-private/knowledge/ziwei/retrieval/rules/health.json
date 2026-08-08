@@ -1,0 +1,914 @@
+{
+  "module": "ziwei",
+  "layer": "retrieval",
+  "category": "health",
+  "count": 17,
+  "items": [
+    {
+      "ruleId": "md-eb4726d1431dc60d1106",
+      "chapter": "一、基础知识",
+      "section": "1.21 疾厄宫地支主轴",
+      "lineStart": 381,
+      "lineEnd": 395,
+      "domain": "health",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "1.21 疾厄宫地支主轴",
+      "applicableConditions": "无附加条件",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "| 疾厄宫地支 | 传统脏腑/部位主轴 |\n| --- | --- |\n| 子 | 膀胱、泌尿 |\n| 丑 | 肝 |\n| 寅 | 胆、呼吸 |\n| 卯 | 肝胆 |\n| 辰 | 脾胃 |\n| 巳 | 心、小肠 |\n| 午 | 心、头脑 |\n| 未 | 脾胃 |\n| 申 | 肺、大肠 |\n| 酉 | 肾 |\n| 戌 | 脾胃、大肠 |\n| 亥 | 肾、膀胱、生殖 |。命盘不作医疗判断，健康问题以体检与医嘱为准；疾厄宫只读体质倾向与风险主题。",
+      "specificity": 0,
+      "ruleKind": "reference_table",
+      "claimStyle": "calculation",
+      "categories": [
+        "health",
+        "reference_table",
+        "sensitive_health"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 100,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "一、基础知识",
+      "section": "1.21 疾厄宫地支主轴",
+      "lineStart": 396,
+      "lineEnd": 396,
+      "domain": "health",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "1.21 疾厄宫地支主轴",
+      "applicableConditions": "无附加条件",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "- 疾厄判读以疾厄宫宫位地支对应脏腑为唯一部位依据（丑宫重点肝、酉宫重点肾），再取主星与亮度描述体质性质与强弱，最后叠加羊陀火铃、空劫和化忌；星曜五行与经络映射不作判读依据，不得用星曜五行替换疾厄宫地支；同一地支的脏腑映射有分歧时，按成立条件分开列出，不平均合成。\n- 擎羊陀罗入疾厄加强开刀、血光、损伤主题；铃星、陀罗、化忌、落陷叠加时，阻滞与损耗主题加重。\n- 大限、流年或流月进入疾厄宫及其三方四正时，地支脏腑主题成为该时间层的重点。\n- 纪律：命盘不作医疗判断，健康问题以体检与医嘱为准；单引动只报主题加重，不判必然，疾厄宫只读体质倾向与风险主题。",
+      "specificity": 0,
+      "ruleKind": "reference_table",
+      "claimStyle": "calculation",
+      "categories": [
+        "health",
+        "palace_structure",
+        "reference_table",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation",
+        "support_stars",
+        "time_layer"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 100,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-6c24f8383c887ae9e3e4",
+        "md-299df14b0e033f007f28",
+        "md-3af4adb894ca1bb7eb5e",
+        "md-9c7ab7bf4f676bacf421",
+        "md-8d7b4be35de27db39593",
+        "md-ecbc5a10be2e5f1594f7",
+        "md-fcdeab6e4df935e0fa3e"
+      ]
+    },
+    {
+      "ruleId": "md-fb9aecc9922f699f91d7",
+      "chapter": "二、专门领域知识",
+      "section": "2.4 疾厄健康规则",
+      "lineStart": 3166,
+      "lineEnd": 3169,
+      "domain": "health",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "领域总纲",
+      "applicableConditions": "无附加条件",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "- 疾厄宫地支定脏腑部位主轴；主星定体质性质；亮度定发挥强弱；羊陀火铃空劫定刑、急、损、空；四化定资源、承担、名声或阻滞方向。\n- 命宫定先天体质与身体人格，福德宫定情绪、休息与精神耗损，父母宫定先天遗传与长辈层，迁移宫定外部环境牵动；时间层定身体主题的激活期。",
+      "specificity": 0,
+      "ruleKind": "foundation_theory",
+      "claimStyle": "theory_or_boundary",
+      "categories": [
+        "health",
+        "palace_structure",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation",
+        "support_stars",
+        "theory",
+        "time_layer"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 100,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-e7a6d354580a35b05eb9",
+      "chapter": "二、专门领域知识",
+      "section": "2.4 疾厄健康规则",
+      "lineStart": 3170,
+      "lineEnd": 3192,
+      "domain": "health",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "疾厄宫星曜取义",
+      "applicableConditions": "无附加条件",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "| 星曜 | 直接取义 | 化忌、落陷与煞曜修正 |\n| --- | --- | --- |\n| 紫微 | 帝星入疾厄，体质以脾胃与血脉为主；自尊、权位和压力影响身体状态。 | 化忌主自尊受挫、压力内攻，脾胃与血脉课题加重。 |\n| 天机 | 思虑、谋划、变动对应肝气、神经与四肢；思虑过多则睡眠、肝气和消化受扰。 | 化忌主思虑反复、神经不宁、肝气郁结；煞曜使变动与损耗加急。 |\n| 太阳 | 阳气、公开压力与劳作对应心、眼和头面；明旺则气血外显，落陷则阳弱而劳。 | 落陷或化忌主眼目、头面、心火与外部压力课题；火煞加急。 |\n| 武曲 | 刚硬、执行、刑囚之性对应肺骨与损伤主题；疾厄宫武曲主身体代价较直接。 | 化忌主刑囚、手术、血光、骨伤；羊陀、火铃同轴则急烈加重。 |\n| 天同 | 福星入疾厄，体质偏柔润；安逸、享乐和水液代谢为主要身体主题。 | 化忌主寒湿、泌尿、水液与代谢阻滞；空劫使福气难以兑现为体力。 |\n| 廉贞 | 廉贞主火气、血液、情绪与欲望；感情纠纷和情绪起伏可转成身体耗损。 | 化忌主血光、外伤、刑囚与火气失控；火铃同宫则突发性增强。 |\n| 天府 | 财库之星入疾厄，身体重守成与储备；脾胃、湿滞、体重和代谢为主轴。 | 化忌或煞曜主积滞、沉重、恢复迟缓；过度安逸使土湿加重。 |\n| 太阴 | 太阴主阴水、肾、生殖与情绪；夜生、庙旺、田宅财帛之助使滋养力增强。 | 落陷或化忌主忧思、阴寒、生殖与情绪课题；空劫主滋养不足。 |\n| 贪狼 | 欲望、酒色、享乐与社交对应肝火、神经和生殖耗损；节制为贪狼疾厄核心。 | 化忌主欲望失控、肝火、泌尿生殖课题；火铃同宫则爆发，空劫则欲求落空而耗神。 |\n| 巨门 | 暗曜主思虑、口舌与郁结；是非压力先应于脾胃、消化和口腔。 | 化忌主郁结、消化道与口舌课题；陀罗使病象缠绵，火星使炎热加急。 |\n| 天相 | 印星入疾厄，体质随环境与辅煞而变；肾水、皮肤和调节功能为主轴。 | 煞曜冲击则波动加重；化忌主边界、调节和水液阻滞。 |\n| 天梁 | 荫星入疾厄有逢凶化吉、恢复与保护之性；骨、脾胃和长期承压为主题。 | 落陷、化忌或煞曜主孤承、慢性耗损与骨脾胃课题；吉曜可增强荫护。 |\n| 七杀 | 将星主刚烈、急变和独立承受；身体取肺骨、外伤与高压耗损。 | 化忌主急烈、外伤、手术与血光；羊陀火铃同轴则刑冲骤发。 |\n| 破军 | 破旧、耗变、流动对应肾水、骨骼、血液与身体结构变动。 | 化忌主破耗、手术、外伤与恢复反复；空劫主损耗难留。 |\n\n- 疾厄判读以 1.21 疾厄宫地支主轴为唯一部位依据；星曜取义只描述体质性质与表现方式，不另立脏腑映射。\n- 化禄使体质资源、恢复力或滋养力增加；化权使身体承担、控制与劳作加重；化科使专业、名声与调理秩序成为辅助；化忌使对应星曜的阻滞、耗损和病象加重。\n- 羊陀主刑伤、缠滞；火铃主急爆、炎烈；空劫主虚耗、空转；煞曜与化忌同轴时，取急、阻、损、空叠加。",
+      "specificity": 0,
+      "ruleKind": "foundation_theory",
+      "claimStyle": "theory_or_boundary",
+      "categories": [
+        "health",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation",
+        "support_stars",
+        "theory"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 100,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-732c71f626f852d795f7",
+      "chapter": "二、专门领域知识",
+      "section": "2.4 疾厄健康规则",
+      "lineStart": 3193,
+      "lineEnd": 3197,
+      "domain": "health",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "疾厄健康",
+      "applicableConditions": "四化：忌；必见星曜：紫微；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【紫微入疾厄】（紫微=帝星，体质以脾胃与血脉为主；自尊、权位和压力影响身体状态）\n- 无引动：体质以脾胃与血脉为主，身体状态受自尊、权位和压力牵动（中）\n- 化忌在疾厄宫（或三方见忌）：情绪上的负重比身体更早现身——自尊受损、憋着劲绷着，时间长了转到脾胃和心脑血管上；这种盘要多给自己松扣，别硬扛（坏/风险）\n- 化忌+煞聚（本宫及三方四正 ≥4 煞）：压力内攻升级，脾胃与心脑血管课题升为事件落点级别（坏）\n- 化科引动：调理秩序、专业养护成为辅助，恢复力转好（好）\n- 大限/流年引动疾厄宫：脾胃血脉课题成为该时间层重点（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "health",
+        "pattern",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.4 疾厄健康规则",
+      "lineStart": 3198,
+      "lineEnd": 3202,
+      "domain": "health",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "疾厄健康",
+      "applicableConditions": "宫位：疾厄宫；必见星曜：天机；空间：同宫",
+      "conditions": {
+        "palace": [
+          "疾厄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天机"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天机入疾厄】（天机=思虑、变动；乙木主肝经，神经与肝是薄弱环节）\n- 无引动：想太多容易失眠、焦虑、神经衰弱；肝经是要留神的，风险在情绪压抑；手脚上的小毛病也多（中/风险）\n- 现代映射：放现代就是压力型亚健康——久坐、熬夜、用脑过度以后的疲劳全在这条线上（中/风险）\n- 化忌（坐疾厄宫或三方见忌）：想太多的毛病放大，神经衰弱、焦虑的风险明显走高，睡眠和肝气首当其冲（坏）\n- 逢煞曜（羊陀火铃空劫）：思虑变动与损耗加急，神经耗损加重（坏）\n- 化禄/化科引动：体质资源与调理秩序转好，睡眠肝气课题缓解（好）\n- 大限/流年引动疾厄宫：神经与睡眠课题成为该时间层重点（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "health",
+        "palace_structure",
+        "pattern",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-b3d8cf11aeaf1627372c",
+        "md-c2d97d5318c60a494288",
+        "md-b6afab1b1e51241039ea",
+        "md-c63022c296cc986c8667"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.4 疾厄健康规则",
+      "lineStart": 3208,
+      "lineEnd": 3212,
+      "domain": "health",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "疾厄健康",
+      "applicableConditions": "宫位：疾厄宫；必见星曜：天同；空间：同宫",
+      "conditions": {
+        "palace": [
+          "疾厄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天同"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天同入疾厄】（天同=福星，体质偏柔润；安逸、享乐和水液代谢为主题）\n- 无引动：肾和泌尿是薄弱点，长期安逸、动得少，代谢容易变慢，拖成慢性病（中/风险）\n- 化忌（坐疾厄宫或三方见忌）：泌尿和肾脏出问题的风险升高，代谢也跟着受影响（坏）\n- 逢空劫：福气难以兑现为体力，水液代谢虚耗（坏）\n- 化禄/化科引动：福气转成恢复力，体质顺遂（好）\n- 大限/流年引动疾厄宫：泌尿代谢课题成为该时间层重点（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "health",
+        "palace_structure",
+        "pattern",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-b4d07c9d7a14e019816e",
+        "md-4130941e8f2b3f065cb7",
+        "md-8ed1ce952136bb67c060"
+      ]
+    },
+    {
+      "ruleId": "md-b07281b6efa966211a38",
+      "chapter": "二、专门领域知识",
+      "section": "2.4 疾厄健康规则",
+      "lineStart": 3218,
+      "lineEnd": 3222,
+      "domain": "health",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "疾厄健康",
+      "applicableConditions": "四化：忌；必见星曜：廉贞；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "廉贞"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【廉贞入疾厄】（廉贞=火气、血液、情绪与欲望；感情纠纷可转成身体耗损）\n- 无引动：廉贞主火气、血液、情绪与欲望；感情纠纷和情绪起伏可转成身体耗损（中）\n- 化忌（坐疾厄宫或三方见忌）：忌一落火气就压不住，血、心、情绪上的急火事要多防；血光、外伤、刑囚与火气失控主题加重（坏/风险）\n- 火铃同宫：突发性增强，急火课题升为事件落点级别（坏/风险）\n- 化禄引动：火气得疏，血液情绪课题缓解（好）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "health",
+        "pattern",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.4 疾厄健康规则",
+      "lineStart": 3223,
+      "lineEnd": 3227,
+      "domain": "health",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "疾厄健康",
+      "applicableConditions": "宫位：疾厄宫；必见星曜：贪狼；空间：同宫",
+      "conditions": {
+        "palace": [
+          "疾厄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【贪狼入疾厄】（贪狼=欲望、酒色、享乐与社交；节制为疾厄核心）\n- 无引动：泌尿生殖和性腺偏弱；生活上如果不节制，放纵下去身体消耗大（中/风险）\n- 贪狼坐命宫：作息乱的时候，就是健康出题的关口（风险）\n- 化忌（坐疾厄宫、三方见忌或会照命宫）：泌尿或性相关的毛病明显加重（坏）\n- 火铃同宫：爆发（坏/风险）\n- 空劫同宫：欲求落空而耗神（坏）\n- 化禄引动：欲望有节、消耗缓解（好）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "health",
+        "palace_structure",
+        "pattern",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-9d06fd8f9f748b46712b",
+        "md-4416e667f6a080d8cb30"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.4 疾厄健康规则",
+      "lineStart": 3228,
+      "lineEnd": 3232,
+      "domain": "health",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "疾厄健康",
+      "applicableConditions": "宫位：疾厄宫；必见星曜：巨门；空间：同宫",
+      "conditions": {
+        "palace": [
+          "疾厄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "巨门"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【巨门入疾厄】（巨门=暗曜，思虑、口舌与郁结；是非先应于脾胃、消化和口腔）\n- 无引动：消化管道、食道、口腔牙齿是薄弱点；是非压力先应于脾胃、消化和口腔（中/风险）\n- 化忌（坐疾厄宫或三方见忌）：食道胃上的毛病加重，口腔清洁也要当回事；郁结、消化道与口舌课题（坏）\n- 陀罗同宫：病象缠绵（坏）\n- 火星同宫：炎热加急（坏）\n- 化禄引动：郁结得疏（好）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "health",
+        "palace_structure",
+        "pattern",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-593e5289c10cb8ff877f",
+        "md-73053b6c272a544c62f9"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.4 疾厄健康规则",
+      "lineStart": 3233,
+      "lineEnd": 3237,
+      "domain": "health",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "疾厄健康",
+      "applicableConditions": "宫位：疾厄宫；必见星曜：天相；空间：同宫",
+      "conditions": {
+        "palace": [
+          "疾厄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天相"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天相入疾厄】（天相=印星，体质随环境与辅煞而变；肾水、皮肤和调节功能为主轴）\n- 无引动：皮肤和泌尿是弱项，多喝水、多照镜子看皮肤，问题不严重但常见，别忽视小疹子（中）\n- 逢吉（化禄/科吉化、辅弼吉会）：调节功能与恢复力增强（好）\n- 三方忌煞冲印（尤其擎羊）：波动加重，边界、调节和水液阻滞课题（坏）\n- 化忌（天相本身不四化，忌自三方引动）：水液阻滞（坏）\n- 适用条件：宫位：疾厄宫（本条目含此条件的读法）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "health",
+        "palace_structure",
+        "pattern",
+        "sensitive_health",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-2d900ce2c718b8361097",
+        "md-135d23898e9d56e30875"
+      ]
+    },
+    {
+      "ruleId": "md-e185acae22fb967fa44f",
+      "chapter": "二、专门领域知识",
+      "section": "2.4 疾厄健康规则",
+      "lineStart": 3243,
+      "lineEnd": 3247,
+      "domain": "health",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "疾厄健康",
+      "applicableConditions": "亮度：庙旺；必见星曜：天梁；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天梁"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天梁入疾厄】（天梁=荫星，逢凶化吉、恢复与保护之性；骨、脾胃和长期承压为主题）\n- 庙旺（无引动）：体质自带逢凶化吉的底子，病后恢复力好，虚惊一场的情况多（好）\n- 落陷：孤承、慢性耗损，骨脾胃课题为主（坏/风险）\n- 化忌（三方忌冲）或煞曜：孤承、慢性耗损与骨脾胃课题加重（坏）\n- 吉曜会照：荫护增强，恢复力更稳（好）\n- 大限/流年引动疾厄宫：骨脾胃课题成为该时间层重点（中）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "health",
+        "pattern",
+        "sensitive_health",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 86,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-146ecbcf38e8682e9a31",
+      "chapter": "二、专门领域知识",
+      "section": "2.4 疾厄健康规则",
+      "lineStart": 3266,
+      "lineEnd": 3273,
+      "domain": "health",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "疾厄健康",
+      "applicableConditions": "宫位：官禄宫；四化：禄、科；必见星曜：天梁；空间：全局",
+      "conditions": {
+        "palace": [
+          "官禄宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "科"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [
+        "天梁"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【官禄宫天梁（健康映射）】（天梁=荫护、长辈、医药、法律、监察和化解；官禄指向医学、法律、教育、宗教、政务监察和公益）\n- 本性（无引动）：在健康里只是文化层映射，别用它代替疾厄宫的直接判读（中/纪律）\n- 化科：带名声、专业（中/好）\n- 化禄：要注意别把保护性角色读成纯粹发财（中）",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "health",
+        "palace_structure",
+        "sensitive_decision",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 90,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-424a8950adc099dc1d6f",
+      "chapter": "二、专门领域知识",
+      "section": "2.4 疾厄健康规则",
+      "lineStart": 3284,
+      "lineEnd": 3288,
+      "domain": "health",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "疾厄健康",
+      "applicableConditions": "宫位：父母宫；四化：忌；必见星曜：武曲；空间：会照",
+      "conditions": {
+        "palace": [
+          "父母宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【父母宫武曲】（武曲=刚星、刑囚之性；父母健康与长辈关系）\n- 本性（无引动）：父母性子硬、干实事，家里管你重练本事；和上司相处也直来直去（中）\n- 化忌：父母健康方面有风险（开刀手术类），或者因为刚直和父母、上司顶起来（坏/风险）\n- 化忌+煞聚（本宫及三方四正 ≥4 煞）：开刀手术课题升为事件落点级别，宜早安排体检（坏）\n- 化禄/化科：父母硬朗、家运见长（好）",
+      "specificity": 3,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "health",
+        "palace_structure",
+        "pattern",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-e23c2ca8711c6ec99b55",
+      "chapter": "二、专门领域知识",
+      "section": "2.4 疾厄健康规则",
+      "lineStart": 3289,
+      "lineEnd": 3293,
+      "domain": "health",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "疾厄健康",
+      "applicableConditions": "宫位：子女宫、父母宫；四化：禄、忌；必见星曜：天同；空间：会照",
+      "conditions": {
+        "palace": [
+          "子女宫",
+          "父母宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "天同"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【子女宫天同会照父母宫】（天同=福星，温和善良）\n- 本性（无引动）：子女温和善良，亲子关系轻快，孩子和父母亲，家里氛围暖；子女随和，进取心要人推一把（中/好）\n- 化禄：子女福气厚、过得幸福（好）\n- 化忌：子女体质弱些或感情距离拉远（坏）",
+      "specificity": 5,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "health",
+        "palace_structure",
+        "pattern",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-c9ba4e7ef00b449ffe34",
+      "chapter": "二、专门领域知识",
+      "section": "2.4 疾厄健康规则",
+      "lineStart": 3299,
+      "lineEnd": 3303,
+      "domain": "health",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "疾厄健康",
+      "applicableConditions": "宫位：父母宫；四化：忌；必见星曜：天同；空间：会照",
+      "conditions": {
+        "palace": [
+          "父母宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "天同"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【父母宫天同】（天同=福星，温和随和）\n- 本性（无引动）：父母温和随和，家里关系松快，上司也宽和好相处；家宅氛围和睦，长辈不大压人（好/中）\n- 化禄/化科：长辈福气厚、家宅顺遂（好）\n- 化忌：长辈体弱，或和父母感情疏远（坏）",
+      "specificity": 3,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "health",
+        "palace_structure",
+        "pattern",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-47dad8bb429142ccf2d3",
+      "chapter": "二、专门领域知识",
+      "section": "2.4 疾厄健康规则",
+      "lineStart": 3309,
+      "lineEnd": 3313,
+      "domain": "health",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "疾厄健康",
+      "applicableConditions": "宫位：福德宫；亮度：庙旺；四化：禄、忌；必见星曜：贪狼；空间：会照",
+      "conditions": {
+        "palace": [
+          "福德宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【福德宫贪狼】（贪狼=欲望、享乐；精神上想要的太多太杂）\n- 庙旺（无引动）：兴趣广，烟酒娱乐样样想沾，享乐欲旺；精神世界热闹但容易浮（中/风险）\n- 化禄：享受顺当（好）\n- 化权：欲求化为行动力，主动追求目标与享乐（中）\n- 化忌：欲求不满，往不良嗜好里钻（坏）",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "health",
+        "palace_structure",
+        "pattern",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 70,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    }
+  ]
+}

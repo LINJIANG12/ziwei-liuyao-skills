@@ -1,0 +1,704 @@
+{
+  "module": "ziwei",
+  "layer": "retrieval",
+  "category": "pattern",
+  "count": 13,
+  "items": [
+    {
+      "ruleId": "md-901372243791940274b2",
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 1522,
+      "lineEnd": 1526,
+      "domain": "personality",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "性格行为",
+      "applicableConditions": "无附加条件；空间：会照",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【守成型性格】（守成星系本性，坐命主格；安全感需求高）\n- 本性：性格稳重、守规矩、重体面，安全感需求高，属于守成型——喜欢在稳定的环境里按部就班地积累，不喜冒险，也厌倦变动（中/好）\n- 逢吉会照：对人厚道，有较强的信任感，是可靠的伙伴（好）\n- 逢煞曜或三方煞聚（本宫+三方四正煞星多）：容易显得保守刻板、缺乏创意，在快速变动的行业里容易落后（坏）\n- 化忌引动：守成过度、错失机会，安全感需求被放大（坏）",
+      "specificity": 0,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "pattern",
+        "personality"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 92,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2710,
+      "lineEnd": 2724,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "性别：男命；四化：禄、忌；必见星曜：紫微；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【紫微坐财帛宫】（紫微=帝座、贵星、以贵生财；坐财帛=地位带动收入）\n- 本性（男命）：整体财运格局以\"贵\"为主，有地位、有品位；正财稳定，来自职位和薪资；偏财运一般，不擅长靠投机或额外渠道快速暴富；赚钱的天赋路径是借职位和权威带动收入，适合做顾问、顾问型高管或行业专家，个人品牌越强，财越好；理财守成能力尚可，但重面子，消费容易挑高品质的东西，要小心为维持形象而超支（中/好）\n- 无化禄配合：容易有贵无富——收入不低，开支也大，财富积累偏慢（中）\n- 化禄引动：财禄双旺，正财最旺，地位带动收入的效应非常明显，是14主星里最好的财运格局之一，一生财禄多半充足（好）\n- 化忌引动：财运里的是非障碍偏多——容易因面子问题过度消费，或因固执的财务决策造成损失；忌坐财帛=财帛课题压力，叠忌则级别升级（坏）\n- 三方忌冲：财帛课题落事件点，财务破耗、面子问题放大（坏）\n- 夫妻宫另一半有财禄：能有效补强财运不足，夫妻共同规划财务，比单打独斗更有效（好）\n- 时间层：财富积累偏晚，中年后随地位提升财运明显改善，越到后期越稳固（好）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "pattern",
+        "sensitive_decision",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-30e0b55555cf9b72cc1a",
+        "md-6e7c217336025af377c3",
+        "md-be6919a90cc332d93a76"
+      ]
+    },
+    {
+      "ruleId": "md-bb5017e4bd72a19292c9",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2745,
+      "lineEnd": 2749,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "性别：男命；必见星曜：太阳；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阳"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命太阳坐财帛宫】（太阳=阳刚、公开、名誉、官贵；坐财帛=先有名后有财）\n- 本性（男命）：财运整体中上，财来自名声和地位，知名度越高收入越好，是典型的\"先有名后有财\"；正财稳定，来自工作和职位；偏财机会靠人脉和曝光度带动，合作机会多，但合作质量取决于甄别；赚钱的天赋路径是个人品牌变现——演讲、顾问、代言、公众服务，任何能把名气转化为收益的方式都是财路；理财不是强项，消费偏向大方甚至奢侈，维持形象和社交的开销往往不小（中/好）\n- 化禄引动：名财双收（好）\n- 化忌引动：名声起伏、财务是非（坏）\n- 三方忌冲：财务课题落事件点（坏）\n- 感情影响：另一半财禄旺，能有效补强财库；感情出问题，收入也容易跟着受影响（好/风险）\n- 时间层：财富积累偏中年稳固型，35岁后随社会地位提升财运明显改善（好）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "pattern",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2755,
+      "lineEnd": 2784,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "性别：男命；亮度：陷不利；必见星曜：武曲；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "dim"
+        ],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【武曲坐财帛宫】（武曲=财星、刚毅、执行、果断；坐财帛=实力换收入）\n- 本性（男命）：14主星里最强的财星之一，正财运极旺，赚钱能力强，属于只要努力就能看到实际回报的格局；正财是主力，来自工作和专业领域的稳定收入；偏财需要特定契机（如火铃同宫）才容易触发；赚钱的天赋路径是用实力换收入——越专业、越有核心竞争力，财运越好，技术型或管理型的收入是最主要的财路；守财能力不错，武曲务实，不会为面子乱花钱，守得住已有财富；但有时过于节省，反而影响生活质量（好）\n- 落陷：财星的刚硬之气受压，财运起伏明显，赚钱辛苦，还容易因作风刚硬错失合作；策略上以稳健保守为主，不要激进扩张（坏）\n- 化禄引动：金钱喜悦得财，财星得禄最旺（好）\n- 化权引动：激进争取、财务掌控力强（中/好）\n- 化忌引动：紧张烦恼压力、财务必有问题——漏财点是化忌时期的医疗支出、意外损失或财务纠纷，以及感情上付出过多带来的资源流失（坏）\n- 逢煞曜（火铃擎羊陀罗等）：财路波动、破耗加重（风险）\n- 时间层：财富积累偏稳步增长型，不会一夜暴富，但越积越厚，中年后财库相当充实；感情稳定有助于财运稳固，感情动荡时财务上容易有损耗（好/中）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "pattern",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation",
+        "support_stars",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-223221502704e3058456",
+        "md-6c3f594ae33393994ce6"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2810,
+      "lineEnd": 2839,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "四化：禄、权、科；亮度：庙旺、陷不利；必见星曜：廉贞；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright",
+          "dim"
+        ],
+        "siHua": [
+          "禄",
+          "权",
+          "科"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "廉贞"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【廉贞坐财帛宫】（廉贞=才艺、次桃花、纪律、刑囚；坐财帛=人脉才艺生财）\n- 本性：财来自人脉、才艺和人际关系——创意、设计、美容、艺术、政治、餐饮等行业最容易生财，靠个人魅力和社交圈带动收入（中/好）\n- 庙旺（寅申宫）：文武才艺和桃花魅力能同时变现，社交圈就是财富圈，越活跃越有钱，最适合做个人品牌或创意类创业（好）\n- 落陷：桃花容易变成烂桃花，要小心遭遇感情骗局或合作欺诈；重要交易容易生纠纷，对方背景不明时风险更高（坏）\n- 化禄引动：次桃花得禄，桃花转为助力，贵人多、合作机会多，是廉贞财运最甜美的状态（好）\n- 化权引动：财权在握，在创意、法律、政治领域有强势的财务掌控力，适合担任管理职或自主运营，魄力十足，敢拼敢赢；但要注意风险：强势作风容易引发财务摩擦或法律纠纷（中/好+风险）\n- 化科引动：才艺与名声转化为财——艺术、文化、创意领域的专业声誉是核心生财工具，作品或个人品牌带来的版权、IP、代言收入，是这一生比较稳定的财源（好）\n- 化忌引动：主官非、债务、投诉、审查、复杂流程——坐流财=财务纠纷（坏）\n- 时间层：流年财帛宫逢廉贞化忌，当年财务纠纷、审查主题加重（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "pattern",
+        "sensitive_decision",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-e9c646effc081fb09280",
+        "md-657878d3f4309e0c267c",
+        "md-29d6bbedae00ea3e46ed",
+        "md-c99b9d7fef7c260d65c2",
+        "md-4b413ac5ef3e147c13cc"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2845,
+      "lineEnd": 2874,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "性别：男命；四化：权、科；亮度：陷不利；必见星曜：天府；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "dim"
+        ],
+        "siHua": [
+          "权",
+          "科"
+        ],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天府"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天府坐财帛宫】（天府=南斗令星、财库、守成；坐财帛=财库守财）\n- 本性（男命）：财运格局以\"守\"为特点——财库厚实，守财能力是14主星里最强的之一，但生财能力偏弱；正财是绝对主力，来自稳定的工作收入和储蓄积累；偏财运极弱，不适合依赖投机或额外渠道；赚钱的天赋路径是稳定积累——哪怕收入不高，只要支出有节制，时间一长财库自然厚实，是典型的\"细水长流\"型财运；消费观保守，有时过于节省，反而影响生活质量和健康；适合长期持有，不适合频繁操作和高风险的金融产品（中/好）\n- 落陷（卯酉宫）：守财能力打折，财库不如预期稳固；过于保守反而会错失通胀红利，可以配置一些稳健成长型资产，平衡通胀压力（坏/中）\n- 化权入照（三方）：财权稳固——天府本就善于管钱，得权加持后财务掌控力更强，财富越到后期越稳、越有底蕴（好）\n- 化科入照（三方）：财库以专业声誉为根基——会计、审计、风控、合规、信托管理等专业领域，是天府最自然的生财方向；名声越好客户越多，靠口碑积累起来的财库厚实而稳健（好）\n- 化忌或忌冲坐财位库位：不宜投机创业，守成为上策（坏）\n- 漏财点：过于保守而错失高质量的求财机会，以及感情或家庭上的大额支出（风险）\n- 时间层：财富积累是越来越好的稳步增长型，中年后财库相当充实，晚年财务无忧；婚姻稳定是财运稳固的重要基础，家庭和睦直接影响财运质量（好）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "strong_claim",
+      "categories": [
+        "pattern",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-5382df576b3bd4b11577",
+        "md-ff4041cd6034eb873263",
+        "md-bc1587c0d751a0be41ec",
+        "md-c0609acc1849a0833a2a"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2890,
+      "lineEnd": 2909,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "四化：科；亮度：庙旺、陷不利；必见星曜：太阴；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright",
+          "dim"
+        ],
+        "siHua": [
+          "科"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【太阴坐财帛宫】（太阴=月亮、柔性财星、主财富田宅；坐财帛=正财储蓄）\n- 本性：柔性正财，财富靠细水长流积累，不靠投机（中/好）\n- 入庙（子至巳宫，尤其子宫、亥宫）：月光最圆最亮，有富甲一方之象——田宅与田宅财库的经营能力达到最强，是14主星里房产财运最佳的状态，适合重财库配置（好）\n- 落陷（午至亥宫前段）：月光昏暗，富贵气质打折，财运不稳定，还容易受情绪干扰；少做高风险逐利，等运势转佳再扩张（坏）\n- 化科引动：财主要来自文教、艺术、设计、心理咨询等温柔细腻的专业领域，靠美感与情感价值赚钱——女命此格的财路常带审美属性，比如美容、室内设计、女性消费品；财来得有品味，名声与积累并重（好）\n- 化忌引动：财帛课题压力、情绪化消费（坏）\n- 逢煞曜：财运波动、积累被打断（风险）\n- 时间层：流年/大限引动时财运随情绪起伏，宜等运势转佳再扩张（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "pattern",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-faae8852743df8aa830b",
+        "md-56772f0fc6343c9c5831",
+        "md-67a058cd800db92efd93"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2925,
+      "lineEnd": 2944,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "四化：权；亮度：陷不利；必见星曜：贪狼；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "dim"
+        ],
+        "siHua": [
+          "权"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【贪狼坐财帛宫】（贪狼=欲望、桃花、多才、机会；坐财帛=偏财变现）\n- 本性：才艺与桃花变现、偏财机会多（中）\n- 化权引动：欲望化为生财的掌控力——能把社交圈、人脉、才艺组织成实质的商业版图，天生适合娱乐业老板、餐饮品牌创始人、销售总监这类格局（好）\n- 落陷：才艺与桃花的变现能力打折，财来得快去得也快，难以积累；要趁早建立专业核心技能（坏）\n- 化禄引动：偏财旺、机会多（好）\n- 化忌引动：财帛课题、欲望失控破财（坏）\n- 逢煞曜（火铃擎羊）：动荡破财、财来快去快（风险）\n- 时间层：化禄年偏财机会集中兑现（好）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "pattern",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-94d6ac17744719257c3c",
+        "md-c298fa62857225ff1d09"
+      ]
+    },
+    {
+      "ruleId": "md-503c3d4d820d4dd6f13e",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 2990,
+      "lineEnd": 2994,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "性别：男命；必见星曜：七杀；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "七杀"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命七杀坐财帛宫】（七杀=将星、果决、竞争、急变；坐财帛=猛进猛退）\n- 本性（男命）：财运格局以\"猛\"为特点——财来得快去得也快，有时大收获，有时大损失，起伏明显；正财来自工作和实干，偏财机会因冒险精神而较多；赚钱的天赋路径是靠行动力和冒险精神快速抓住机会，在竞争激烈的领域先行一步，往往能拿到超额回报，速度就是财运优势；守财能力偏弱，不善于理财，消费容易因冲动或豪爽而大额支出（中/风险）\n- 漏财点：冲动押注（没充分调查就大额下注）、意气用事造成的损失，以及行动太快没做好合同保护（风险）\n- 化忌引动：财务压力、破耗加重（坏）\n- 逢煞曜（火铃擎羊）：财波动更剧烈、大起大落（风险）\n- 时间层：财富积累波动明显，大起大落是常态，建议年轻时打好专业基础，中年后用稳健的方式积累财富；感情稳定时财运更有规律，感情动荡时财务往往也随之波动（中）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "pattern",
+        "sensitive_decision",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-bfd3c773a2fd591d5517",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 3005,
+      "lineEnd": 3009,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "性别：男命；必见星曜：破军；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "破军"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【男命破军坐财帛宫】（破军=破旧、开创、耗变、流动；坐财帛=变化中求财）\n- 本性（男命）：财运格局以\"起伏\"为核心特征，大起大落是常态——正财起伏较大，随事业变化而波动；偏财机会在变动中出现，抓住关键时机的能力比持续努力更重要；赚钱的天赋路径是在变化中找商机，国际贸易、开拓型销售、先锋科技或一技之长的专业服务，都是破军的自然财路，外部流动是提升财运的核心路径；守财能力偏弱，消费随性，不善于长期规划，情绪好时容易大手大脚，低谷时又捉襟见肘（中/风险）\n- 漏财点：频繁变动带来的转换成本、冲动消费，以及变化过多导致的资源分散；还容易在市场高点时过于激进（风险）\n- 化禄引动：化禄年是积累财富的黄金窗口，积累速度加快（好）\n- 化忌引动：财帛课题、破耗加重（坏）\n- 时间层：财富积累有明显的阶段性（中）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "pattern",
+        "sihua",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-34dbe6cbf60e7b26f07a",
+      "chapter": "二、专门领域知识",
+      "section": "2.3 财富财帛规则",
+      "lineStart": 3059,
+      "lineEnd": 3063,
+      "domain": "wealth",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "财富财帛",
+      "applicableConditions": "亮度：庙旺；必见星曜：紫微；空间：会照",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【紫微会照性格】（紫微=帝座、尊贵、领导、组织中心；会照=性格行为外显）\n- 本性（庙旺会照）：命主外向热情，有领袖气质，乐善好施，做事大方，重视名誉甚于财富；自尊心强，比紫微更外放，更在意他人的看法与社会评价；内心有济世情怀，喜欢帮助他人，但有时因过于热情而忽视自身利益（中/好）\n- 入庙：意气风发、阳光自信（好）\n- 落陷：性格急躁，容易与人发生冲突，或显得独断主观（坏）\n- 紫微+擎羊：脾气暴躁（坏）\n- 化忌引动：固执己见、名声是非课题（坏）",
+      "specificity": 1,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "pattern",
+        "star_interpretation",
+        "wealth"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 80,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "一、基础知识",
+      "section": "1.26 基础结构规则全集",
+      "lineStart": 866,
+      "lineEnd": 870,
+      "domain": "overview",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "通用规则",
+      "applicableConditions": "四化：科；必见星曜：武曲；空间：同宫",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "科"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【武曲化科】（武曲=财务/技术/刚星；化科主名声，可虚可实）\n- 得地（庙旺）+吉会：财务专业名声好，专业才能变现，财来得稳且体面（好）\n- 失地（平陷）+逢煞忌：华而不实、名大于实，名声虚浮难换实利（坏）\n- 坐财帛宫或三方：财星得科，财来得稳（好）；坐命/官禄：名声为主、财为辅（中）\n- 三方忌冲：名声受损、文书课题（坏）\n- 适用条件：体面。化科虽不如化禄财量大，但口碑与（本条目含此条件的读法）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "overview",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-9a738762eb3ffc135e82",
+        "md-11140f509a194d5731c6"
+      ]
+    },
+    {
+      "module": "ziwei",
+      "layer": "retrieval",
+      "category": "pattern",
+      "ruleId": "ext-ziwei-zijin-combos-01",
+      "chapter": "二、专门领域知识",
+      "section": "2.13 断语合成规则（借星、吉凶加权与取象纪律）",
+      "lineStart": 0,
+      "lineEnd": 0,
+      "domain": "pattern",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "紫微组合读象",
+      "applicableConditions": "空间：全局",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【紫微组合读象】（流年宫位逢组合，按该宫对应领域落象）\n- 紫微+擎羊：脾气暴躁的老板/上司——流官见之主遇暴躁上司、冲突性管理（坏/中性）\n- 紫微+天魁：流官遇之今年升职、得贵人提拔（好）；生意人流官遇之得赚钱平台与男性贵人（好）\n- 紫微+左辅右弼：流财遇之财运丰厚（好）；流迁遇之主粉丝/名气大增，网红类事业今年名气粉丝双丰收（好）\n- 紫微+破军化权：流官遇之主公司改革变化之事（中——变动性事件）\n- 原则：单星读性质，组合读事件；组合落流年哪宫，按该宫领域落象",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "pattern",
+        "star_interpretation",
+        "sihua",
+        "support_stars"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 90,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "extended"
+    }
+  ]
+}

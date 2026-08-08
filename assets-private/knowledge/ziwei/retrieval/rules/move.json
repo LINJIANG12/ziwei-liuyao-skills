@@ -1,0 +1,750 @@
+{
+  "module": "ziwei",
+  "layer": "retrieval",
+  "category": "move",
+  "count": 14,
+  "items": [
+    {
+      "ruleId": "md-125713bc53006c1ed7c1",
+      "chapter": "二、专门领域知识",
+      "section": "2.7 迁移外出规则",
+      "lineStart": 3608,
+      "lineEnd": 3611,
+      "domain": "move",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "领域总纲",
+      "applicableConditions": "无附加条件",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "看迁移外出这一块，四宫分工：迁移宫看外部环境、出行、异地和外面人对你的反馈；命宫看你抗不扛得住、适不适应；官禄宫看出门之后事业上的变化；财帛宫看走动里的资源进进出出、成本花销。星曜也分两边：天马管移动、迁徙、贸易这类流动机会；禄存、化禄管出门带回来的资源；空劫、化忌管在外面落空、耗散、延误和被环境压着。",
+      "specificity": 0,
+      "ruleKind": "foundation_theory",
+      "claimStyle": "theory_or_boundary",
+      "categories": [
+        "move",
+        "palace_structure",
+        "sihua",
+        "support_stars",
+        "theory"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 100,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-7fc65f1e3ebcf88bbb70",
+      "chapter": "二、专门领域知识",
+      "section": "2.7 迁移外出规则",
+      "lineStart": 3617,
+      "lineEnd": 3621,
+      "domain": "move",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "迁移外出",
+      "applicableConditions": "宫位：迁移宫；必见星曜：天机；空间：同宫",
+      "conditions": {
+        "palace": [
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天机"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【迁移宫天机】（天机=变动、机动，机会在路上；天机主动、主移动）\n- 无引动：出门就是动，变动多、碰的机会也多，适合需要频繁跑的工作；到新地方适应快，脑子活，出岔子也能兜住（中/好）\n- 化禄：出门能生财，靠脑子在动里找钱（好）\n- 化科：动中留名、外出有口碑（中/好）\n- 化权：动中掌事，外务有掌控力（中/好）\n- 化忌：出门波折多，行程、对接容易出岔子（坏）\n- 大限/流年引动迁移宫：走动、出差成为该时间层重点（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "move",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.7 迁移外出规则",
+      "lineStart": 3622,
+      "lineEnd": 3626,
+      "domain": "move",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "迁移外出",
+      "applicableConditions": "宫位：迁移宫；必见星曜：太阳；空间：同宫",
+      "conditions": {
+        "palace": [
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阳"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【迁移宫太阳】（太阳=阳气、贵人、名声；主贵不主富）\n- 无引动：出门容易遇上肯拉你一把的人，名声在外面比在家里好立，适合做公众事务、社交圈子、往外地铺市场这类事（好）\n- 入庙（庙旺）：在外面走得开、路子光明，名和利一起攒下（好）\n- 落陷：出门多是白忙、劳而无功，环境不对就及时换（坏）\n- 化忌（坐迁移宫或三方见忌）：在外面的名声容易受损，是非议论多（坏）\n- 女命：太阳主男性象——在外所遇贵人多为丈夫、儿子、父亲这类男性（中/好）\n- 大限/流年引动迁移宫：外出与名声成为该时间层重点（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "move",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-050093565368270b2dba",
+        "md-c3ad83ce7e8d9ec3a27a"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.7 迁移外出规则",
+      "lineStart": 3632,
+      "lineEnd": 3636,
+      "domain": "move",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "迁移外出",
+      "applicableConditions": "宫位：迁移宫；必见星曜：天同；空间：同宫",
+      "conditions": {
+        "palace": [
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天同"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【迁移宫天同】（天同=福星，平顺、旅途福气）\n- 无引动：出门在外顺当，日子不太折腾，旅途上的福气足；适合往服务业、文艺那边出外发展；在外容易遇见帮衬你的人，环境也温和（好）\n- 化禄：在外面过得舒服，衣食不愁（好）\n- 化科：在外人缘口碑好（好）\n- 化忌：在外波折多些，福气打个折，顺遂的底气打点折扣——就是多跑两趟的事（中/坏）\n- 逢空劫：在外落空、耗散、延误，福气难兑现（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "move",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-0434c015d893446fad94",
+        "md-657c6717b1eb49bb308b"
+      ]
+    },
+    {
+      "ruleId": "md-b0bdf8f71b4a532fa66e",
+      "chapter": "二、专门领域知识",
+      "section": "2.7 迁移外出规则",
+      "lineStart": 3642,
+      "lineEnd": 3646,
+      "domain": "move",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "迁移外出",
+      "applicableConditions": "宫位：迁移宫；必见星曜：天府；空间：同宫",
+      "conditions": {
+        "palace": [
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天府"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【迁移宫天府】（天府=财库，守成、稳定）\n- 无引动：在外头走得稳，适合金融、机构这类讲规矩的行业；出门在外的财库有保障，不容易破财（好）\n- 守成之性：在外守成多、开拓少，适合稳稳置产，不适合冒险折腾（中）\n- 化禄/禄存会照：在外财库丰盈（好）\n- 忌冲财位库位（天府本身不化忌）：在外破财风险，不宜投机（坏/风险）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "move",
+        "palace_structure",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-d706edfc265ab0a3376d",
+      "chapter": "二、专门领域知识",
+      "section": "2.7 迁移外出规则",
+      "lineStart": 3647,
+      "lineEnd": 3651,
+      "domain": "move",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "迁移外出",
+      "applicableConditions": "宫位：迁移宫；必见星曜：太阴；空间：同宫",
+      "conditions": {
+        "palace": [
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【迁移宫太阴】（太阴=月亮，柔和、正财、田宅；主富不主贵）\n- 无引动：外出平顺，适合在文化、艺术、金融、田宅相关的行业在异地发展（好/中）\n- 女命：在外有贵人助力（好）\n- 入庙：在外财运旺、田宅的机会也多（好）\n- 落陷：在外头容易情绪起落、水土不服（坏）\n- 化禄：在外得财顺遂（好）；化科：短期出差（中/好）；化忌：在外感情上容易有困扰（坏）\n- 太阴坐迁移：夫妻在外住（中）\n- 太阴+空劫+左右：搬来搬去、居所流动（中/风险）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "move",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-98f8e13410c20559e052",
+      "chapter": "二、专门领域知识",
+      "section": "2.7 迁移外出规则",
+      "lineStart": 3652,
+      "lineEnd": 3656,
+      "domain": "move",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "迁移外出",
+      "applicableConditions": "宫位：迁移宫；必见星曜：贪狼；空间：同宫",
+      "conditions": {
+        "palace": [
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【迁移宫贪狼】（贪狼=欲望、桃花、才艺、社交与机会）\n- 无引动：出门在外桃花多，感情的事容易在旅途中、异地发生；才艺展示的机会也多，社交圈在别处反而更广（中）\n- 火星铃星同宫：外面偏财的机会大增（好）\n- 化禄：出门广结善缘，财运活络（好）\n- 化忌：外头的感情是非多，要留神（坏）\n- 逢擎羊地劫：在外竞争激烈，成果易被抢夺（风险）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "move",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation",
+        "support_stars"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-86ba42a6b3ea38c8a5e9",
+      "chapter": "二、专门领域知识",
+      "section": "2.7 迁移外出规则",
+      "lineStart": 3657,
+      "lineEnd": 3661,
+      "domain": "move",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "迁移外出",
+      "applicableConditions": "宫位：迁移宫；必见星曜：巨门；空间：同宫",
+      "conditions": {
+        "palace": [
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "巨门"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【迁移宫巨门】（巨门=口舌、声名、暗曜，靠嘴吃饭）\n- 无引动：在外靠嘴吃饭，说话利索，声名和是非一起长；法律、教育、传媒这类要开口的行当在异地机会多（中）\n- 化禄：嘴皮子在外面就是本事，说得出就要得到（好）\n- 化权：在外口才压场、能争得话语权（中/好）\n- 化忌：在外是非不断，少说多做，口舌招官司的事要留意（坏）\n- 陀罗同宫：是非缠身、拖泥带水（坏）\n- 火星同宫：口舌急爆、冲突加急（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "move",
+        "palace_structure",
+        "pattern",
+        "sensitive_decision",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-d50d37a666062b9b6b9c",
+      "chapter": "二、专门领域知识",
+      "section": "2.7 迁移外出规则",
+      "lineStart": 3662,
+      "lineEnd": 3666,
+      "domain": "move",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "迁移外出",
+      "applicableConditions": "宫位：迁移宫；必见星曜：天相；空间：同宫",
+      "conditions": {
+        "palace": [
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天相"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【迁移宫天相】（天相=印星、辅佐、行政，外出讲稳字）\n- 无引动：出门在外讲个稳字，在大机构或正式环境里发展顺遂；在外头擅长打配合，适合做驻外的行政、法务这类协作岗位；整体外出运四平八稳，少有大起大落（中/好）\n- 逢吉（化禄/科吉化、贵人星）：外出顺遂、文书顺利（好）\n- 三方忌煞冲印（尤其擎羊）：文书、合同、签证类事务受阻，出行流程多障碍（坏）\n- 化忌（天相本身不四化，忌自三方引动）：在外名誉受损或文书纠纷（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "move",
+        "palace_structure",
+        "pattern",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.7 迁移外出规则",
+      "lineStart": 3667,
+      "lineEnd": 3671,
+      "domain": "move",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "迁移外出",
+      "applicableConditions": "宫位：迁移宫；必见星曜：天梁；空间：同宫",
+      "conditions": {
+        "palace": [
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天梁"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【迁移宫天梁】（天梁=荫星，逢凶化吉、长辈荫护）\n- 无引动：出门在外逢凶化吉，遇到难处总有人伸手或自己想通办法；在外有荫护，家里老人的运也护着；法律、医疗、教育、宗教这类行业在外面走得动；整体外出运平稳，关键处常常碰上有分量的人相助（好）\n- 化科：在外名声远播（好）\n- 化禄：出门带荫护的财禄（好）\n- 化权：在外有能力、有带领力（好）\n- 天梁+擎羊：在外脾气不好、办事冲动（风险）\n- 天梁+地空：不务正业、不管事（坏）\n- 三方忌冲：荫护减弱，在外是非课题（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "move",
+        "palace_structure",
+        "pattern",
+        "sensitive_decision",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-c526e15b7e8f46a8282d",
+        "md-b7488f7af6933512f81f"
+      ]
+    },
+    {
+      "ruleId": "md-35d54bf775bfc23ac90f",
+      "chapter": "二、专门领域知识",
+      "section": "2.7 迁移外出规则",
+      "lineStart": 3692,
+      "lineEnd": 3698,
+      "domain": "move",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "迁移外出",
+      "applicableConditions": "宫位：命宫、迁移宫；四化：忌；时间层：大限；必见星曜：紫微；空间：对宫",
+      "conditions": {
+        "palace": [
+          "命宫",
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [
+          "大限"
+        ],
+        "timeLayer": [
+          "大限"
+        ]
+      },
+      "relation": "opposite",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【紫微在迁移宫（命宫对宫）】（紫微=帝星，贵人伴孤性）\n- 无引动：外地会逢贵人，但也容易孤：什么都自己扛，身边没人比得上（中）\n- 化权：在外能掌些事（好）；化科：在外得名（好）\n- 迁移宫化忌的大限：出门际遇有阻滞，资源耗散快，是非缠身的时候多（坏）\n- 日月反背（迁移见日月落陷）：离祖外乡发展，家里帮衬不上，只能靠自己在外拼（中）",
+      "specificity": 5,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "move",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation",
+        "time_layer"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 75,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-2eb33cb0a10644a38617",
+      "chapter": "二、专门领域知识",
+      "section": "2.7 迁移外出规则",
+      "lineStart": 3699,
+      "lineEnd": 3703,
+      "domain": "move",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "迁移外出",
+      "applicableConditions": "宫位：命宫、迁移宫；亮度：陷不利；四化：忌；时间层：大限；必见星曜：廉贞、贪狼；空间：对宫",
+      "conditions": {
+        "palace": [
+          "命宫",
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "dim"
+        ],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [
+          "大限"
+        ],
+        "timeLayer": [
+          "大限"
+        ]
+      },
+      "relation": "opposite",
+      "requiredStars": [
+        "廉贞",
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【迁移宫廉贞贪狼（对宫冲命宫）】（廉贞=是非刑囚；贪狼=欲望桃花）\n- 庙旺（寅申）：在外才艺、桃花与交际机会多（好/中）\n- 落陷（巳亥）：出门际遇有阻滞，是非压力多（坏）\n- 迁移宫化忌冲命宫（大限）：是非压力和身心课题一并加重；健康跟名誉都得防着，出门在外步步求稳，谨慎经营（坏/风险）\n- 火铃同宫：突发意外、火气刑伤课题（风险）",
+      "specificity": 6,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "move",
+        "palace_structure",
+        "pattern",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation",
+        "time_layer"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 53,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-39bdf37efbb169c71a49",
+      "chapter": "二、专门领域知识",
+      "section": "2.12 现代场景映射规则",
+      "lineStart": 4255,
+      "lineEnd": 4258,
+      "domain": "move",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "留学与异地求学",
+      "applicableConditions": "宫位：迁移宫；必见星曜：天马；空间：同宫",
+      "conditions": {
+        "palace": [
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天马"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天马入迁移（留学异地求学）】（天马=移动、迁徙、贸易）\n- 无引动：天马入迁移主外出求学的缘分，异地发展是路（中/好）\n- 迁移宫见化禄或化科：在异乡有收获（好）\n- 迁移宫见化忌或空劫：异地适应慢，文书、签证环节多波折，得提前准备、多留时间（坏/风险）\n- 大限/流年引动：外出求学主题在该时间层激活（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "move",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "star_interpretation",
+        "support_stars"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-209375d5ca8919952e5f",
+      "chapter": "二、专门领域知识",
+      "section": "2.12 现代场景映射规则",
+      "lineStart": 4304,
+      "lineEnd": 4308,
+      "domain": "move",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "城市迁移与定居",
+      "applicableConditions": "宫位：迁移宫；四化：忌；空间：同宫",
+      "conditions": {
+        "palace": [
+          "迁移宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【迁移宫化忌/空劫（城市迁移定居）】（迁移=环境适应、异地安家；看盘不是看命）\n- 无引动：换城市、一线打拼、移民定居是现代迁移主题——是缘分和适应倾向，看盘不是看命（中）\n- 迁移宫化忌或空劫出现：在外头适应、落户、安家都容易多出几道坎，去之前先把工作、生活成本盘清楚（坏/风险）\n- 迁移宫化禄/科：异地安家顺遂、资源流入（好）\n- 纪律：提前准备比硬碰运气稳妥（纪律）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "move",
+        "palace_structure",
+        "pattern",
+        "sihua",
+        "support_stars"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 88,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    }
+  ]
+}

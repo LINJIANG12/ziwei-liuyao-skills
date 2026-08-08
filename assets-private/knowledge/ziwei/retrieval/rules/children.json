@@ -1,0 +1,660 @@
+{
+  "module": "ziwei",
+  "layer": "retrieval",
+  "category": "children",
+  "count": 12,
+  "items": [
+    {
+      "ruleId": "md-24a7e77a39b31e851d5f",
+      "chapter": "二、专门领域知识",
+      "section": "2.6 子女晚辈规则",
+      "lineStart": 3492,
+      "lineEnd": 3495,
+      "domain": "children",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "领域总纲",
+      "applicableConditions": "无附加条件",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "看子女这一块，先分四宫：子女宫看孩子本人、你的作品、部属以及事情的结果；夫妻宫看孩子的缘分和有没有一起生养的基础；田宅宫看家里给孩子的环境；疾厄宫看生育本身和身体上的代价。子女宫的主星可以同时读成三样：孩子的性情、你作品的性质、你下属的形态，再拿四化和煞曜来定这件事顺不顺、有没有权责名声的牵扯。",
+      "specificity": 0,
+      "ruleKind": "foundation_theory",
+      "claimStyle": "theory_or_boundary",
+      "categories": [
+        "children",
+        "relationship",
+        "sensitive_health",
+        "sihua",
+        "star_interpretation",
+        "support_stars",
+        "theory"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 100,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.6 子女晚辈规则",
+      "lineStart": 3496,
+      "lineEnd": 3570,
+      "domain": "children",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "子女晚辈",
+      "applicableConditions": "宫位：子女宫、父母宫；四化：禄、忌；必见星曜：紫微；空间：同宫、会照",
+      "conditions": {
+        "palace": [
+          "子女宫",
+          "父母宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【子女宫紫微】（紫微=帝座、尊贵、领导、组织中心；坐子女宫=孩子贵气领导样）\n- 本性：孩子一般带点贵气和领导样，家里总有一个特别出挑的；这孩子自尊心强、挺独立，你跟他的关系更像亦师亦友（好/中）\n- 化禄引动：孩子运气好走得顺（好）\n- 化忌引动：管得太死或想法对不上，亲子之间容易生出裂痕（坏）\n- 紫微会照子女宫、父母宫一带：孩子跟家里的长辈之间带着默契和规矩，长辈在孩子面前有派头；化禄时孩子能从家里长辈这条路拿到实在的支持；化忌时大人跟孩子常常观点顶牛，管教要留缝隙，别管太满（中/好）\n- 合伙视角（子女宫亦主合伙对象/合作/部属）：流年子女宫=合伙对象，看连续几年，合作关系脆弱易生变（中/风险）；本命子女宫化禄入财=有人出钱给命主创业（好）；子女宫忌冲命宫或空劫羊陀组合=不宜创业（坏）",
+      "specificity": 5,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "children",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-34c6e2e5e582e28bc134",
+        "md-0688ffe42d01ac2f8f43"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.6 子女晚辈规则",
+      "lineStart": 3501,
+      "lineEnd": 3580,
+      "domain": "children",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "子女晚辈",
+      "applicableConditions": "宫位：子女宫；四化：禄、忌；必见星曜：天机；空间：同宫、会照",
+      "conditions": {
+        "palace": [
+          "子女宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天机"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【子女宫天机】（天机=智慧、机变、谋略、变动；坐子女宫=孩子聪明灵动）\n- 本性：孩子脑子灵、学东西快，但心思活泛，安定不下来（中/好）\n- 化禄引动：孩子才气外露，聪明出彩，才艺养得出来（好）\n- 化忌引动：亲子之间波折多一些，孩子多半也早早想着往外走、自己打拼（坏/中）\n- 天机会照子女宫：孩子点子多心思活，但性子游走（中）\n- 合伙视角（子女宫亦主合伙对象/合作/部属）：流年子女宫=合伙对象，看连续几年，合作关系脆弱易生变（中/风险）；本命子女宫化禄入财=有人出钱给命主创业（好）；子女宫忌冲命宫或空劫羊陀组合=不宜创业（坏）",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "children",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-9141a225b037c5b34dc0",
+        "md-6b47d28c030570140de4"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.6 子女晚辈规则",
+      "lineStart": 3506,
+      "lineEnd": 3585,
+      "domain": "children",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "子女晚辈",
+      "applicableConditions": "宫位：子女宫、父母宫；亮度：庙旺；四化：忌；必见星曜：太阳；空间：同宫、会照",
+      "conditions": {
+        "palace": [
+          "子女宫",
+          "父母宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [
+          "bright"
+        ],
+        "siHua": [
+          "忌"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阳"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【子女宫太阳】（太阳=阳刚、公开、名誉、官贵；坐子女宫=孩子外向阳光）\n- 本性：孩子外向阳光，有公众温暖，愿意往社会面上走（好）\n- 女命：孩子给她的意义特别重，跟儿子的感情深（中/好）\n- 入庙：孩子容易出头（好）\n- 落陷：孩子跟你们聚少离多，或者在外面背着压力（坏）\n- 化忌引动：旧断里跟眼睛或是非、名声挂上钩，给孩子留个心（坏/风险）\n- 父母宫太阳会照子女宫：家里父亲通常形象高、在上有声望，他对孩子有名声上的期望；对上司是公开正式的关系；庙旺时父亲就是贵人；落陷时父亲常忙、缺席，父子聚少离多；化忌则父亲的名声起伏，也提醒多照看父亲健康（中/好）\n- 合伙视角（子女宫亦主合伙对象/合作/部属）：流年子女宫=合伙对象，看连续几年，合作关系脆弱易生变（中/风险）；本命子女宫化禄入财=有人出钱给命主创业（好）；子女宫忌冲命宫或空劫羊陀组合=不宜创业（坏）",
+      "specificity": 4,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "children",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-a982327b15b88bb4f0aa",
+        "md-ec397e0a98a93d94c9eb"
+      ]
+    },
+    {
+      "ruleId": "md-486aca7319299b890190",
+      "chapter": "二、专门领域知识",
+      "section": "2.6 子女晚辈规则",
+      "lineStart": 3516,
+      "lineEnd": 3520,
+      "domain": "children",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "子女晚辈",
+      "applicableConditions": "宫位：子女宫；必见星曜：天同；空间：同宫",
+      "conditions": {
+        "palace": [
+          "子女宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天同"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【子女宫天同】（天同=福气、人和、舒适、随缘；主小孩、下属、年小者；坐子女宫=孩子随和温暖）\n- 本性：孩子性格随和温暖，跟家里人处得亲，家里气氛也软；就是进取心要大人多推一把（中/好）\n- 化禄/化科引动：孩子福气和软福，轻松顺遂（好）\n- 化权引动：因无聊安逸而生压力（中/风险）\n- 化忌引动：孩子体质上偏弱些，或跟家长的感情慢慢变淡（坏）\n- 合伙视角（子女宫亦主合伙对象/合作/部属）：流年子女宫=合伙对象，看连续几年，合作关系脆弱易生变（中/风险）；本命子女宫化禄入财=有人出钱给命主创业（好）；子女宫忌冲命宫或空劫羊陀组合=不宜创业（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "children",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-040404365e316b7f06c2",
+      "chapter": "二、专门领域知识",
+      "section": "2.6 子女晚辈规则",
+      "lineStart": 3526,
+      "lineEnd": 3530,
+      "domain": "children",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "子女晚辈",
+      "applicableConditions": "宫位：子女宫；必见星曜：天府；空间：同宫",
+      "conditions": {
+        "palace": [
+          "子女宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天府"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【子女宫天府】（天府=财库、守成、令星；坐子女宫=孩子稳重会过日子）\n- 本性：孩子稳重、会过日子，长大以后家境大概率有底；亲子关系平稳，孩子让爸妈省心（好）\n- 三方化禄引动：孩子财运好（好）\n- 化忌引动：亲子关系课题（坏）\n- 注意：别把孩子当纯靠山，架子端太重、跟孩子处得生分，情分反而淡（中/风险）\n- 合伙视角（子女宫亦主合伙对象/合作/部属）：流年子女宫=合伙对象，看连续几年，合作关系脆弱易生变（中/风险）；本命子女宫化禄入财=有人出钱给命主创业（好）；子女宫忌冲命宫或空劫羊陀组合=不宜创业（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "children",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-e4e896511f193b493bb2",
+      "chapter": "二、专门领域知识",
+      "section": "2.6 子女晚辈规则",
+      "lineStart": 3531,
+      "lineEnd": 3535,
+      "domain": "children",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "子女晚辈",
+      "applicableConditions": "宫位：子女宫；必见星曜：太阴；空间：同宫",
+      "conditions": {
+        "palace": [
+          "子女宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【子女宫太阴】（太阴=月亮、柔性、财富、田宅、女性六亲；坐子女宫=孩子秀气文静）\n- 本性：秀气文静，感情细，跟父母亲近，家里暖；太阴性坎，女儿缘好（好/中）\n- 入庙：孩子得长相拔尖（好）\n- 落陷：孩子体质偏弱、情绪敏感（坏）\n- 化禄引动：孩子以后日子不愁（好）\n- 男命化忌：孩子跟他妈那边的关系容易绕弯子（坏）\n- 合伙视角（子女宫亦主合伙对象/合作/部属）：流年子女宫=合伙对象，看连续几年，合作关系脆弱易生变（中/风险）；本命子女宫化禄入财=有人出钱给命主创业（好）；子女宫忌冲命宫或空劫羊陀组合=不宜创业（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "children",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-dac1391d50ad5b98eae6",
+      "chapter": "二、专门领域知识",
+      "section": "2.6 子女晚辈规则",
+      "lineStart": 3536,
+      "lineEnd": 3540,
+      "domain": "children",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "子女晚辈",
+      "applicableConditions": "宫位：子女宫；必见星曜：贪狼；空间：同宫",
+      "conditions": {
+        "palace": [
+          "子女宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【子女宫贪狼】（贪狼=欲望、桃花、多才、社交、机会；坐子女宫=孩子多才多艺）\n- 本性：这孩子多才多艺，桃花旺，社交圈活络，也极有主见（中/好）\n- 化禄引动：孩子带点偏财运（好）\n- 化忌引动：孩子感情处理容易多是非（坏）\n- 时间层：早年孩子爱面光堂，后半段才渐入佳境（中）\n- 合伙视角（子女宫亦主合伙对象/合作/部属）：流年子女宫=合伙对象，看连续几年，合作关系脆弱易生变（中/风险）；本命子女宫化禄入财=有人出钱给命主创业（好）；子女宫忌冲命宫或空劫羊陀组合=不宜创业（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "children",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-d42032f9554f2cc7bb7d",
+      "chapter": "二、专门领域知识",
+      "section": "2.6 子女晚辈规则",
+      "lineStart": 3541,
+      "lineEnd": 3545,
+      "domain": "children",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "子女晚辈",
+      "applicableConditions": "宫位：子女宫；必见星曜：巨门；空间：同宫",
+      "conditions": {
+        "palace": [
+          "子女宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "巨门"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【子女宫巨门】（巨门=口舌、暗、分析、辩论、是非；坐子女宫=孩子口才利索）\n- 本性：孩子嘴皮子利索，说理、口才一流，心思也灵；家里跟他斗嘴的机会多；孩子往语言、法律、教育那条路走很顺手（好/中）\n- 化禄引动：孩子靠嘴挣到钱（好）\n- 化忌引动：孩子口舌多是生非（坏）\n- 合伙视角（子女宫亦主合伙对象/合作/部属）：流年子女宫=合伙对象，看连续几年，合作关系脆弱易生变（中/风险）；本命子女宫化禄入财=有人出钱给命主创业（好）；子女宫忌冲命宫或空劫羊陀组合=不宜创业（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "children",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sensitive_decision",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-dc972696d37ba0ceacf6",
+      "chapter": "二、专门领域知识",
+      "section": "2.6 子女晚辈规则",
+      "lineStart": 3546,
+      "lineEnd": 3550,
+      "domain": "children",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "子女晚辈",
+      "applicableConditions": "宫位：子女宫；必见星曜：天相；空间：同宫",
+      "conditions": {
+        "palace": [
+          "子女宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天相"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【子女宫天相】（天相=印绶、文书、辅佐、行政、秩序；坐子女宫=孩子老实厚道）\n- 本性：孩子老实厚道，守规矩，亲子关系稳当，适合走行政、法务这类辅佐型的路；孩子不是闯荡型的，但让人踏实，父母后期能省心（好/中）\n- 三方忌煞（尤其擎羊）冲印：文书流程障碍——对应孩子升学、办证、文书类事情受阻（坏）\n- 逢忌煞小人：孩子易遇办事不诚实之象（风险）\n- 合伙视角（子女宫亦主合伙对象/合作/部属）：流年子女宫=合伙对象，看连续几年，合作关系脆弱易生变（中/风险）；本命子女宫化禄入财=有人出钱给命主创业（好）；子女宫忌冲命宫或空劫羊陀组合=不宜创业（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "children",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.6 子女晚辈规则",
+      "lineStart": 3561,
+      "lineEnd": 3605,
+      "domain": "children",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "子女晚辈",
+      "applicableConditions": "宫位：命宫、子女宫；四化：禄、忌；性别：女命；必见星曜：破军；空间：同宫、会照",
+      "conditions": {
+        "palace": [
+          "命宫",
+          "子女宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [
+          "female"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "破军"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【子女宫破军】（破军=破旧、开创、耗变、流动；坐子女宫=孩子独立早）\n- 本性：这孩子独立得早，翅膀硬了就走，不爱走寻常路，跟家里人的缘分差一些（中/坏）\n- 女命逢此：婚姻也多变动（坏/风险）\n- 化禄引动：彼此关系磕碰过后会好起来，越相处越牢（好）\n- 化忌引动：亲子之间变故多，聚散无常（坏）\n- 女命破军会照命宫、子女宫：孩子独立得早，翅膀硬了就走，做妈妈的在孩子这条线上的收获与波折并存；化禄时，跟孩子的缘分经波折之后反而站得住、更可靠；化忌当头的那阵子里，家宅里变数多一些，稳住就好（中）\n- 合伙视角（子女宫亦主合伙对象/合作/部属）：流年子女宫=合伙对象，看连续几年，合作关系脆弱易生变（中/风险）；本命子女宫化禄入财=有人出钱给命主创业（好）；子女宫忌冲命宫或空劫羊陀组合=不宜创业（坏）",
+      "specificity": 5,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "children",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-20290225025aba213328",
+        "md-5aea1d4cea751d9ce00b"
+      ]
+    },
+    {
+      "ruleId": "md-7b4e4f01f10e0a70a0ab",
+      "chapter": "二、专门领域知识",
+      "section": "2.12 现代场景映射规则",
+      "lineStart": 4269,
+      "lineEnd": 4273,
+      "domain": "children",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "生育自主与丁克",
+      "applicableConditions": "宫位：子女宫；必见星曜：地空；空间：同宫",
+      "conditions": {
+        "palace": [
+          "子女宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "地空"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【子女宫见空劫/化忌】（地空地劫=空亡、变化；子女宫=子女缘分与生育）\n- 地空同宫：可以读成一种生育选择的信号——丁克、晚育、辅助生殖这些现代家庭形态（中）\n- 空劫或化忌入子女宫：讲的是子女缘分和生育这件事本身，会作为一个人生的课题来盘算——是当事人自己的选择和考量，不是命中注定的结论（中/风险）\n- 逢吉化/吉星会照：子女缘分顺遂（好）\n- 煞星聚宫（空劫+羊陀火铃等，本宫+三方四正煞多）：该宫必有不愉悦事件，只显示主题（风险）\n- 子女宫空劫羊陀组合：不宜创业（坏）\n- 纪律：主题≠事件——单引动只报主题加重，不判必然，不预测生育能力（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "children",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation",
+        "support_stars"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    }
+  ]
+}

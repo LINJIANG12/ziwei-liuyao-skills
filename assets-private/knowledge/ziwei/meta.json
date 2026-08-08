@@ -1,0 +1,70 @@
+{
+  "module": "ziwei",
+  "source": {
+    "file": "src/renderer/packages/ziwei/knowledge-source.md",
+    "sha256": "69062f4f3160a465fbce25b869a6abb0c320e3c104eb001173d7a1752bfc0424",
+    "generatedAt": null,
+    "classificationVersion": "ziwei-markdown-classification-v1",
+    "originalCount": 828,
+    "includedCount": 828,
+    "excludedCount": 0,
+    "sourceProfiles": [
+      "provided_markdown"
+    ],
+    "calculationProfiles": [
+      "flying_star_v1",
+      "profile_neutral"
+    ],
+    "defaultCoreCount": 40,
+    "defaultTheoryCount": 40,
+    "retrievalRuleCount": 788,
+    "unclassifiedCount": 0,
+    "defaultSourceFiles": [
+      "src/renderer/packages/ziwei/knowledge-source.md"
+    ],
+    "retrievalSourceFiles": [
+      "src/renderer/packages/ziwei/knowledge-source.md"
+    ],
+    "excludedSourceFileCounts": {},
+    "excludedByReason": {},
+    "sourcePolicy": {
+      "defaultCoreFiles": [
+        "src/renderer/packages/ziwei/knowledge-source.md"
+      ],
+      "retrievalFiles": [
+        "src/renderer/packages/ziwei/knowledge-source.md"
+      ],
+      "retrievalCorpusFiles": [],
+      "excludedGroups": []
+    },
+    "frequencyBasis": "条件维度、星曜组合、空间关系和时间层的结构覆盖度；不代表现实概率或预测准确率。",
+    "runtimePolicy": "模型只能看到规则正文和语义适用条件；章节、行号、稳定 ID、路径和内部定位器只保留在编译资产。",
+    "counts": {
+      "ruleKind": {
+        "foundation_theory": 91,
+        "reference_table": 42,
+        "aphorism": 160,
+        "conditional_rule": 535
+      },
+      "claimStyle": {
+        "theory_or_boundary": 91,
+        "calculation": 42,
+        "traditional_aphorism": 61,
+        "conditional_explanation": 527,
+        "strong_claim": 107
+      },
+      "injectionMode": {
+        "default_core": 35,
+        "retrieval": 793
+      },
+      "calculationProfile": {
+        "profile_neutral": 822,
+        "flying_star_v1": 6
+      }
+    }
+  },
+  "defaultCoreCount": 35,
+  "retrievalRuleCount": 793,
+  "calibrationPalaceCount": 14,
+  "calibrationCombinationCount": 33
+}

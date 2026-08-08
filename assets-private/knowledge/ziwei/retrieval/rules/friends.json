@@ -1,0 +1,1002 @@
+{
+  "module": "ziwei",
+  "layer": "retrieval",
+  "category": "friends",
+  "count": 19,
+  "items": [
+    {
+      "ruleId": "md-80d23ba2931b14ca5f03",
+      "chapter": "二、专门领域知识",
+      "section": "2.8 人际交友规则",
+      "lineStart": 3736,
+      "lineEnd": 3739,
+      "domain": "friends",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "领域总纲",
+      "applicableConditions": "无附加条件",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "none",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "看人际这一块，先分清楚几个宫各自管什么：交友宫管朋友、下属、团队、贵人和小人；兄弟宫管同辈和对等的合作；父母宫管上级和权威圈；迁移宫管外面的社交场。交友宫的主星，要先分清两层：一层是朋友关系，一层是下属执行；然后看禄权科忌和吉煞，判断是支持、控制、名声还是损耗。",
+      "specificity": 0,
+      "ruleKind": "foundation_theory",
+      "claimStyle": "theory_or_boundary",
+      "categories": [
+        "friends",
+        "relationship",
+        "star_interpretation",
+        "theory"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 100,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.8 人际交友规则",
+      "lineStart": 3740,
+      "lineEnd": 3744,
+      "domain": "friends",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "人际交友",
+      "applicableConditions": "宫位：交友宫；必见星曜：紫微；空间：同宫",
+      "conditions": {
+        "palace": [
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "紫微"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【交友宫紫微】（紫微=帝星贵气、地位高；交友宫=朋友/下属/贵人/小人）\n- 本性（同宫/会照）：下属和朋友里有贵人，往往能交到身份地位比你高的朋友；但这种关系偏正式、走场面，知心朋友不多、真交心的少（好/中）\n- 化禄：人脉带财（好）\n- 化忌：贵人转小人，帮不上忙还可能碍事，防一手（坏）\n- 紫微+天魁：得贵人提拔；生意人得赚钱平台与男性贵人（好）\n- 紫微+擎羊：朋友/下属中有脾气暴躁的强势者，冲突性相处（坏）\n- 煞星聚宫（本宫+三方四正≥4煞）：交友宫必有不愉悦事件（坏）\n- 时间层（大限/流年交友宫引动）：贵人/小人应期在该限（中）；流/限交友宫飞忌入本命交友宫（同类宫相冲）=凶上加凶（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "friends",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-af399f0c12d022cbadb7",
+        "md-58a5d301a88735b315f3"
+      ]
+    },
+    {
+      "ruleId": "md-701b896c757bbc547eb8",
+      "chapter": "二、专门领域知识",
+      "section": "2.8 人际交友规则",
+      "lineStart": 3745,
+      "lineEnd": 3749,
+      "domain": "friends",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "人际交友",
+      "applicableConditions": "宫位：交友宫；必见星曜：天机；空间：同宫",
+      "conditions": {
+        "palace": [
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天机"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【交友宫天机】（天机=机变、人脉、善谋；交友宫=朋友/下属）\n- 本性：朋友脑子活、人脉广，但换来换去流动性强，真正的知己少（中）\n- 合作：合伙人也点子多，就是难持久（风险）\n- 化禄：靠朋友人脉生财（好）\n- 化忌：朋友多变，留神被聪明人拖累或坑一手（坏）\n- 逢煞（空劫）：人脉更虚、变动更多（坏）\n- 时间层（大限/流年交友宫引动）：朋友往来生财或变动在该限应期（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "friends",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-9784252341f4a9614c52",
+      "chapter": "二、专门领域知识",
+      "section": "2.8 人际交友规则",
+      "lineStart": 3750,
+      "lineEnd": 3754,
+      "domain": "friends",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "人际交友",
+      "applicableConditions": "宫位：交友宫；必见星曜：太阳；空间：同宫",
+      "conditions": {
+        "palace": [
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阳"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【交友宫太阳】（太阳=光明、地位、名声；交友宫=朋友/下属/公众资源）\n- 本性：朋友圈广，认识不少有名望、地位高的人，事业上能借到公众资源的光（好）\n- 入庙：贵人真出力（好）\n- 落陷：朋友帮不上什么，关系浮在表面（坏）\n- 化忌：朋友变成是非源头，小心被带坏名声（坏）\n- 逢煞（火铃/擎羊）：公开冲突、名声受累（坏）\n- 煞星聚宫（本宫+三方四正≥4煞）：交友宫必有不愉悦事件（坏）\n- 时间层（大限/流年交友宫引动）：借公众资源或名声是非在该限应期（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "friends",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-cd7bc9f0af25c0a5278b",
+      "chapter": "二、专门领域知识",
+      "section": "2.8 人际交友规则",
+      "lineStart": 3755,
+      "lineEnd": 3759,
+      "domain": "friends",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "人际交友",
+      "applicableConditions": "宫位：交友宫；必见星曜：武曲；空间：同宫",
+      "conditions": {
+        "palace": [
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "武曲"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【交友宫武曲】（武曲=财务/实干；交友宫=朋友/下属）\n- 本性：朋友实在，说话办事直接，往来以利益和合作为主，感情交流少；下属能干，执行力强（中/好）\n- 化禄：靠朋友拿到财务上的资源（好）\n- 化权：激进争取，朋友/下属中有人争主导（中/风险）\n- 化科：专业名声，朋友宜财务技术类往来（好）\n- 化忌：朋友翻脸，合伙有账目纠纷的风险（坏）\n- 武曲=财务/法律/金融/技术：化忌财务必有问题，账目要盯紧（坏）\n- 时间层（大限/流年交友宫引动）：朋友财务往来在该限应期（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "friends",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-566ac5a8be521647b03d",
+      "chapter": "二、专门领域知识",
+      "section": "2.8 人际交友规则",
+      "lineStart": 3760,
+      "lineEnd": 3764,
+      "domain": "friends",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "人际交友",
+      "applicableConditions": "宫位：交友宫；必见星曜：天同；空间：同宫",
+      "conditions": {
+        "palace": [
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天同"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【交友宫天同】（天同=福星、随和；交友宫=朋友/下属）\n- 本性：朋友关系和气，社交圈轻松愉快，但关系偏泛泛之交，深交的少；下属温顺配合，工作氛围好（好/中）\n- 化禄：朋友带来好机会（好）\n- 化权：朋友支持（好）\n- 化忌：朋友相处失和，合作懒散拖效率（坏）；天同化忌=福德受损生活波折（坏）\n- 时间层（大限/流年交友宫引动）：朋友机会或失和在该限应期（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "friends",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-ef6c613f8cb2ea018694",
+      "chapter": "二、专门领域知识",
+      "section": "2.8 人际交友规则",
+      "lineStart": 3765,
+      "lineEnd": 3769,
+      "domain": "friends",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "人际交友",
+      "applicableConditions": "宫位：交友宫；必见星曜：廉贞；空间：同宫",
+      "conditions": {
+        "palace": [
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "廉贞"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【交友宫廉贞】（廉贞=才艺、感情、复杂流程/官非；交友宫=朋友/下属）\n- 本性：朋友里才艺型、感情丰富的人多，圈里热闹；但感情纠纷也不少（中/风险）\n- 化忌：关系容易因为感情或者官非的事生变，小心被朋友牵连进是非里（坏）\n- 廉贞=复杂流程/行政/审核/法律：朋友牵连官非、债务、投诉、审查之事（风险）\n- 逢煞（擎羊/火铃）：官非是非升级（坏）\n- 时间层（大限/流年交友宫引动）：朋友感情/官非是非在该限应期（坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "friends",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.8 人际交友规则",
+      "lineStart": 3770,
+      "lineEnd": 3774,
+      "domain": "friends",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "人际交友",
+      "applicableConditions": "宫位：交友宫；必见星曜：天府；空间：同宫",
+      "conditions": {
+        "palace": [
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天府"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【交友宫天府】（天府=财库、稳重、守成；交友宫=朋友/下属）\n- 本性（同宫/会照）：朋友稳当可靠，圈子的水不浅、圈子质量高，交的多是有实力、有社会地位（有钱有地位）的稳健型人；下属踏实惠办事、执行有保证（好）\n- 保守：朋友关系偏保守，冒险的合作少，风险大的合作基本不碰（中）\n- 天府本性守财（守成型）：朋友/下属守成务实，合作稳但不出彩（中）\n- 逢化权化禄引动：朋友/下属中有老板经营象、管理资产能力强的人（好）\n- 化忌或忌冲坐财位库位：朋友资源破耗，不宜靠朋友投机（坏）\n- 时间层（大限/流年交友宫引动）：朋友助力或破耗在该限应期（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "friends",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-0556086f16f17dff4fdd",
+        "md-a5ded0a82e7a8242667c"
+      ]
+    },
+    {
+      "ruleId": "md-3c7536db6c4249e63280",
+      "chapter": "二、专门领域知识",
+      "section": "2.8 人际交友规则",
+      "lineStart": 3775,
+      "lineEnd": 3779,
+      "domain": "friends",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "人际交友",
+      "applicableConditions": "宫位：交友宫；必见星曜：太阴；空间：同宫",
+      "conditions": {
+        "palace": [
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【交友宫太阴】（太阴=细腻、女缘、温柔；交友宫=朋友/下属）\n- 本性：朋友多是温柔细腻型的，女性朋友缘好，圈子里人情味浓；下属细心，服务意识强（好）\n- 化禄：女性贵人多（好）\n- 化忌（男命）：女性朋友容易引是非或情感上的拉扯（坏）\n- 时间层（大限/流年交友宫引动）：女性贵人/是非在该限应期（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "friends",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-9423e52817cd027ff71c",
+      "chapter": "二、专门领域知识",
+      "section": "2.8 人际交友规则",
+      "lineStart": 3780,
+      "lineEnd": 3784,
+      "domain": "friends",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "人际交友",
+      "applicableConditions": "宫位：交友宫；必见星曜：贪狼；空间：同宫",
+      "conditions": {
+        "palace": [
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "贪狼"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【交友宫贪狼】（贪狼=才艺、欲望、竞争格星；交友宫=朋友/下属/圈层）\n- 本性：朋友圈广，多才多艺、欲望面活跃的朋友多，社交热闹，烟酒财气的圈子影响不小（中）\n- 化禄：人脉广、能生财（好）\n- 化忌：朋友带来欲望上的是非，合伙会因利益谈崩（坏）\n- 竞争格（贪狼为竞争格星）：圈内竞争较劲、欲望较劲，逢擎羊更激烈（中/风险）\n- 逢煞（擎羊/火铃）：欲望是非升级，小心被拖进赌局酒局（坏）\n- 时间层（大限/流年交友宫引动）：朋友带财或惹是非在该限应期（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "friends",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.8 人际交友规则",
+      "lineStart": 3785,
+      "lineEnd": 3789,
+      "domain": "friends",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "人际交友",
+      "applicableConditions": "宫位：交友宫；必见星曜：巨门；空间：同宫",
+      "conditions": {
+        "palace": [
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "巨门"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【交友宫巨门】（巨门=口舌、是非、暗财中介；交友宫=朋友/下属）\n- 本性（同宫/会照）：朋友里嘴皮子利索的多、能人多，是非也多；圈子里言语上的摩擦常见，口头纠扯容易上升到圈子层面，关系容易因误解走远（中/风险）\n- 化禄：这张嘴就是互助资源，嘴皮子互相帮；朋友成为中介、暗财渠道（好）\n- 化忌：朋友口角不断，言辞还能牵连到你的风险不小，朋友因为嘴上的事情拖累你的可能上升（坏）\n- 巨门=中介、暗职、解说代劳：朋友中多中介、代劳、解说型的人（中）\n- 巨门=暗财（转介绍费、暗钱）：化禄时朋友带来暗财、转介绍收入（好）\n- 竞争格（巨门为竞争格星）：逢擎羊口舌升级为争斗、竞争激烈（坏/风险）\n- 时间层（大限/流年交友宫引动）：朋友口舌是非在该限应期（中/坏）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "friends",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-889f08a69c3235f8410e",
+        "md-832160cf8aebfab5bbfc"
+      ]
+    },
+    {
+      "ruleId": "md-f4a114141b6718c35c58",
+      "chapter": "二、专门领域知识",
+      "section": "2.8 人际交友规则",
+      "lineStart": 3790,
+      "lineEnd": 3794,
+      "domain": "friends",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "人际交友",
+      "applicableConditions": "宫位：交友宫；必见星曜：天相；空间：同宫",
+      "conditions": {
+        "palace": [
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天相"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【交友宫天相】（天相=印星、辅佐、行政；交友宫=朋友/下属）\n- 本性：朋友忠厚靠得住，圈层水品稳；下属踏实，执行配合好，是能用的兵（好）\n- 互助：不太有利用人的时候，朋友往来以真诚互助为主（好）\n- 合伙：合伙人是稳健的行政型搭子（好/中）\n- 天相=服务技术性、衣食之事：朋友/下属宜服务技术类（中）\n- 三方忌煞（尤其擎羊）冲印：文书契约、介绍推荐受阻（坏）\n- 逢忌煞小人：朋友中有办事不诚实、出卖之象（坏）\n- 天相本身不四化：忌煞多来自三方引动（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "friends",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.8 人际交友规则",
+      "lineStart": 3795,
+      "lineEnd": 3799,
+      "domain": "friends",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "人际交友",
+      "applicableConditions": "宫位：交友宫；必见星曜：天梁；空间：同宫",
+      "conditions": {
+        "palace": [
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "天梁"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【交友宫天梁】（天梁=荫星、老成、贵人；交友宫=朋友/下属）\n- 本性（同宫/会照）：朋友里多有老成持重的明白人、老成的智者型，人生关键处有贵友伸手；下属有责任心，难的时候能压住阵脚、难局稳得住（好）\n- 支撑：朋友给你的是精神支撑和点拨、道义上的照顾（好）\n- 天梁=领导师傅长辈、带领培训升职学习：朋友/下属中多有师傅长辈型，能带培训、助升职（好）\n- 化科：贵友带名声给你（好）\n- 化忌：荫庇变淡，贵友难靠（坏）\n- 天梁+权禄：朋友/下属有带领力，能力好（好）\n- 天梁+擎羊：脾气不好办事冲动（坏）\n- 天梁+地空：不务正业不管事（坏）\n- 时间层（大限/流年交友宫引动）：贵友伸手或荫庇变淡在该限应期（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "friends",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-318e8ca27b4b42ea2b79",
+        "md-da34489099ebe1342c73"
+      ]
+    },
+    {
+      "chapter": "二、专门领域知识",
+      "section": "2.8 人际交友规则",
+      "lineStart": 3800,
+      "lineEnd": 3804,
+      "domain": "friends",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "人际交友",
+      "applicableConditions": "宫位：交友宫；必见星曜：七杀；空间：同宫",
+      "conditions": {
+        "palace": [
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "七杀"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【交友宫七杀】（七杀=刚烈、独立、战斗；交友宫=朋友/下属）\n- 本性（同宫/会照）：朋友少而精，圈里多是同样强势独立的实干派、强人同行；下属执行力强、执行干净利落，但关系偏冷（中）\n- 交情：处的是并肩打仗的交情，这种圈子的朋友能拼战斗（好/中）\n- 七杀=谈判者高能力、决定性快速之事：朋友/下属宜谈判攻坚型项目（中/好）\n- 化忌：关系经冲突崩盘，强势锋头互顶就散，宁可独行反而自在（坏）\n- 逢煞（擎羊/火铃）：冲突升级（坏）\n- 时间层（大限/流年交友宫引动）：朋友冲突或并肩战斗在该限应期（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "friends",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown",
+      "ruleIds": [
+        "md-ec8016db056b82f9656e",
+        "md-2cddaf4f22b3f51886d9"
+      ]
+    },
+    {
+      "ruleId": "md-acebf0a462c29bf4c131",
+      "chapter": "二、专门领域知识",
+      "section": "2.8 人际交友规则",
+      "lineStart": 3805,
+      "lineEnd": 3809,
+      "domain": "friends",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "人际交友",
+      "applicableConditions": "宫位：交友宫；必见星曜：破军；空间：同宫",
+      "conditions": {
+        "palace": [
+          "交友宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "same_palace",
+      "requiredStars": [
+        "破军"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【交友宫破军】（破军=变动、破旧迎新；交友宫=朋友/下属）\n- 本性：朋友圈流动特别大，一个阶段换一批人；下属待不长，合伙人各打各的算盘（中/坏）\n- 变与破：这个宫朋友带来的是变故和突破（中）\n- 化禄：在变动中有人帮你开出新局面（好）\n- 化忌：朋友添乱，合伙损财（坏）\n- 破军=破旧迎新、改革变动：朋友中多改革派，合作宜破旧立新（中）\n- 时间层（大限/流年交友宫引动）：朋友圈更替、朋友变故在该限应期（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "friends",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 98,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-73c7ea09b3d5463cf85a",
+      "chapter": "二、专门领域知识",
+      "section": "2.8 人际交友规则",
+      "lineStart": 3823,
+      "lineEnd": 3827,
+      "domain": "friends",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "人际交友",
+      "applicableConditions": "宫位：命宫；必见星曜：天同；空间：会照",
+      "conditions": {
+        "palace": [
+          "命宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "天同"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【天同坐命宫】（天同=福星、随和、享福命）\n- 本性：人温和好说话，乐观随和，不爱较劲，心里求的是舒服顺眼；感情丰富，对家人朋友温柔体贴（好）\n- 弱竞争：太随和容易没方向，在强竞争的环境里冒不出来（坏）；在和谐环境里能过得很滋润（好）\n- 定位：典型的享福命而不是冲刺命（中）\n- 天同化禄化科：轻松顺遂（好）；化权化忌：因无聊安逸而生压力（坏）\n- 天同化忌=福德受损生活波折（坏）\n- 时间层（大限/流年命宫引动）：顺遂或压力在该限应期（中）",
+      "specificity": 2,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "friends",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 92,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-5c2feb90e4edba8b5c02",
+      "chapter": "二、专门领域知识",
+      "section": "2.8 人际交友规则",
+      "lineStart": 3833,
+      "lineEnd": 3837,
+      "domain": "friends",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "人际交友",
+      "applicableConditions": "宫位：命宫、父母宫；四化：禄、忌；性别：男命；必见星曜：太阴；空间：会照",
+      "conditions": {
+        "palace": [
+          "命宫",
+          "父母宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "禄",
+          "忌"
+        ],
+        "gender": [
+          "male"
+        ],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "太阴"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【父母宫太阴会照命宫（男命）】（太阴=母亲/女性长辈）\n- 本性（男命）：家里爹妈女一方的影响更重些，母亲温柔体贴，家氛围暖；这一层关系也会影响你和长辈的相处方式（好）\n- 化禄：母亲是你最要的贵人（好）\n- 化忌（男命）：婆媳之间容易闹不和，你得在两头周旋（坏）\n- 时间层（大限/流年父母宫引动）：母亲/长辈之事在该限应期（中）",
+      "specificity": 5,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "friends",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 72,
+        "band": "medium",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-39ea9a9917c4f6d607c7",
+      "chapter": "二、专门领域知识",
+      "section": "2.8 人际交友规则",
+      "lineStart": 3838,
+      "lineEnd": 3842,
+      "domain": "friends",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "人际交友",
+      "applicableConditions": "无附加条件；空间：会照",
+      "conditions": {
+        "palace": [],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【巨门本性口才】（巨门=口舌、是非、辩才）\n- 本性：口才极佳，能辩，想得深，爱钻研，疑心偏重；心里头对真理有股子认真的劲儿，天生的辩手和律师底子（中）\n- 冲劲误人：嘴巴利索有时候说话冲、得罪人（坏）\n- 转化：把这股冲劲转成能说服人的沟通，反而出彩（好）\n- 巨门=中介、暗职、解说代劳：辩才宜中介、解说、法律、教育解说类工作（好）\n- 逢煞（擎羊/火铃）：口舌升级为争吵是非（坏）",
+      "specificity": 0,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "friends",
+        "pattern",
+        "relationship"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 92,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    },
+    {
+      "ruleId": "md-ade41974f7767ecabfa5",
+      "chapter": "二、专门领域知识",
+      "section": "2.8 人际交友规则",
+      "lineStart": 3853,
+      "lineEnd": 3857,
+      "domain": "friends",
+      "sourceProfile": "provided_markdown",
+      "calculationProfile": "profile_neutral",
+      "subject": "人际交友",
+      "applicableConditions": "宫位：父母宫；四化：科；必见星曜：天梁；空间：会照",
+      "conditions": {
+        "palace": [
+          "父母宫"
+        ],
+        "branch": [],
+        "yearStem": [],
+        "brightness": [],
+        "siHua": [
+          "科"
+        ],
+        "gender": [],
+        "ageScope": [],
+        "timeLayer": []
+      },
+      "relation": "meeting",
+      "requiredStars": [
+        "天梁"
+      ],
+      "excludedStars": [],
+      "modifiers": [],
+      "text": "【父母宫天梁化科】（天梁=荫星、长辈、上司）\n- 本性：父母荫护深，家里有古心人的长辈护着，祖上有积德；上司弯弯绕绕少，遇到的往往是能出力的贵人领导，真能提携你（好）\n- 化科：父母名声好，和上司处的缘常因为学识和个人品德被认可（好）\n- 天梁=领导师傅长辈、带领培训升职学习：上司/长辈能带你升职学习（好）\n- 天梁+权禄：上司/长辈有带领力，能力好（好）\n- 天梁+擎羊：上司/长辈脾气不好办事冲动（风险）\n- 化忌：荫庇变淡，贵人领导难靠（坏）\n- 时间层（大限/流年父母宫引动）：父母/上司之事在该限应期（中）",
+      "specificity": 3,
+      "ruleKind": "conditional_rule",
+      "claimStyle": "conditional_explanation",
+      "categories": [
+        "friends",
+        "palace_structure",
+        "pattern",
+        "relationship",
+        "sihua",
+        "star_interpretation"
+      ],
+      "injectionMode": "retrieval",
+      "defaultInject": false,
+      "sourcePriority": 2,
+      "frequency": {
+        "score": 82,
+        "band": "high",
+        "basis": "condition_breadth"
+      },
+      "resolution": "",
+      "status": "provided_markdown"
+    }
+  ]
+}
